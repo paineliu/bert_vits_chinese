@@ -100,6 +100,7 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
 
 
 def load_model(checkpoint_path, model):
+    print(checkpoint_path)
     assert os.path.isfile(checkpoint_path)
     checkpoint_dict = torch.load(checkpoint_path, map_location="cpu")
     saved_state_dict = checkpoint_dict["model"]

@@ -7,7 +7,7 @@ from pypinyin.core import load_phrases_dict
 
 from text import pinyin_dict
 from bert import TTSProsody
-
+import torch
 
 def is_chinese(uchar):
     if uchar >= u'\u4e00' and uchar <= u'\u9fa5':
@@ -63,8 +63,32 @@ class VITS_PinYin:
                 result += [a1, a2 + tone]
                 count_phone.append(2)
         return result, count_phone
+    
+    def text_to_words(self, text):
+        words = re.split(r"([\(\)])", text)
+        return words
+
+    def get_fix_pinyin(self, text):
+        sents = self.text_to_words(text)
+        words = ''
+        map_fix_pinyin = {}
+        skip = False
+        for i in range(len(sents)):
+            if sents[i] == '(' and len(sents) > i:
+                pos = len(words)
+                if (pos > 0):
+                    pos -= 1
+                map_fix_pinyin[pos] = sents[i+1]
+                skip = True
+            elif sents[i] == ')':
+                skip = False
+            else:
+                if not skip:
+                    words += sents[i]
+        return words, map_fix_pinyin
 
     def chinese_to_phonemes(self, text):
+        text, map_pinyin_fix = self.get_fix_pinyin(text)
         text = self.normalizer.normalize(text)
         text = clean_chinese(text)
         phonemes = ["sil"]
@@ -75,6 +99,8 @@ class VITS_PinYin:
             if (len(subtext) == 0):
                 continue
             pinyins = self.correct_pinyin_tone3(subtext)
+            for each in map_pinyin_fix:
+                pinyins[each] = map_pinyin_fix[each]
             sub_p, sub_c = self.get_phoneme4pinyin(pinyins)
             phonemes.extend(sub_p)
             phonemes.append("sp")
@@ -100,3 +126,23 @@ class VITS_PinYin:
                                   tone_sandhi=True)
         # , tone_sandhi=True -> 33变调
         return pinyin_list
+
+
+if __name__ == "__main__":
+    n = 0
+
+    # pinyin
+    tts_front = VITS_PinYin("./bert", torch.device("cpu"))
+
+    fo = open("vits_infer_item.txt", "r+", encoding='utf-8')
+    while (True):
+        try:
+            item = fo.readline().strip()
+        except Exception as e:
+            print('nothing of except:', e)
+            break
+        if (item == None or item == ""):
+            break
+        n = n + 1
+        phonemes, char_embeds = tts_front.chinese_to_phonemes(item)
+    fo.close()

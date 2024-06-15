@@ -5,6 +5,7 @@ import torch.nn.functional as F
 
 from transformers import BertModel, BertConfig, BertTokenizer
 
+# https://zhuanlan.zhihu.com/p/585086910
 
 class CharEmbedding(nn.Module):
     def __init__(self, model_dir):

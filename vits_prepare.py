@@ -112,22 +112,26 @@ if __name__ == "__main__":
             print('except:', e)
             continue
 
-        text = f'[PAD]{message}[PAD]'
-        char_embeds = prosody.get_char_embeds(text)
-        char_embeds = prosody.expand_for_phone(char_embeds, count_phone)
-        char_embeds_path = f"./data/berts/{fileidx}.npy"
-        np.save(char_embeds_path, char_embeds, allow_pickle=False)
+        try:
+            text = f'[PAD]{message}[PAD]'
+            char_embeds = prosody.get_char_embeds(text)
+            char_embeds = prosody.expand_for_phone(char_embeds, count_phone)
+            char_embeds_path = f"./data/berts/{fileidx}.npy"
+            np.save(char_embeds_path, char_embeds, allow_pickle=False)
 
-        wave_path = f"./data/waves/{fileidx}.wav"
-        spec_path = f"./data/temps/{fileidx}.spec.pt"
-        spec = get_spec(hps, wave_path)
+            wave_path = f"./data/waves/{fileidx}.wav"
+            spec_path = f"./data/temps/{fileidx}.spec.pt"
+            spec = get_spec(hps, wave_path)
 
-        torch.save(spec, spec_path)
-        scrips.append(
-            f"./data/waves/{fileidx}.wav|./data/temps/{fileidx}.spec.pt|./data/berts/{fileidx}.npy|{phone_items_str}")
-
+            torch.save(spec, spec_path)
+            scrips.append(
+                f"./data/waves/{fileidx}.wav|./data/temps/{fileidx}.spec.pt|./data/berts/{fileidx}.npy|{phone_items_str}")
+        except:
+            print(message)
     fo.close()
 
+    os.makedirs('./filelists', exist_ok=True)
+    
     fout = open(f'./filelists/all.txt', 'w', encoding='utf-8')
     for item in scrips:
         print(item, file=fout)

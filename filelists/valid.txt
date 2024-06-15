@@ -1,100 +1,100 @@
-./data/waves/000001.wav|./data/berts/000001.npy|sil k a2 ^ er2 p u3 p ei2 ^ uai4 s uen1 ^ uan2 h ua2 t i1 sp sil
-./data/waves/000002.wav|./data/berts/000002.npy|sil j ia2 ^ v3 c uen1 ^ ian2 b ie2 z ai4 ^ iong1 b ao4 ^ uo3 sp sil
-./data/waves/000003.wav|./data/berts/000003.npy|sil b ao2 m a3 p ei4 g ua4 b o3 l uo2 ^ an1 sp d iao1 ch an2 ^ van4 zh en3 d ong3 ^ ueng1 t a4 sp sil
-./data/waves/000004.wav|./data/berts/000004.npy|sil d eng4 x iao3 p ing2 ^ v3 s a4 q ie4 ^ er3 h uei4 ^ u4 sp sil
-./data/waves/000005.wav|./data/berts/000005.npy|sil l ao2 h u3 ^ iou4 z ai3 ^ v2 ch ong3 ^ u4 q van3 ^ uan2 sh ua3 sp sil
-./data/waves/000006.wav|./data/berts/000006.npy|sil sh en1 ch ang2 ^ ve1 ^ u2 ch iii3 ^ er4 c uen4 ^ u3 f en1 h uo4 ^ i3 sh ang4 sp sil
-./data/waves/000007.wav|./data/berts/000007.npy|sil zh ao4 d i2 ^ ve1 c ao2 ^ vn2 t eng2 q v4 g uei3 ^ u1 sp sil
-./data/waves/000008.wav|./data/berts/000008.npy|sil zh an2 p in3 s uei1 ^ iou3 sp zh an3 ^ van2 q ve4 t uei2 sp sil
-./data/waves/000009.wav|./data/berts/000009.npy|sil ^ i2 s an3 j v1 ^ er2 t ong2 h e2 ^ iou4 t uo1 ^ er2 t ong2 ^ uei2 zh u3 sp sil
-./data/waves/000010.wav|./data/berts/000010.npy|sil k e1 t e4 n i1 sh en1 ch uan1 b ao4 ^ uen2 d a4 ^ i1 sp sil
-./data/waves/000011.wav|./data/berts/000011.npy|sil ^ in3 c ai2 ^ iao4 sh ai1 sp ^ iong4 c ai2 ^ ie3 ^ iao4 sh ai1 sp sil
-./data/waves/000012.wav|./data/berts/000012.npy|sil n an2 ^ ve4 k uen1 l uen2 sh an1 ^ v3 x i1 z ang4 j ie1 r ang3 sp sil
-./data/waves/000013.wav|./data/berts/000013.npy|sil ^ ueng1 k ai3 l an2 f ang2 r u3 x ian4 ^ ai2 x van1 ch uan2 zh ao4 sp sil
-./data/waves/000014.wav|./data/berts/000014.npy|sil ^ uo3 h uei2 ^ iou4 h eng1 h eng5 z uo3 h eng1 h eng5 sp sil
-./data/waves/000015.wav|./data/berts/000015.npy|sil ^ u2 ^ vn2 b ao2 n ai3 n ai5 t iao1 x van3 p i2 p a2 sp sil
-./data/waves/000016.wav|./data/berts/000016.npy|sil c ii3 ^ uai4 g uang2 b en3 ^ ie3 j iang1 ^ iou2 sh ao4 zh uang4 p ai4 zh ang2 g uan3 sp sil
-./data/waves/000017.wav|./data/berts/000017.npy|sil ^ iou4 m an2 ^ u3 n iao2 n iao3 sp z uo3 q iong2 g e1 x i1 x i1 sp sil
-./data/waves/000018.wav|./data/berts/000018.npy|sil ^ ian3 k uang4 k uan1 k uo4 ^ er2 d i1 ^ ai3 sp b i2 d uan3 ^ er2 k uan1 sp sil
-./data/waves/000019.wav|./data/berts/000019.npy|sil x ia2 p u3 x ian4 ^ ia2 ch eng2 zh en4 ^ u1 q i2 sp ^ ua3 ^ iao2 c uen1 sh uei3 ^ uei4 m eng2 zh ang3 sp sil
-./data/waves/000020.wav|./data/berts/000020.npy|sil h uo4 s ii1 ^ ian4 l u4 b ei4 x iou4 r u3 g ou1 x ing4 g an3 r e2 h uo3 sp sil
-./data/waves/000021.wav|./data/berts/000021.npy|sil ^ ie3 k e2 ^ i3 g ei3 b en2 ^ uei3 ^ van2 f an3 ^ ing4 ^ iou5 sp sil
-./data/waves/000022.wav|./data/berts/000022.npy|sil ^ iao2 l an2 p ai2 g ai4 ^ uei2 j ian4 ^ ing1 ^ er2 p ei4 f ang1 n ai2 f en3 sp sil
-./data/waves/000023.wav|./data/berts/000023.npy|sil ^ e4 ^ v4 l u2 ^ uan3 s u1 j v2 d i4 d a4 b ao4 ^ v3 sp sil
-./data/waves/000024.wav|./data/berts/000024.npy|sil ^ i3 x ia4 ^ uei2 x ve1 m an2 z ii5 g uan1 d ian3 zh ai1 ^ iao4 sp sil
-./data/waves/000025.wav|./data/berts/000025.npy|sil ch en2 ^ v2 l uo4 ^ ian4 sp b i4 ^ ve4 x iou1 h ua1 sp sil
-./data/waves/000026.wav|./data/berts/000026.npy|sil ^ er2 x v3 g uan4 ^ ing1 ^ i4 j iang1 ^ v2 m ing2 r iii4 ch u1 b in4 sp sil
-./data/waves/000027.wav|./data/berts/000027.npy|sil ^ a1 j iao1 ^ v2 b ai3 ^ uei4 sp g uei2 f en3 s ii1 sp k uang2 h uan1 sp sil
-./data/waves/000028.wav|./data/berts/000028.npy|sil f ang2 ^ u1 m ai3 m ai4 q i4 ^ ve1 h e2 sh ou1 t iao2 sp sil
-./data/waves/000030.wav|./data/berts/000030.npy|sil h ei1 x iong2 ch uang3 j in4 ^ uang2 m ing2 h uei1 j ia1 h ou4 ^ van4 m i4 sh iii2 sp sil
-./data/waves/000031.wav|./data/berts/000031.npy|sil ^ u2 ^ ia4 j vn1 ^ v3 zh ang4 f u5 c ai4 k uei2 sp sil
-./data/waves/000032.wav|./data/berts/000032.npy|sil ^ ia4 x iao1 s uan1 ^ ian2 ^ uei4 ^ uei1 x ian2 sp ^ i4 r ong2 ^ v2 sh uei3 sp sil
-./data/waves/000033.wav|./data/berts/000033.npy|sil ^ van4 q iang2 b ei4 sh iii2 m ian2 ^ ua3 zh e1 ^ ian3 sh ang4 l e5 sp sil
-./data/waves/000034.wav|./data/berts/000034.npy|sil ch eng2 ^ in1 t iao1 x van2 ^ uo2 ^ ian3 zh ao4 ^ v4 m in3 sp sil
-./data/waves/000035.wav|./data/berts/000035.npy|sil ^ in2 ch iii1 m ao3 l iang2 sp ^ u2 ^ i4 ^ v2 ^ in3 zh en4 zh iii2 k e3 sp sil
-./data/waves/000036.wav|./data/berts/000036.npy|sil l v2 z ii5 ^ ve4 p ao3 ^ ve4 k uai4 sp ^ ve4 p ao3 ^ ve4 f eng1 k uang2 sp sil
-./data/waves/000038.wav|./data/berts/000038.npy|sil g uang1 g uen4 j ie2 ^ ing2 x iao1 ^ ing4 ^ vn4 ^ er2 sh eng1 sp sil
-./data/waves/000039.wav|./data/berts/000039.npy|sil g ao1 ^ ia1 t ie2 t a3 x ia4 d e5 d i1 ^ ai3 p eng2 ^ u1 sp sil
-./data/waves/000040.wav|./data/berts/000040.npy|sil d ian4 ^ ing2 h ai3 b ao4 sp p in2 m in2 k u1 b ai3 ^ uan4 f u4 ^ ueng1 sp sp sil
-./data/waves/000041.wav|./data/berts/000041.npy|sil d iao1 ^ uei2 l ie4 ^ i3 b ei4 l ing4 ^ an4 ch u2 l i3 sp sil
-./data/waves/000042.wav|./data/berts/000042.npy|sil ^ vn2 ^ u4 ^ iou3 sh iii2 ^ uan3 r u2 ^ v4 d ai4 p ing2 ^ uo4 f eng1 l uan2 sh an1 j ian1 sp ^ iou3 sh iii2 ch uei1 ^ ian1 n iao3 r ao4 sp b o2 ^ u4 q ing1 x van2 sp sil
-./data/waves/000043.wav|./data/berts/000043.npy|sil z uei3 b a5 zh ou1 ^ uei2 l ve4 ^ uei1 zh ong2 q i3 sp sil
-./data/waves/000044.wav|./data/berts/000044.npy|sil h uan1 sh eng1 x iao4 ^ v3 s a2 m an3 c uen1 zh uang1 sp sil
-./data/waves/000045.wav|./data/berts/000045.npy|sil sh a1 ch ang3 j ing4 ^ vn3 m ing4 sp zh uang4 zh iii4 ^ ie3 ^ u2 ^ uei2 sp sil
-./data/waves/000046.wav|./data/berts/000046.npy|sil ^ iou2 zh a2 d ou4 f u5 p en1 p en1 x iang1 sp s an3 z ii5 m a2 h ua1 b eng1 b eng1 c uei4 sp z ii3 m ei4 t uan2 z ii5 sh u3 ^ er4 j iang1 sp sil
-./data/waves/000048.wav|./data/berts/000048.npy|sil l in4 d ong1 ^ ing1 d e5 zh u4 ^ van4 b ing4 ^ an4 sp sil
-./data/waves/000049.wav|./data/berts/000049.npy|sil q van3 b i4 x v1 sh uan1 ^ iang3 h uo4 j van4 ^ iang3 sp sil
-./data/waves/000050.wav|./data/berts/000050.npy|sil h e4 l i4 h e2 ^ in4 d u4 d a4 h eng1 ^ a1 l ang2 n ai4 ^ er3 ^ i3 j ing1 f en1 j v1 sh u4 ^ ve4 sp sil
-./data/waves/000051.wav|./data/berts/000051.npy|sil n an4 x iong1 n an4 d i4 ^ iao4 h ao2 h ao3 q ie1 c uo1 q ie1 c uo1 sp sil
-./data/waves/000052.wav|./data/berts/000052.npy|sil x iao3 j vn1 d a4 t uei3 n ei4 c e4 ^ v1 q ing1 sp sil
-./data/waves/000053.wav|./data/berts/000053.npy|sil ^ i3 j i2 sp c ii2 x iong2 k ong2 z ii2 n iao3 sp f u4 ^ van2 t u2 sp sil
-./data/waves/000054.wav|./data/berts/000054.npy|sil ^ v3 n v2 ^ ian3 ^ van2 p ai1 ^ uen3 x i4 sp ch en2 x iao3 ch uen1 b u2 p a4 ^ ing4 c ai3 ^ er2 ch iii1 c u4 sp sil
-./data/waves/000055.wav|./data/berts/000055.npy|sil f ang3 zh en1 zh iii1 sp c u1 h ua1 n i2 d eng3 ^ in4 h ua1 m ian4 l iao4 d e5 q iao3 m iao4 ^ vn4 ^ iong4 sp sil
-./data/waves/000056.wav|./data/berts/000056.npy|sil ^ v3 ^ ve1 s e4 f u1 t ie1 m ian4 l ou3 b ao4 sp sil
-./data/waves/000057.wav|./data/berts/000057.npy|sil n u2 ^ er3 b ie2 ^ er3 d e2 ^ ie1 ^ ua2 q ing3 zh ou1 ^ iong3 k ang1 zh uan3 d a2 d uei4 ^ u2 b ang1 g uo2 ^ uei3 ^ van2 zh ang3 d e5 q in1 q ie4 ^ uen4 h ou4 sp sil
-./data/waves/000058.wav|./data/berts/000058.npy|sil j in1 ^ iou3 zh uang1 m an2 ^ er2 x ia4 zh ou1 j van1 sh en4 sp sil
-./data/waves/000059.wav|./data/berts/000059.npy|sil ^ uo2 ^ uo3 ^ uo2 ^ uo3 ^ uo2 ^ uo3 h e2 p ang4 z ii5 ^ i4 q i3 sp sil
-./data/waves/000060.wav|./data/berts/000060.npy|sil s ao3 s ao5 g ei3 z uo4 d e5 ^ iou2 m ian4 ^ uo1 ^ uo5 sp h e2 ^ iang2 r ou4 d uen4 sh an1 ^ iao4 sp sil
-./data/waves/000061.wav|./data/berts/000061.npy|sil m an4 s a4 n i2 ^ ve1 g ang2 k ou3 b ei4 g uan1 b i4 sp sil
-./data/waves/000062.wav|./data/berts/000062.npy|sil l iao4 b i4 ^ er2 m a2 ^ ia3 sh u1 h e2 l ao3 g ong1 sh ai4 ^ en1 ^ ai4 sp sil
-./data/waves/000063.wav|./data/berts/000063.npy|sil ^ ua4 z ii5 t an1 x iao3 l ao2 b an3 ch en2 ^ iong3 q van2 sp sil
-./data/waves/000064.wav|./data/berts/000064.npy|sil h e2 j i4 ch ou2 z ii1 ^ i1 d ian3 ^ i1 ^ er4 j iou3 ^ i1 ^ u2 ^ u3 ^ i4 ^ van2 sp sil
-./data/waves/000065.wav|./data/berts/000065.npy|sil n iao3 ^ er2 zh a1 zh a1 sp z ou4 q i3 ch en2 q v3 sp sil
-./data/waves/000066.wav|./data/berts/000066.npy|sil t i3 q iang2 zh uang4 ^ er2 h ou4 x ve2 ^ uen4 d ao4 d e2 zh iii1 j in4 x iou1 ^ iong3 ^ er2 sh ou1 x iao4 ^ van3 sp sil
-./data/waves/000067.wav|./data/berts/000067.npy|sil ^ uang3 g ou4 h uo4 ^ uang3 s ou1 g u3 m in2 x in4 x i1 sp ^ i3 g ao1 h uei2 b ao4 ^ uei2 ^ er3 sp q ing3 j vn1 r u4 ^ ueng4 sp sp sil
-./data/waves/000068.wav|./data/berts/000068.npy|sil t u2 ^ uei2 k ai2 m u3 b o2 ^ i1 sp x ie2 x ian4 sp ch ong1 c ii4 sp sil
-./data/waves/000069.wav|./data/berts/000069.npy|sil j i2 j iang1 d iao4 ^ v2 t ai2 sp h uang2 ^ uei2 ^ v3 sp ch iii4 ^ v3 s an1 d ao3 sh ang2 g ei3 sh eng4 x van1 h uai2 ^ uei2 ch an3 ^ ie4 sp g ong1 c ai3 ^ iao4 zh iii1 ^ iong4 sp sil
-./data/waves/000070.wav|./data/berts/000070.npy|sil ^ iong4 b u2 ^ iong4 ^ uo3 t i4 n i2 ^ u3 zh e5 z uei3 sp sil
-./data/waves/000071.wav|./data/berts/000071.npy|sil ^ er4 j ing4 j ia1 zh u4 b ei2 ^ u3 h uan2 ^ uai4 sp sh ang4 b an1 ^ iao4 q v4 ^ ia4 ^ vn4 c uen1 h ua2 t ang2 sh ang1 ch ang3 sp sil
-./data/waves/000072.wav|./data/berts/000072.npy|sil ^ iou3 g uan1 n eng2 f ou2 g ai3 k ong4 sp ch uan4 m ou2 sp sp sil
-./data/waves/000073.wav|./data/berts/000073.npy|sil b u4 l v3 n i2 ^ ie2 ^ v3 q ian2 f u1 zh e2 x ve2 j ia1 l a1 f ei2 ^ er3 ^ v4 ^ iou3 ^ i4 z ii3 sp sil
-./data/waves/000074.wav|./data/berts/000074.npy|sil ^ iou4 ^ iou3 sh uei2 k en2 sh e3 sh iii1 g ei3 t a1 n e5 sp sil
-./data/waves/000075.wav|./data/berts/000075.npy|sil q ie4 z ei2 l ou4 t uei3 z ii4 ch eng1 h uan4 sp m a2 f eng1 b ing4 sp sp sil
-./data/waves/000076.wav|./data/berts/000076.npy|sil l ao3 z u2 m u3 ^ i3 m ou2 sh a1 z uei4 b ei4 sh ou1 ^ ia1 sp sil
-./data/waves/000077.wav|./data/berts/000077.npy|sil ^ ai3 c uo2 q iong2 sp b ie2 x ia1 k ua1 sp sil
-./data/waves/000078.wav|./data/berts/000078.npy|sil ^ v2 z ai4 sh uei2 l i2 d a3 x van2 d e5 ^ uang3 ^ uai4 l uan4 b eng4 sp sil
-./data/waves/000079.wav|./data/berts/000079.npy|sil zh uo2 ^ uen2 j vn1 sh uo1 sp ^ uan3 r u2 sh an1 sh ang4 x ve3 sp j iao3 r uo4 ^ vn2 j ian1 ^ ve4 sp sil
-./data/waves/000080.wav|./data/berts/000080.npy|sil ^ i2 l ei4 m iao2 k e3 ^ uei4 m ing4 ^ vn4 d uo1 ch uan3 sp sil
-./data/waves/000081.wav|./data/berts/000081.npy|sil m ou2 x iao3 s ong2 k uai4 k uai4 k an4 k an5 sp sil
-./data/waves/000082.wav|./data/berts/000082.npy|sil t ie3 sh a1 zh ang3 ^ ai4 h ao4 zh e3 zh ang1 h uei1 b iao2 ^ ian3 p i1 zh uan1 sp sil
-./data/waves/000083.wav|./data/berts/000083.npy|sil ^ er2 l v3 ^ ie4 x in1 ^ ie3 b ei4 ^ i4 g en1 l in3 z ii5 ^ ia1 zh e5 sp sil
-./data/waves/000084.wav|./data/berts/000084.npy|sil zh uen1 zh uen1 d ing1 n ing2 sp ^ u4 ^ uang4 t ian1 sh an1 b u3 ^ v4 q ing2 sp sil
-./data/waves/000086.wav|./data/berts/000086.npy|sil ^ u4 ^ iong1 h uei4 ^ ian2 sp r en2 ^ iou3 j i4 x ing4 sp ^ i4 ^ iou3 ^ uang4 x ing4 sp sil
-./data/waves/000087.wav|./data/berts/000087.npy|sil c an1 h ou4 sp ^ i4 x ing2 r en2 ^ iou4 p ei2 ^ uang1 x iao3 f ei1 d ao4 l ing4 ^ i4 zh en2 s uo3 k an4 ^ er3 b i2 h ou2 k e1 sp sil
-./data/waves/000088.wav|./data/berts/000088.npy|sil g an4 m a2 ^ a5 n i3 ^ iou4 l ai2 g ou1 d a5 sh ei2 sp sil
-./data/waves/000089.wav|./data/berts/000089.npy|sil ^ ve1 ^ uan2 k a3 ^ v2 t ie3 t uo1 m ei2 ^ iou3 h ai2 z ii5 sp sil
-./data/waves/000090.wav|./data/berts/000090.npy|sil sh ou4 s uen3 s ong4 d ai4 g e1 ^ iao2 q ing1 ^ iou4 k uei2 b an4 k ou3 p an2 zh eng4 m ian4 s uen2 h uei3 h ou4 sp sil
-./data/waves/000091.wav|./data/berts/000091.npy|sil ^ ie3 h uan1 ^ ing2 ^ uei4 sh eng1 m ian2 ch ang3 sh ang1 zh ao2 ^ uo3 d ai4 ^ ian2 sp sil
-./data/waves/000092.wav|./data/berts/000092.npy|sil l ou2 ^ i2 ^ uang3 h uan2 k ong1 l ong2 m u3 sp q i2 l in2 m ai2 m o4 j i3 ch uen1 q iou1 sp sil
-./data/waves/000093.wav|./data/berts/000093.npy|sil r u2 h u4 f a4 h e2 h u4 ^ ian3 ^ iao4 d ai4 sh ang4 g uei1 j iao1 ^ iong3 m ao4 h e2 zh ai1 ch u2 ^ in3 x ing2 ^ ian3 j ing4 sp sil
-./data/waves/000094.wav|./data/berts/000094.npy|sil m a3 x vn4 ^ uei2 ^ v3 ^ iang2 ^ i2 d eng3 g ong4 d u4 sh eng1 r iii4 sp sil
-./data/waves/000096.wav|./data/berts/000096.npy|sil t u2 ^ uei2 zh ong1 sh an1 zh an1 ^ van2 g uang3 ^ iao1 q ian1 ^ v2 ^ iou2 k e4 p in3 ch ang2 ch ong2 ^ iang2 ^ i4 sh ou4 q ian1 s ou3 ^ ian4 sp sil
-./data/waves/000097.wav|./data/berts/000097.npy|sil x iao3 ^ uen2 j ie2 q van2 sh en1 k u1 sh ou4 r u2 ch ai2 sp sil
-./data/waves/000098.wav|./data/berts/000098.npy|sil q in2 m ou3 ^ iong4 l ian3 p en2 ^ iao2 sh uei3 j iang1 h uo3 p u1 m ie4 sp sil
-./data/waves/000099.wav|./data/berts/000099.npy|sil ^ an1 q van2 t ao4 z uo4 ch eng2 ^ u1 d u2 ^ ua2 ^ ua5 ^ iang4 z ii5 sp sil
-./data/waves/000100.wav|./data/berts/000100.npy|sil d i4 s an1 sh iii4 k ao3 ^ ia1 q ve1 j in1 d uan2 l iang3 sp sil
-./data/waves/000101.wav|./data/berts/000101.npy|sil ch uan2 m a3 ^ i1 l i2 h uai2 sh ang5 ^ er4 t ai1 sp sil
-./data/waves/000102.wav|./data/berts/000102.npy|sil f eng1 zh eng5 ^ iao4 x ian4 sp b en1 m a3 ^ iao4 j iang1 sp h ang2 ch uan2 ^ iao4 d uo4 sp sil
-./data/waves/000103.wav|./data/berts/000103.npy|sil j ia3 ^ van2 ^ van5 t uo1 g ao1 ^ ve4 sh ang4 l ou2 sp sil
-./data/waves/000104.wav|./data/berts/000104.npy|sil h ei1 p ao2 n iao2 sp x iao3 h ei1 sp sh iii5 l in2 b a1 g e1 sp sil
-./data/waves/000105.wav|./data/berts/000105.npy|sil t a1 ^ ve4 ^ en4 sp ^ uo3 ^ ve4 h uang1 sp f a1 d ong4 ^ ve4 m an4 sp sil
+./data/waves/0001.wav|./data/temps/0001.spec.pt|./data/berts/0001.npy|sil ^ iao4 x i3 d e5 zh ao4 p ian4 x van3 h ao3 l e5 m a5 sp sil
+./data/waves/0002.wav|./data/temps/0002.spec.pt|./data/berts/0002.npy|sil m a3 l i4 h e2 m ai4 k e4 ^ iao4 x van3 ^ i1 x ie1 z ai4 ch ang2 ch eng2 zh ao4 d e5 zh ao4 p ian4 q v4 x i3 sp sil
+./data/waves/0003.wav|./data/temps/0003.spec.pt|./data/berts/0003.npy|sil ^ uo3 m en5 z ai4 ch ang2 ch eng2 zh ao4 d e5 zh ao4 p ian4 x van3 h ao3 l e5 m a5 sp sil
+./data/waves/0004.wav|./data/temps/0004.spec.pt|./data/berts/0004.npy|sil x ia4 ^ u3 q v4 x i3 b a5 sp sil
+./data/waves/0005.wav|./data/temps/0005.spec.pt|./data/berts/0005.npy|sil h uan2 m ei2 x van3 n i2 sp sil
+./data/waves/0006.wav|./data/temps/0006.spec.pt|./data/berts/0006.npy|sil z an2 m en5 ^ i1 q i3 x van3 b a5 sp sil
+./data/waves/0007.wav|./data/temps/0007.spec.pt|./data/berts/0007.npy|sil k uai4 f ang4 d ao4 d ian4 n ao3 sh ang4 k an4 k an4 sp zh ao4 d e2 z en3 m e5 ^ iang2 sp sil
+./data/waves/0008.wav|./data/temps/0008.spec.pt|./data/berts/0008.npy|sil zh e4 x ie1 zh ao4 d e2 d u1 f ei1 ch ang2 h ao3 sp zh ang1 zh ang1 d u1 h en3 p iao1 l iang4 sp sil
+./data/waves/0009.wav|./data/temps/0009.spec.pt|./data/berts/0009.npy|sil zh e4 zh ang1 m ei2 zh ao4 h ao3 sp r en2 zh ao4 x iao3 l e5 sp sil
+./data/waves/0010.wav|./data/temps/0010.spec.pt|./data/berts/0010.npy|sil n i3 z ai4 k an4 k an4 zh e4 zh ang1 sp ^ ian3 j ing1 d u1 b i4 sh ang4 l e5 sp x iang4 sh uei4 zh ao2 l e5 ^ i1 ^ iang2 sp sil
+./data/waves/0011.wav|./data/temps/0011.spec.pt|./data/berts/0011.npy|sil zh e4 zh ang1 z en3 m e5 ^ iang2 sp sil
+./data/waves/0012.wav|./data/temps/0012.spec.pt|./data/berts/0012.npy|sil b u4 z en3 m e5 ^ iang2 sp sil
+./data/waves/0013.wav|./data/temps/0013.spec.pt|./data/berts/0013.npy|sil zh e4 zh ang1 zh ao4 d e2 ^ ie3 b u4 t ai4 h ao3 sp zh ao4 x v1 l e5 sp ^ i1 d ian3 ^ er2 ^ ie3 b u4 q ing1 ch u3 sp sil
+./data/waves/0014.wav|./data/temps/0014.spec.pt|./data/berts/0014.npy|sil zh ao4 d e2 b u4 h ao3 d e5 d u1 sh an1 l e5 b a5 sp sil
+./data/waves/0015.wav|./data/temps/0015.spec.pt|./data/berts/0015.npy|sil zh e4 l iang3 zh ang1 zh ao4 d e2 z uei4 h ao3 sp x iang4 ^ iou2 h ua4 ^ i1 ^ iang2 sp sil
+./data/waves/0016.wav|./data/temps/0016.spec.pt|./data/berts/0016.npy|sil f ang4 d a4 j i1 zh ang1 b a5 sp sil
+./data/waves/0017.wav|./data/temps/0017.spec.pt|./data/berts/0017.npy|sil n i3 k an4 f ang4 ch eng2 d uo1 d a4 d e5 sp sil
+./data/waves/0018.wav|./data/temps/0018.spec.pt|./data/berts/0018.npy|sil f ang4 ch eng2 sh iii2 c uen4 d e5 j iou4 x ing2 l e5 sp sil
+./data/waves/0019.wav|./data/temps/0019.spec.pt|./data/berts/0019.npy|sil ^ uo3 d e5 ^ ian3 j ing4 ^ er2 sh uai1 h uai4 l e5 sil
+./data/waves/0020.wav|./data/temps/0020.spec.pt|./data/berts/0020.npy|sil ^ i1 g e4 x ia4 x ve3 t ian1 d e5 z ao3 sh ang4 sp z ai4 b an4 g ong1 sh iii4 l i3 sp l iang3 g e4 r en2 z ai4 sh uo1 ch eng2 sh iii4 j iao1 t ong1 ^ uen4 t i2 sp sil
+./data/waves/0021.wav|./data/temps/0021.spec.pt|./data/berts/0021.npy|sil ^ ai1 ^ ia1 sp ch a4 d ian3 ^ er2 ch iii2 d ao4 sp sil
+./data/waves/0022.wav|./data/temps/0022.spec.pt|./data/berts/0022.npy|sil sh iii4 k ai1 ch e1 l ai2 d e5 m a5 sp sil
+./data/waves/0023.wav|./data/temps/0023.spec.pt|./data/berts/0023.npy|sil sh iii4 sp ^ i1 x ia4 x ve3 j iou4 d u3 ch e1 sp ^ iou4 p eng4 sh ang4 ^ i1 q i3 j iao1 t ong1 sh iii4 g u4 sp ^ uo3 d e5 ch e1 z ai4 l u4 sh ang4 zh eng3 zh eng3 d u3 l e5 ^ er4 sh iii2 f en1 zh ong1 sp sil
+./data/waves/0024.wav|./data/temps/0024.spec.pt|./data/berts/0024.npy|sil n i3 d e5 ^ ian3 j ing4 ^ er2 z en3 m e5 l e5 sp sil
+./data/waves/0025.wav|./data/temps/0025.spec.pt|./data/berts/0025.npy|sil b ie2 t i2 l e5 sp j in1 t ian1 d ao3 m ei2 d e2 h en3 sp sil
+./data/waves/0026.wav|./data/temps/0026.spec.pt|./data/berts/0026.npy|sil ^ uo3 g ang1 ch u1 m en2 j iou4 sh uai1 l e5 ^ i1 j iao1 sp ^ ian3 j ing4 ^ er2 ^ ie3 d iao4 z ai4 d i4 sh ang4 sh uai1 h uai4 l e5 sp sil
+./data/waves/0027.wav|./data/temps/0027.spec.pt|./data/berts/0027.npy|sil n i3 j i1 d ian3 c ong2 j ia1 l i3 ch u1 l ai2 d e5 sp sil
+./data/waves/0028.wav|./data/temps/0028.spec.pt|./data/berts/0028.npy|sil l iou4 d ian3 zh ong1 j iou4 c ong2 j ia1 l i3 ch u1 l ai2 l e5 sp n i3 k an4 sp k uai4 b a1 d ian3 l e5 c ai2 d ao4 sp sil
+./data/waves/0029.wav|./data/temps/0029.spec.pt|./data/berts/0029.npy|sil s uo3 ^ i3 sp ^ uo3 h uan2 sh iii4 ^ van4 ^ i4 q i2 ch e1 sh ang4 b an1 sp q i2 ch e1 n eng2 b ao3 zh eng4 sh iii2 j ian1 sp h uan2 k e3 ^ i3 d uan4 l ian4 sh en1 t i3 sp sil
+./data/waves/0030.wav|./data/temps/0030.spec.pt|./data/berts/0030.npy|sil k e3 sh iii4 sp n i3 b ie2 ^ uang4 l e5 sp q i2 ch e1 d e5 r en2 t ai4 d uo1 sp ^ iou3 d e5 r en2 ^ iou4 b u4 z uen1 sh ou3 j iao1 t ong1 g uei1 z e2 sp ^ ie3 sh iii4 z ao4 ch eng2 j iao1 t ong1 ^ iong3 j i3 d e5 zh u3 ^ iao4 ^ van2 ^ in1 zh iii1 ^ i1 sp sil
+./data/waves/0031.wav|./data/temps/0031.spec.pt|./data/berts/0031.npy|sil j in1 t ian1 d e5 sh iii4 g u4 j iou4 sh iii4 ^ i1 l iang4 z ii4 x ing2 ch e1 ^ in3 q i3 d e5 sp sil
+./data/waves/0032.wav|./data/temps/0032.spec.pt|./data/berts/0032.npy|sil ^ iou3 q i4 ch e1 d e5 r en2 ^ ie3 ^ i1 n ian2 b i3 ^ i1 n ian2 d uo1 sp ch eng2 sh iii4 j iao1 t ong1 sh iii4 ^ i1 g e4 d a4 ^ uen4 t i2 sp sil
+./data/waves/0033.wav|./data/temps/0033.spec.pt|./data/berts/0033.npy|sil ^ uo3 k an4 z uei4 h ao3 h uan2 sh iii4 g an3 k uai4 f a1 zh an3 d i4 t ie3 sp sil
+./data/waves/0034.wav|./data/temps/0034.spec.pt|./data/berts/0034.npy|sil x ing1 q i1 t ian1 sp ^ uo3 h e2 m ai4 k e4 ^ i1 q i3 q i2 ch e1 d ao4 t u2 sh u1 ch eng2 q v4 m ai3 sh u1 sp sil
+./data/waves/0035.wav|./data/temps/0035.spec.pt|./data/berts/0035.npy|sil t u2 sh u1 ch eng2 l i2 ^ uo3 m en5 x ve2 x iao4 b i3 j iao4 ^ van3 sp sil
+./data/waves/0036.wav|./data/temps/0036.spec.pt|./data/berts/0036.npy|sil n a4 t ian1 g ua1 f eng1 sp ^ uo3 m en5 q i2 l e5 ^ i1 g e4 d uo1 x iao3 sh iii2 c ai2 q i2 d ao4 sp sil
+./data/waves/0037.wav|./data/temps/0037.spec.pt|./data/berts/0037.npy|sil t u2 sh u1 ch eng2 h en3 d a4 sp l i3 b ian1 ^ iou3 h en3 d uo1 sh u1 d ian4 sp sil
+./data/waves/0038.wav|./data/temps/0038.spec.pt|./data/berts/0038.npy|sil m ei3 g e4 sh u1 d ian4 ^ uo3 m en5 d u1 x iang3 j in4 q v4 k an4 k an4 sp sil
+./data/waves/0039.wav|./data/temps/0039.spec.pt|./data/berts/0039.npy|sil ^ uo3 m en5 c ong2 ^ i1 g e4 sh u1 d ian4 z ou3 ch u1 l ai2 sp ^ iou4 z ou3 j in4 l ing4 ^ i1 g e4 sh u1 d ian4 sp sil
+./data/waves/0040.wav|./data/temps/0040.spec.pt|./data/berts/0040.npy|sil k an4 d ao4 sh u1 d ian4 l i3 ^ iou3 g e4 zh ong3 g e4 ^ iang2 d e5 sh u1 sp ^ uo3 h en3 x ing1 f en4 sp sil
+./data/waves/0041.wav|./data/temps/0041.spec.pt|./data/berts/0041.npy|sil c ong2 zh e4 g e4 sh u1 j ia4 sh ang4 n a2 x ia4 l ai2 ^ i1 b en3 k an4 k an4 sp z ai4 f ang4 sh ang4 q v4 sp ^ iou4 c ong2 l ing4 ^ i1 g e4 sh u1 j ia4 sh ang4 ch ou1 ch u1 l ai2 ^ i1 b en3 k an4 k an4 sp sil
+./data/waves/0042.wav|./data/temps/0042.spec.pt|./data/berts/0042.npy|sil ^ uo3 t iao1 l e5 j i1 b en3 l i4 sh iii3 sh u1 sp m ai4 k e4 x van3 l e5 ^ i1 x ie1 zh ong1 ^ uen2 x iao3 sh uo1 ^ er2 sp sil
+./data/waves/0043.wav|./data/temps/0043.spec.pt|./data/berts/0043.npy|sil k uai4 f ang4 h an2 j ia3 l e5 sp ^ uo3 m en5 d u1 x iang3 m ai3 ^ i1 x ie1 sh u1 d ai4 h uei2 g uo2 q v4 sp sil
+./data/waves/0044.wav|./data/temps/0044.spec.pt|./data/berts/0044.npy|sil ch u2 l e5 m ai3 sh u1 ^ i3 ^ uai4 sp ^ uo3 m en5 h uan2 x iang3 m ai3 ^ i1 x ie1 x iao3 l i3 p in3 sp d ai4 h uei2 q v4 s ong4 p eng2 ^ iou3 sp sil
+./data/waves/0045.wav|./data/temps/0045.spec.pt|./data/berts/0045.npy|sil ^ v2 sh iii4 ^ uo3 m en5 ^ iou4 z ou3 j in4 ^ i1 j ia1 sh ang1 ch ang2 q v4 sp sil
+./data/waves/0046.wav|./data/temps/0046.spec.pt|./data/berts/0046.npy|sil zh e4 j ia1 sh ang1 ch ang2 l i3 b ian1 sh en2 m e5 sh ang1 p in3 d u1 ^ iou3 sp sil
+./data/waves/0047.wav|./data/temps/0047.spec.pt|./data/berts/0047.npy|sil ^ uo3 m ai3 l e5 ^ i1 x ie1 j ing1 j v4 l ian3 p u3 d e5 x iao3 sh iii4 ^ u4 sp h uan2 m ai3 l e5 ^ i1 x ie1 s ii1 zh iii1 p in3 sp sil
+./data/waves/0048.wav|./data/temps/0048.spec.pt|./data/berts/0048.npy|sil m ai4 k e4 m ai3 l e5 h en3 d uo1 p iao1 l iang4 d e5 ^ iao4 ch iii2 l ian4 ^ er2 sp h uan2 m ai3 l e5 b u4 sh ao3 x iao3 ^ uan2 j v4 sp ^ iou3 x iao3 x iong2 m ao1 sp x iao3 q i4 ch e1 sh en2 m e5 d e5 sp sil
+./data/waves/0049.wav|./data/temps/0049.spec.pt|./data/berts/0049.npy|sil t a1 sh uo1 sp zh e4 x ie1 ^ uan2 j v4 d ai4 h uei2 q v4 s ong4 g ei3 x iao3 p eng2 ^ iou3 m en5 sp t a1 m en5 k en3 d ing4 x i3 h uan1 sp sil
+./data/waves/0050.wav|./data/temps/0050.spec.pt|./data/berts/0050.npy|sil sh ou4 h uo4 ^ van2 k an4 ^ uo3 m en5 m ai3 d e5 d ong1 x i1 d uo1 sp b u4 h ao3 n a2 sp j iou4 g ei3 ^ uo3 m en5 ^ i1 r en2 zh ao3 l e5 ^ i1 g e4 x iao3 zh iii3 x iang1 sp sil
+./data/waves/0051.wav|./data/temps/0051.spec.pt|./data/berts/0051.npy|sil ^ uo3 m en5 m ai3 d e5 sh u1 h e2 l i3 p in3 zh eng4 h ao3 d u1 n eng2 f ang4 j in4 q v4 sp sil
+./data/waves/0052.wav|./data/temps/0052.spec.pt|./data/berts/0052.npy|sil c ong2 sh ang1 ch ang2 ch u1 l ai2 sp ^ i3 j ing1 sh iii2 ^ er4 d ian3 d uo1 l e5 sp sil
+./data/waves/0053.wav|./data/temps/0053.spec.pt|./data/berts/0053.npy|sil ^ uo3 h e2 m ai4 k e4 z ou3 j in4 ^ i1 g e4 x iao3 f an4 g uan3 ^ er2 q v4 ch iii1 ^ u3 f an4 sp sil
+./data/waves/0054.wav|./data/temps/0054.spec.pt|./data/berts/0054.npy|sil ^ uo3 m en5 ^ iao4 l e5 ^ i1 p an2 j iao3 z ii3 h e2 j i1 g e4 c ai4 sp ch iii1 d e2 h en3 sh u1 f u2 sp sil
+./data/waves/0055.wav|./data/temps/0055.spec.pt|./data/berts/0055.npy|sil ch iii1 ^ uan2 f an4 sp ^ uo3 m en5 j iou4 q i2 ch e1 h uei2 l ai2 l e5 sp sil
+./data/waves/0056.wav|./data/temps/0056.spec.pt|./data/berts/0056.npy|sil h uei2 d ao4 x ve2 x iao4 sp ^ uo3 ^ iou4 l ei4 ^ iou4 k uen4 sp x iang3 g an3 k uai4 h uei2 d ao4 s u4 sh e4 q v4 x i3 g e4 z ao3 sp x iou1 x i1 x iou1 x i1 sp sil
+./data/waves/0057.wav|./data/temps/0057.spec.pt|./data/berts/0057.npy|sil ^ uo3 c ong2 ch e1 sh ang4 n a2 x ia4 x iao3 zh iii3 x iang1 sp sil
+./data/waves/0058.wav|./data/temps/0058.spec.pt|./data/berts/0058.npy|sil z ou3 j in4 l ou2 l ai2 sp k an4 j ian4 d ian4 t i1 m en2 k ou3 t ie1 l e5 zh ang1 t ong1 zh iii1 sp sp d ian4 t i1 ^ uei2 x iou1 sp q ing3 z ou3 l ou2 t i1 sp sp sil
+./data/waves/0059.wav|./data/temps/0059.spec.pt|./data/berts/0059.npy|sil ^ uo3 zh u4 sh iii2 c eng2 sp m ei2 b an4 f a3 sp zh iii3 h ao3 p a2 sh ang4 q v4 sp sil
+./data/waves/0060.wav|./data/temps/0060.spec.pt|./data/berts/0060.npy|sil ^ uo3 sh ou3 l i3 t i2 zh ao2 ^ i1 x iang1 z ii3 d ong1 x i1 sp ^ i1 b u4 ^ i1 b u4 d i4 ^ uang3 sh ang4 p a2 sp sil
+./data/waves/0061.wav|./data/temps/0061.spec.pt|./data/berts/0061.npy|sil p a2 l e5 b an4 t ian1 c ai2 p a2 d ao4 sh iii2 c eng2 sp sil
+./data/waves/0062.wav|./data/temps/0062.spec.pt|./data/berts/0062.npy|sil d ao4 l e5 m en2 k ou3 sp ^ uo3 f ang4 x ia4 x iang1 z ii3 sp ^ iao4 n a2 ch u1 ^ iao4 ch iii2 k ai1 m en2 d e5 sh iii2 h ou4 sp q ve4 f a1 x ian4 ^ iao4 ch iii2 b u4 j ian4 l e5 sp zh ao3 l e5 b an4 t ian1 ^ ie3 m ei2 ^ iou3 zh ao3 d ao4 sp sil
+./data/waves/0063.wav|./data/temps/0063.spec.pt|./data/berts/0063.npy|sil ^ a5 sp sil
+./data/waves/0064.wav|./data/temps/0064.spec.pt|./data/berts/0064.npy|sil ^ uo3 h u1 r an2 x iang3 q i3 l ai2 l e5 sp ^ iao4 ch iii2 h uan2 z ai4 l ou2 x ia4 z ii4 x ing2 ch e1 sh ang4 ch a1 zh ao2 n i2 sp ^ uo3 ^ uang4 b a2 x ia4 l ai2 l e5 sp sil
+./data/waves/0065.wav|./data/temps/0065.spec.pt|./data/berts/0065.npy|sil zh e4 sh iii2 sp ^ uo3 zh en1 sh iii4 k u1 x iao4 b u4 d e2 sp sil
+./data/waves/0066.wav|./data/temps/0066.spec.pt|./data/berts/0066.npy|sil ^ uo3 g ang1 ^ iao4 p ao3 x ia4 l ou2 q v4 sp j iou4 k an4 j ian4 m ai4 k e4 ^ ie3 p a2 sh ang4 l ai2 l e5 sp t a1 sh ou3 l i3 n a2 d e5 zh eng4 sh iii4 ^ uo3 d e5 n a4 ch uan4 ^ er2 ^ iao4 ch iii2 sp sil
+./data/waves/0067.wav|./data/temps/0067.spec.pt|./data/berts/0067.npy|sil h uei4 ^ i4 t ing1 d e5 m en2 k ai1 zh ao2 n i2 sp sil
+./data/waves/0068.wav|./data/temps/0068.spec.pt|./data/berts/0068.npy|sil m a3 l i4 h e2 m ai4 k e4 d ao4 h uei4 ^ i4 zh ong1 x in1 q v4 zh ao3 ^ i1 g e4 p eng2 ^ iou3 sp t a1 m en5 z ai4 q ian2 t ai2 ^ uen4 f u2 ^ u4 ^ van2 sil
+./data/waves/0069.wav|./data/temps/0069.spec.pt|./data/berts/0069.npy|sil q ing3 ^ uen4 sp g ang1 c ai2 j in4 q v4 ^ i1 ^ uei4 n v3 sh iii4 sp n i3 k an4 j ian4 m ei2 ^ iou3 sp sil
+./data/waves/0070.wav|./data/temps/0070.spec.pt|./data/berts/0070.npy|sil sh en2 m e5 n v3 sh iii4 sp sil
+./data/waves/0071.wav|./data/temps/0071.spec.pt|./data/berts/0071.npy|sil ch ang2 d e2 sh en2 m e5 ^ iang2 sp sil
+./data/waves/0072.wav|./data/temps/0072.spec.pt|./data/berts/0072.npy|sil t a1 g e4 z ii3 g ao1 g ao1 d e5 sp d a4 g ai4 ^ iou3 ^ i1 m i3 q i1 z uo3 ^ iou4 sp h uang2 t ou2 f a1 sp d a4 ^ ian3 j ing1 sp d ai4 zh ao2 ^ i1 f u4 ^ ian3 j ing4 ^ er2 sp sil
+./data/waves/0073.wav|./data/temps/0073.spec.pt|./data/berts/0073.npy|sil sh ang4 sh en1 ch uan1 zh ao2 ^ i1 j ian4 h ong2 s e4 d e5 x i1 f u2 sp x ia4 b ian1 ch uan1 zh ao2 ^ i1 t iao2 h ei1 s e4 d e5 q vn2 z ii3 sp sil
+./data/waves/0074.wav|./data/temps/0074.spec.pt|./data/berts/0074.npy|sil sh iii4 g an1 sh en2 m e5 d e5 sp sil
+./data/waves/0075.wav|./data/temps/0075.spec.pt|./data/berts/0075.npy|sil sh iii4 d ian4 sh iii4 t ai2 d e5 zh u3 ch iii2 r en2 sp sil
+./data/waves/0076.wav|./data/temps/0076.spec.pt|./data/berts/0076.npy|sil h ou4 b ian1 sh iii4 b u4 sh iii4 h uan2 g en1 zh ao2 l iang3 g e4 x iao3 h uo3 z ii3 sp k ang2 zh ao2 sh e4 x iang4 j i1 sp sil
+./data/waves/0077.wav|./data/temps/0077.spec.pt|./data/berts/0077.npy|sil d uei4 sp sil
+./data/waves/0078.wav|./data/temps/0078.spec.pt|./data/berts/0078.npy|sil h uei4 ^ i4 t ing1 d e5 m en2 k ai1 zh ao2 n i2 sp n i3 m en5 j in4 q v4 zh ao3 b a5 sp sil
+./data/waves/0079.wav|./data/temps/0079.spec.pt|./data/berts/0079.npy|sil l i3 b ian1 zh eng4 k ai1 zh ao2 h uei4 n i2 m a5 sp sil
+./data/waves/0080.wav|./data/temps/0080.spec.pt|./data/berts/0080.npy|sil m ei2 ^ iou3 sp sil
+./data/waves/0081.wav|./data/temps/0081.spec.pt|./data/berts/0081.npy|sil n i3 m en5 k an4 sp sh iii4 b u4 sh iii4 sh ou3 l i3 n a2 zh ao2 m ai4 k e4 f eng1 sp d uei4 zh ao2 sh e4 x iang4 j i1 j iang3 h ua4 d e5 n a4 ^ uei4 sp sil
+./data/waves/0082.wav|./data/temps/0082.spec.pt|./data/berts/0082.npy|sil d uei4 sp j iou4 sh iii4 t a1 sp sil
+./data/waves/0083.wav|./data/temps/0083.spec.pt|./data/berts/0083.npy|sil t a1 m en5 zh eng4 d eng3 zh ao2 ^ uo3 m en5 n i2 sp sil
+./data/waves/0084.wav|./data/temps/0084.spec.pt|./data/berts/0084.npy|sil n i3 m en5 j in4 q v4 b a5 sp sil
+./data/waves/0085.wav|./data/temps/0085.spec.pt|./data/berts/0085.npy|sil x ie4 x ie4 l a5 sp sil
+./data/waves/0086.wav|./data/temps/0086.spec.pt|./data/berts/0086.npy|sil b u4 k e4 q i4 sp sil
+./data/waves/0087.wav|./data/temps/0087.spec.pt|./data/berts/0087.npy|sil q iang2 sh ang4 t ie1 zh ao2 h ong2 sh uang1 x i3 z ii4 sil
+./data/waves/0088.wav|./data/temps/0088.spec.pt|./data/berts/0088.npy|sil m ai4 k e4 c an1 j ia1 l e5 ^ i1 g e4 zh ong1 g uo2 p eng2 ^ iou3 d e5 h uen1 l i3 sp sp sil
+./data/waves/0089.wav|./data/temps/0089.spec.pt|./data/berts/0089.npy|sil n i3 z uo2 t ian1 q v4 n a3 ^ er2 l e5 sp sil
+./data/waves/0090.wav|./data/temps/0090.spec.pt|./data/berts/0090.npy|sil zh ang1 d ong1 d ai4 ^ uo3 q v4 c an1 j ia1 l e5 ^ i1 g e4 zh ong1 g uo2 r en2 d e5 h uen1 l i3 sp sil
+./data/waves/0091.wav|./data/temps/0091.spec.pt|./data/berts/0091.npy|sil z en3 m e5 ^ iang2 sp sil
+./data/waves/0092.wav|./data/temps/0092.spec.pt|./data/berts/0092.npy|sil t ing1 sh uo1 zh ong1 g uo2 r en2 d e5 h uen1 l i3 h en3 r e4 n ao4 sp sil
+./data/waves/0093.wav|./data/temps/0093.spec.pt|./data/berts/0093.npy|sil sh iii4 sp sil
+./data/waves/0094.wav|./data/temps/0094.spec.pt|./data/berts/0094.npy|sil ^ uo3 sh iii4 d i4 ^ i1 c ii4 c an1 j ia1 zh e4 ^ iang2 d e5 h uen1 l i3 sp sil
+./data/waves/0095.wav|./data/temps/0095.spec.pt|./data/berts/0095.npy|sil ^ u1 z ii3 l i3 g ua4 zh ao2 d a4 h ong2 d eng1 l ong2 sp q iang2 sh ang4 t ie1 zh ao2 ^ i1 g e4 h en3 d a4 d e5 h ong2 sh uang1 x i3 z ii4 sp sil
+./data/waves/0096.wav|./data/temps/0096.spec.pt|./data/berts/0096.npy|sil zh uo1 z ii3 sh ang4 b ai3 zh ao2 h en3 d uo1 j iou3 h e2 c ai4 sp sil
+./data/waves/0097.wav|./data/temps/0097.spec.pt|./data/berts/0097.npy|sil x in1 n iang2 ch ang2 d e2 h en3 p iao1 l iang4 sp ch uan1 zh ao2 ^ i1 j ian4 h ong2 m ian2 ^ ao3 sp t ou2 sh ang4 h uan2 d ai4 zh ao2 h ong2 h ua1 sp sil
+./data/waves/0098.wav|./data/temps/0098.spec.pt|./data/berts/0098.npy|sil x in1 l ang2 sh iii4 ^ i1 g e4 sh uai4 x iao3 h uo3 ^ er2 sp ch uan1 zh ao2 ^ i1 sh en1 sh en1 l an2 s e4 d e5 x i1 f u2 sp x i4 zh ao2 h ong2 l ing3 d ai4 sp sil
+./data/waves/0099.wav|./data/temps/0099.spec.pt|./data/berts/0099.npy|sil sp h uan1 ^ ing2 sp sil
+./data/waves/0100.wav|./data/temps/0100.spec.pt|./data/berts/0100.npy|sil h uan1 ^ ing2 sp sp sil
