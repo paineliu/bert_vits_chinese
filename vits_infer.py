@@ -13,7 +13,7 @@ from vits_pinyin import VITS_PinYin
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
 parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
-parser.add_argument('--model', type=str, default='logs/bert_vits/G_210000.pth')
+parser.add_argument('--model', type=str, default='logs/bert_vits/G_450000.pth')
 args = parser.parse_args()
 
 def save_wav(wav, path, rate):
