@@ -13,7 +13,7 @@ from vits_pinyin import VITS_PinYin
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
 parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
-parser.add_argument('--model', type=str, default='logs/bert_vits/G_450000.pth')
+parser.add_argument('--model', type=str, default='logs/bert_vits/G_3470000.pth')
 args = parser.parse_args()
 
 def save_wav(wav, path, rate):
@@ -37,7 +37,7 @@ net_g = utils.load_class(hps.train.eval_class)(
     hps.train.segment_size // hps.data.hop_length,
     **hps.model)
 
-# model_path = "logs/bert_vits/G_200000.pth"
+# model_path = "logs/bert_vits/G_1130000.pth"
 # utils.save_model(net_g, "vits_bert_model.pth")
 # model_path = "vits_bert_model.pth"
 utils.load_model(args.model, net_g)
@@ -64,6 +64,6 @@ if __name__ == "__main__":
             x_tst_lengths = torch.LongTensor([len(input_ids)]).to(device)
             x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(device)
             audio = net_g.infer(x_tst, x_tst_lengths, x_tst_prosody, noise_scale=0.5,
-                                length_scale=1)[0][0, 0].data.cpu().float().numpy()
+                                length_scale=1.0)[0][0, 0].data.cpu().float().numpy()
         save_wav(audio, f"./vits_infer_out/bert_vits_{n}.wav", hps.data.sampling_rate)
     fo.close()
