@@ -8,8 +8,8 @@ data_fmale/
 data_male/
 filelists_fmale/
 filelists_male/
+out/
 *.c
 *.pth
 *.so
 *.pt
-

@@ -46,7 +46,7 @@ def load_pinyin_dict():
 
 class VITS_PinYin:
     def __init__(self, bert_path, device, hasBert=True):
-        load_pinyin_dict()
+        # load_pinyin_dict()
         self.hasBert = hasBert
         if self.hasBert:
             self.prosody = TTSProsody(bert_path, device)
