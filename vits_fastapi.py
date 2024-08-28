@@ -44,19 +44,10 @@ app = FastAPI(lifespan=lifespan)
 async def request_validation_exception_handler(request: Request, exc: RequestValidationError):
     print(f"The parameter is incorrect. {request.method} {request.url}")
     return JSONResponse({"code": "400", "message": exc.errors()})
-
-
-class TtsRepData(BaseModel):
-    url: str
-
-class TtsRepModel(BaseModel):
-    code:int = 200
-    message:str = "OK"
-    data:TtsRepData
     
 class TtsModel(BaseModel):
     token:str = ''
-    vcn:str = 'zh-CN-XiaoxiaoNeural'
+    vcn:str = 'zh-CN-Xiaoyu'
     speed:float = 1.0
     volume:float = 1.0
     text:str
@@ -64,21 +55,18 @@ class TtsModel(BaseModel):
 
 @app.post("/tts")
 async def tts(ttsModel: TtsModel):
-    print('{} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump()))
     start = time.time()
     args = ttsModel.model_dump()
     filename = g_vits.infer(args['text'])
-    print(filename)
     end = time.time()
-    f = filename
- 
-    print(Path(f).name)
- 
+
     fr = FileResponse(
-        path=f,
-        filename=Path(f).name,
+        path=filename,
+        filename=Path(filename).name,
     )
- 
+    
+    print('{} {} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump(), end - start))
+    
     return fr
 
 if __name__ == "__main__":
