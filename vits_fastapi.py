@@ -21,7 +21,7 @@ def parse_args():
     parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
     parser.add_argument('--model', type=str, default='logs/bert_vits/G_3470000.pth')
     parser.add_argument('-m', '--message', type=int, default=1, required=False, help='output debug message')
-    parser.add_argument('-p', '--port', type=int, default=8112, required=False, help='port number')
+    parser.add_argument('-p', '--port', type=int, default=8113, required=False, help='port number')
     parser.add_argument('-w', '--workers', type=int, default=1, required=False, help='worker number')
 
     return parser.parse_args()
@@ -64,7 +64,7 @@ async def tts(ttsModel: TtsModel):
         path=filename,
         filename=Path(filename).name,
     )
-    
+
     print('{} {} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump(), end - start))
     
     return fr
