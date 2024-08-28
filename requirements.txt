@@ -3,3 +3,9 @@ Cython
 transformers
 tensorboard
 WeTextProcessing
+pypinyin
+scipy
+pydub
+fastapi
+uvicorn
+monotonic_align

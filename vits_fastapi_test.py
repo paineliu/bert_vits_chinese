@@ -29,7 +29,7 @@ def test_tts(ip, port, text):
 
 
 if __name__ == "__main__":
-    svr_ip = '202.112.194.53'
-    svr_port = '8112'
+    svr_ip = '202.112.194.54'
+    svr_port = '8113'
     
-    test_tts(svr_ip, svr_port, '苹果能吃吗？不可以！')
+    test_tts(svr_ip, svr_port, '苹果能吃吗？可以吃！')
