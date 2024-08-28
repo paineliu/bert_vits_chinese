@@ -13,6 +13,7 @@ from text import cleaned_text_to_sequence
 from vits_pinyin import VITS_PinYin
 import hashlib
 import time
+import logging
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
 parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
@@ -49,6 +50,8 @@ class VitsInfer():
         wavfile.write(path, rate, wav.astype(np.int16))
 
     def wav2mp3(self, wav_filename, mp3_filename):
+        l = logging.getLogger("pydub.converter")
+        l.setLevel(logging.ERROR)
         sourcefile = AudioSegment.from_wav(wav_filename)
         sourcefile.export(mp3_filename, format="mp3")
 
