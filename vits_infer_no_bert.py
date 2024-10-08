@@ -12,8 +12,8 @@ from text import cleaned_text_to_sequence
 from vits_pinyin import VITS_PinYin
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
-parser.add_argument('--config', type=str, required=True)
-parser.add_argument('--model', type=str, required=True)
+parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
+parser.add_argument('--model', type=str, default='logs/bert_vits/G_1760000.pth')
 args = parser.parse_args()
 
 def save_wav(wav, path, rate):

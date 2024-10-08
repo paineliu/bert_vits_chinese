@@ -13290,3 +13290,15499 @@
 	hao3 duo1 nian2 guo4 qu4 le5 ru2 yan1 de5 wang3 shi4 zong3 shi4 sui2 zhao2 sui4 yue4 de5 qing1 feng1 zai4 dan4 dan4 di4 san4 qu4 dan4 zhe4 yi1 jian4 fa1 sheng1 zai4 yao2 yuan3 de5 tong2 nian2 shi2 dai4 de5 xiao3 shi4 que4 yi1 zhi2 shen1 shen1 di4 liu2 zai4 wo3 de5 ji4 yi4 zhong1 mei3 dang1 bi4 mu4 hui2 xiang3 jiu4 hao3 xiang4 fa1 sheng1 zai4 zuo2 tian1 yi1 yang2
 6661	感谢这珍贵的记忆，它时刻唤起我对世上一切生灵的深深的爱。
 	gan3 xie4 zhe4 zhen1 gui4 de5 ji4 yi4 ta1 shi2 ke4 huan4 qi3 wo3 dui4 shi4 shang4 yi1 qie1 sheng1 ling2 de5 shen1 shen1 de5 ai4
+10000	锕
+	a1
+10001	阿哥
+	a1 ge1
+10002	阿宜
+	a1 yi2
+10003	哎
+	ai1
+10004	哀悼
+	ai1 dao4
+10005	哀求
+	ai1 qiu2
+10006	哎呀
+	ai1 ya1
+10007	哎唷
+	ai1 yo1
+10008	皑
+	ai2
+10009	矮
+	ai3
+10010	愛
+	ai4
+10011	爱戴
+	ai4 dai4
+10012	爱国
+	ai4 guo2
+10013	爱好
+	ai4 hao4
+10014	爱好者
+	ai4 hao4 zhe3
+10015	爱护
+	ai4 hu4
+10016	碍面子
+	ai4 mian4 zi5
+10017	爱情
+	ai4 qing2
+10018	隘人
+	ai4 ren2
+10019	碍事
+	ai4 shi4
+10020	爱惜
+	ai4 xi1
+10021	爱心
+	ai4 xin1
+10022	艾滋病
+	ai4 zi1 bing4
+10023	安
+	an1
+10024	安定
+	an1 ding4
+10025	安静
+	an1 jing4
+10026	安宁
+	an1 ning2
+10027	安排
+	an1 pai2
+10028	安痊
+	an1 quan2
+10029	安全感
+	an1 quan2 gan3
+10030	庵蔚
+	an1 wei4
+10031	安稳
+	an1 wen3
+10032	谙详
+	an1 xiang2
+10033	安新
+	an1 xin1
+10034	闇质
+	an1 zhi4
+10035	安装
+	an1 zhuang1
+10036	按
+	an4
+10037	黯黯
+	an4 an4
+10038	黯澹
+	an4 dan4
+10039	案剑
+	an4 jian4
+10040	按劳分配
+	an4 lao2 fen1 pei4
+10041	按期
+	an4 qi1
+10042	案情
+	an4 qing2
+10043	案杀
+	an4 sha1
+10044	案时
+	an4 shi2
+10045	犴噬
+	an4 shi4
+10046	案照
+	an4 zhao4
+10047	暗中
+	an4 zhong1
+10048	㭿
+	ang2
+10049	昂贵
+	ang2 gui4
+10050	䫜
+	ao1
+10051	嗷
+	ao2
+10052	奧
+	ao4
+10053	慠慢
+	ao4 man4
+10054	奥秘
+	ao4 mi4
+10055	巴
+	ba1
+10056	巴结
+	ba1 jie2
+10057	芭蕾舞
+	ba1 lei3 wu3
+10058	抜
+	ba2
+10059	𢃳
+	ba3
+10060	把柄
+	ba3 bing3
+10061	把关
+	ba3 guan1
+10062	把手
+	ba3 shou3
+10063	把握
+	ba3 wo4
+10064	把细
+	ba3 xi4
+10065	爸
+	ba4
+10066	鲅鲅
+	ba4 ba4
+10067	霸道
+	ba4 dao4
+10068	霸功
+	ba4 gong1
+10069	霸权
+	ba4 quan2
+10070	霸占
+	ba4 zhan4
+10071	紦
+	ba5
+10072	掰
+	bai1
+10073	㿟
+	bai2
+10074	白白
+	bai2 bai2
+10075	白菜
+	bai2 cai4
+10076	白酒
+	bai2 jiu3
+10077	白天
+	bai2 tian1
+10078	摆
+	bai3
+10079	百辈
+	bai3 bei4
+10080	柏洞
+	bai3 dong4
+10081	百分比
+	bai3 fen1 bi3
+10082	百分点
+	bai3 fen1 dian3
+10083	百花齐放
+	bai3 hua1 qi2 fang4
+10084	百货
+	bai3 huo4
+10085	百家争鸣
+	bai3 jia1 zheng1 ming2
+10086	百弄
+	bai3 nong4
+10087	百数
+	bai3 shu4
+10088	摆脱
+	bai3 tuo1
+10089	百姓
+	bai3 xing4
+10090	敗
+	bai4
+10091	拜访
+	bai4 fang3
+10092	败坏
+	bai4 huai4
+10093	败槥
+	bai4 hui4
+10094	拜年
+	bai4 nian2
+10095	拜师
+	bai4 shi1
+10096	班
+	ban1
+10097	颁布
+	ban1 bu4
+10098	颁发
+	ban1 fa1
+10099	班赍
+	ban1 ji1
+10100	般运
+	ban1 yun4
+10101	班长
+	ban1 zhang3
+10102	班子
+	ban1 zi5
+10103	版
+	ban3
+10104	办
+	ban4
+10105	半边天
+	ban4 bian1 tian1
+10106	绊倒
+	ban4 dao3
+10107	半导体
+	ban4 dao3 ti3
+10108	办法
+	ban4 fa3
+10109	半弓
+	ban4 gong1
+10110	办公室
+	ban4 gong1 shi4
+10111	半截
+	ban4 jie2
+10112	半镜
+	ban4 jing4
+10113	半礼
+	ban4 li3
+10114	半路
+	ban4 lu4
+10115	伴侣
+	ban4 lv3
+10116	半世
+	ban4 shi4
+10117	半数
+	ban4 shu4
+10118	伴随
+	ban4 sui2
+10119	半天
+	ban4 tian1
+10120	半途而废
+	ban4 tu2 er2 fei4
+10121	办学
+	ban4 xue2
+10122	扮演
+	ban4 yan3
+10123	半夜
+	ban4 ye4
+10124	半真半假
+	ban4 zhen1 ban4 jia3
+10125	伴奏
+	ban4 zou4
+10126	螁
+	ban5
+10127	帮
+	bang1
+10128	帮忙
+	bang1 mang2
+10129	帮助
+	bang1 zhu4
+10130	綁
+	bang3
+10131	绑架
+	bang3 jia4
+10132	牓样
+	bang3 yang4
+10133	膀子
+	bang3 zi5
+10134	棒
+	bang4
+10135	棒球
+	bang4 qiu2
+10136	傍晩
+	bang4 wan3
+10137	煲
+	bao1
+10138	包办
+	bao1 ban4
+10139	襃拂
+	bao1 fu2
+10140	苞裹
+	bao1 guo3
+10141	苞含
+	bao1 han2
+10142	苞括
+	bao1 kuo4
+10143	包围
+	bao1 wei2
+10144	包装
+	bao1 zhuang1
+10145	孢子
+	bao1 zi5
+10146	嫑
+	bao2
+10147	薄膜
+	bao2 mo2
+10148	雹子
+	bao2 zi5
+10149	宝
+	bao3
+10150	宝贝
+	bao3 bei4
+10151	宝持
+	bao3 chi2
+10152	保存
+	bao3 cun2
+10153	宝管
+	bao3 guan3
+10154	宝贵
+	bao3 gui4
+10155	鸨合
+	bao3 he2
+10156	宝护
+	bao3 hu4
+10157	宝鉴
+	bao3 jian4
+10158	宝库
+	bao3 ku4
+10159	堡垒
+	bao3 lei3
+10160	保留
+	bao3 liu2
+10161	饱满
+	bao3 man3
+10162	宝秘
+	bao3 mi4
+10163	鸨母
+	bao3 mu3
+10164	饱食
+	bao3 shi2
+10165	葆守
+	bao3 shou3
+10166	葆卫
+	bao3 wei4
+10167	保温
+	bao3 wen1
+10168	保险
+	bao3 xian3
+10169	葆养
+	bao3 yang3
+10170	饱胀
+	bao3 zhang4
+10171	保证
+	bao3 zheng4
+10172	宝重
+	bao3 zhong4
+10173	报
+	bao4
+10174	抱愁
+	bao4 chou2
+10175	报答
+	bao4 da2
+10176	报导
+	bao4 dao3
+10177	抱道
+	bao4 dao4
+10178	爆发
+	bao4 fa1
+10179	暴风雨
+	bao4 feng1 yu3
+10180	暴赋
+	bao4 fu4
+10181	抱告
+	bao4 gao4
+10182	抱嫁
+	bao4 jia4
+10183	抱景
+	bao4 jing3
+10184	报刊
+	bao4 kan1
+10185	报考
+	bao4 kao3
+10186	暴戾
+	bao4 li4
+10187	虣露
+	bao4 lu4
+10188	爆鸣
+	bao4 ming2
+10189	爆破
+	bao4 po4
+10190	抱歉
+	bao4 qian4
+10191	鲍舍
+	bao4 she4
+10192	报销
+	bao4 xiao1
+10193	鲍庾
+	bao4 yu3
+10194	暴怨
+	bao4 yuan4
+10195	爆炸
+	bao4 zha4
+10196	报纸
+	bao4 zhi3
+10197	爆竹
+	bao4 zhu2
+10198	杯
+	bei1
+10199	悲哀
+	bei1 ai1
+10200	背包
+	bei1 bao1
+10201	卑鄙
+	bei1 bi3
+10202	悲憯
+	bei1 can3
+10203	悲愤
+	bei1 fen4
+10204	陂官
+	bei1 guan1
+10205	杯具
+	bei1 ju4
+10206	杯觞
+	bei1 shang1
+10207	悲痛
+	bei1 tong4
+10208	背子
+	bei1 zi5
+10209	㤳
+	bei3
+10210	北边
+	bei3 bian1
+10211	北部
+	bei3 bu4
+10212	北方
+	bei3 fang1
+10213	北面
+	bei3 mian4
+10214	備
+	bei4
+10215	被动
+	bei4 dong4
+10216	被告
+	bei4 gao4
+10217	背后
+	bei4 hou4
+10218	背景
+	bei4 jing3
+10219	贝壳
+	bei4 ke2
+10220	贝面
+	bei4 mian4
+10221	背畔
+	bei4 pan4
+10222	被迫
+	bei4 po4
+10223	辈数
+	bei4 shu4
+10224	背诵
+	bei4 song4
+10225	被窝
+	bei4 wo1
+10226	背心
+	bei4 xin1
+10227	备用
+	bei4 yong4
+10228	辈子
+	bei4 zi5
+10229	錛
+	ben1
+10230	逩波
+	ben1 bo1
+10231	犇驰
+	ben1 chi2
+10232	奔跑
+	ben1 pao3
+10233	犇腾
+	ben1 teng2
+10234	苯
+	ben3
+10235	本来
+	ben3 lai2
+10236	本领
+	ben3 ling3
+10237	本能
+	ben3 neng2
+10238	本钱
+	ben3 qian2
+10239	本人
+	ben3 ren2
+10240	本色
+	ben3 se4
+10241	本身
+	ben3 shen1
+10242	本适
+	ben3 shi4
+10243	本性
+	ben3 xing4
+10244	本着
+	ben3 zhe5
+10245	本质
+	ben3 zhi4
+10246	本子
+	ben3 zi5
+10247	笨
+	ben4
+10248	笨蛋
+	ben4 dan4
+10249	笨重
+	ben4 zhong4
+10250	笨拙
+	ben4 zhuo1
+10251	崩
+	beng1
+10252	绷带
+	beng1 dai4
+10253	崩溃
+	beng1 kui4
+10254	蹦
+	beng4
+10255	逼
+	bi1
+10256	逼进
+	bi1 jin4
+10257	逼迫
+	bi1 po4
+10258	鼻
+	bi2
+10259	鼻涕
+	bi2 ti4
+10260	鼻子
+	bi2 zi5
+10261	笔
+	bi3
+10262	彼此
+	bi3 ci3
+10263	笔分
+	bi3 fen1
+10264	鄙计
+	bi3 ji4
+10265	笔架
+	bi3 jia4
+10266	比较
+	bi3 jiao4
+10267	鄙戾
+	bi3 li4
+10268	鄙儒
+	bi3 ru2
+10269	鄙僿
+	bi3 sai4
+10270	鄙视
+	bi3 shi4
+10271	比玉
+	bi3 yu4
+10272	笔者
+	bi3 zhe3
+10273	鄙直
+	bi3 zhi2
+10274	比重
+	bi3 zhong4
+10275	必
+	bi4
+10276	弊病
+	bi4 bing4
+10277	必定
+	bi4 ding4
+10278	弊端
+	bi4 duan1
+10279	碧江
+	bi4 jiang1
+10280	避静
+	bi4 jing4
+10281	碧绿
+	bi4 lv4
+10282	鷩冕
+	bi4 mian3
+10283	闭目
+	bi4 mu4
+10284	闭幕式
+	bi4 mu4 shi4
+10285	赑然
+	bi4 ran2
+10286	闭塞
+	bi4 se4
+10287	闭修
+	bi4 xiu1
+10288	碧虚
+	bi4 xu1
+10289	必要
+	bi4 yao4
+10290	诐谒
+	bi4 ye4
+10291	编
+	bian1
+10292	鞭策
+	bian1 ce4
+10293	边防
+	bian1 fang2
+10294	编号
+	bian1 hao4
+10295	边极
+	bian1 ji2
+10296	编辑部
+	bian1 ji2 bu4
+10297	边疆
+	bian1 jiang1
+10298	边界
+	bian1 jie4
+10299	边竟
+	bian1 jing4
+10300	鞭炮
+	bian1 pao4
+10301	边缘
+	bian1 yuan2
+10302	编者案
+	bian1 zhe3 an4
+10303	边制
+	bian1 zhi4
+10304	编撰
+	bian1 zhuan4
+10305	鞭子
+	bian1 zi5
+10306	贬
+	bian3
+10307	贬低
+	bian3 di1
+10308	贬议
+	bian3 yi4
+10309	贬职
+	bian3 zhi2
+10310	变
+	bian4
+10311	辩别
+	bian4 bie2
+10312	变成
+	bian4 cheng2
+10313	辩道
+	bian4 dao4
+10314	遍地
+	bian4 di4
+10315	辩动
+	bian4 dong4
+10316	变革
+	bian4 ge2
+10317	变更
+	bian4 geng1
+10318	辩护
+	bian4 hu4
+10319	辩画
+	bian4 hua4
+10320	变换
+	bian4 huan4
+10321	辩解
+	bian4 jie3
+10322	遍历
+	bian4 li4
+10323	辩论
+	bian4 lun4
+10324	变迁
+	bian4 qian1
+10325	辨认
+	bian4 ren4
+10326	便条
+	bian4 tiao2
+10327	遍行
+	bian4 xing2
+10328	遍于
+	bian4 yu2
+10329	辩证
+	bian4 zheng4
+10330	辩证法
+	bian4 zheng4 fa3
+10331	辩治
+	bian4 zhi4
+10332	辫子
+	bian4 zi5
+10333	炞
+	bian5
+10334	标
+	biao1
+10335	标本
+	biao1 ben3
+10336	标点
+	biao1 dian3
+10337	标题
+	biao1 ti2
+10338	标语
+	biao1 yu3
+10339	熛鸷
+	biao1 zhi4
+10340	标准
+	biao1 zhun3
+10341	标准化
+	biao1 zhun3 hua4
+10342	表
+	biao3
+10343	表达
+	biao3 da2
+10344	表面
+	biao3 mian4
+10345	表明
+	biao3 ming2
+10346	表情
+	biao3 qing2
+10347	表饰
+	biao3 shi4
+10348	表现
+	biao3 xian4
+10349	表演
+	biao3 yan3
+10350	表扬
+	biao3 yang2
+10351	表章
+	biao3 zhang1
+10352	憋
+	bie1
+10353	別
+	bie2
+10354	别处
+	bie2 chu4
+10355	别的
+	bie2 de5
+10356	别人
+	bie2 ren2
+10357	别说
+	bie2 shuo1
+10358	别自
+	bie2 zi4
+10359	彆
+	bie4
+10360	别扭
+	bie4 niu3
+10361	宾
+	bin1
+10362	宾馆
+	bin1 guan3
+10363	玢璘
+	bin1 lin2
+10364	兵
+	bing1
+10365	冰棍儿
+	bing1 gun4 er2
+10366	冰激凌
+	bing1 ji1 ling2
+10367	冰箱
+	bing1 xiang1
+10368	餅
+	bing3
+10369	饼干
+	bing3 gan1
+10370	秉性
+	bing3 xing4
+10371	併
+	bing4
+10372	病虫害
+	bing4 chong2 hai4
+10373	病床
+	bing4 chuang2
+10374	并存
+	bing4 cun2
+10375	病毒
+	bing4 du2
+10376	病房
+	bing4 fang2
+10377	并非
+	bing4 fei1
+10378	病号
+	bing4 hao4
+10379	病菌
+	bing4 jun1
+10380	并列
+	bing4 lie4
+10381	并排
+	bing4 pai2
+10382	并且
+	bing4 qie3
+10383	病情
+	bing4 qing2
+10384	病人
+	bing4 ren2
+10385	拨
+	bo1
+10386	菠菜
+	bo1 cai4
+10387	波动
+	bo1 dong4
+10388	播放
+	bo1 fang4
+10389	拨款
+	bo1 kuan3
+10390	波浪
+	bo1 lang4
+10391	玻瓈
+	bo1 li2
+10392	播送
+	bo1 song4
+10393	波涛
+	bo1 tao1
+10394	波音
+	bo1 yin1
+10395	播种
+	bo1 zhong3
+10396	博
+	bo2
+10397	馞馞
+	bo2 bo2
+10398	驳饬
+	bo2 chi4
+10399	驳窦
+	bo2 dou4
+10400	驳复
+	bo2 fu4
+10401	博览会
+	bo2 lan3 hui4
+10402	伯母
+	bo2 mu3
+10403	薄弱
+	bo2 ruo4
+10404	袯襫
+	bo2 shi4
+10405	博物馆
+	bo2 wu4 guan3
+10406	驳子
+	bo2 zi5
+10407	㝿
+	bo3
+10408	萡
+	bo5
+10409	醭
+	bu2
+10410	不对
+	bu2 dui4
+10411	不见
+	bu2 jian4
+10412	不见的
+	bu2 jian4 de5
+10413	不是
+	bu2 shi4
+10414	不要
+	bu2 yao4
+10415	不要紧
+	bu2 yao4 jin3
+10416	不住
+	bu2 zhu4
+10417	补
+	bu3
+10418	补偿
+	bu3 chang2
+10419	补充
+	bu3 chong1
+10420	补救
+	bu3 jiu4
+10421	补课
+	bu3 ke4
+10422	捕捞
+	bu3 lao1
+10423	补贴
+	bu3 tie1
+10424	补习
+	bu3 xi2
+10425	补助
+	bu3 zhu4
+10426	捕捉
+	bu3 zhuo1
+10427	佈
+	bu4
+10428	不安
+	bu4 an1
+10429	不卑不亢
+	bu4 bei1 bu4 kang4
+10430	布笔
+	bu4 bi3
+10431	布币
+	bu4 bi4
+10432	步兵
+	bu4 bing1
+10433	不曾
+	bu4 ceng2
+10434	不辞而别
+	bu4 ci2 er2 bie2
+10435	不错
+	bu4 cuo4
+10436	部大
+	bu4 da4
+10437	不但
+	bu4 dan4
+10438	不当
+	bu4 dang4
+10439	不德
+	bu4 de2
+10440	不得不
+	bu4 de2 bu4
+10441	不得了
+	bu4 de2 le5
+10442	不得已
+	bu4 de2 yi3
+10443	不等
+	bu4 deng3
+10444	不定
+	bu4 ding4
+10445	不毈
+	bu4 duan4
+10446	部队
+	bu4 dui4
+10447	簿阀
+	bu4 fa2
+10448	步法
+	bu4 fa3
+10449	布防
+	bu4 fang2
+10450	部分
+	bu4 fen4
+10451	不敢当
+	bu4 gan3 dang1
+10452	布告
+	bu4 gao4
+10453	步弓
+	bu4 gong1
+10454	不彀
+	bu4 gou4
+10455	不顾
+	bu4 gu4
+10456	不管
+	bu4 guan3
+10457	不过
+	bu4 guo4
+10458	不好意思
+	bu4 hao3 yi4 si1
+10459	部件
+	bu4 jian4
+10460	不解
+	bu4 jie3
+10461	布巾
+	bu4 jin1
+10462	不谨
+	bu4 jin3
+10463	不久
+	bu4 jiu3
+10464	布局
+	bu4 ju2
+10465	簿决
+	bu4 jue2
+10466	不堪
+	bu4 kan1
+10467	不可
+	bu4 ke3
+10468	不愧
+	bu4 kui4
+10469	部吏
+	bu4 li4
+10470	不良
+	bu4 liang2
+10471	布料
+	bu4 liao4
+10472	不论
+	bu4 lun4
+10473	布满
+	bu4 man3
+10474	部门
+	bu4 men2
+10475	不免
+	bu4 mian3
+10476	部凭
+	bu4 ping2
+10477	不然
+	bu4 ran2
+10478	布戎
+	bu4 rong2
+10479	布襦
+	bu4 ru2
+10480	不少
+	bu4 shao3
+10481	布什
+	bu4 shi2
+10482	部署
+	bu4 shu3
+10483	不廷
+	bu4 ting2
+10484	布同
+	bu4 tong2
+10485	部位
+	bu4 wei4
+10486	篰息
+	bu4 xi1
+10487	不相上下
+	bu4 xiang1 shang4 xia4
+10488	步行
+	bu4 xing2
+10489	不幸
+	bu4 xing4
+10490	不朽
+	bu4 xiu3
+10491	不许
+	bu4 xu3
+10492	不言而谕
+	bu4 yan2 er2 yu4
+10493	不移
+	bu4 yi2
+10494	不一定
+	bu4 yi2 ding4
+10495	不用
+	bu4 yong4
+10496	不由得
+	bu4 you2 de5
+10497	不怎么样
+	bu4 zen3 me5 yang4
+10498	部长
+	bu4 zhang3
+10499	不正之风
+	bu4 zheng4 zhi1 feng1
+10500	不知不觉
+	bu4 zhi1 bu4 jue2
+10501	步趾
+	bu4 zhi3
+10502	部秩
+	bu4 zhi4
+10503	不至于
+	bu4 zhi4 yu2
+10504	步骤
+	bu4 zhou4
+10505	步子
+	bu4 zi5
+10506	部族
+	bu4 zu2
+10507	擦
+	ca1
+10508	猜
+	cai1
+10509	猜测
+	cai1 ce4
+10510	猜想
+	cai1 xiang3
+10511	財
+	cai2
+10512	财产
+	cai2 chan3
+10513	裁缝
+	cai2 feng2
+10514	财赋
+	cai2 fu4
+10515	裁划
+	cai2 hua2
+10516	财经
+	cai2 jing1
+10517	财决
+	cai2 jue2
+10518	裁军
+	cai2 jun1
+10519	财会
+	cai2 kuai4
+10520	财力
+	cai2 li4
+10521	裁料
+	cai2 liao4
+10522	财能
+	cai2 neng2
+10523	裁判
+	cai2 pan4
+10524	财钱
+	cai2 qian2
+10525	财物
+	cai2 wu4
+10526	财正
+	cai2 zheng4
+10527	财制
+	cai2 zhi4
+10528	採
+	cai3
+10529	采访
+	cai3 fang3
+10530	采购
+	cai3 gou4
+10531	采集
+	cai3 ji2
+10532	采纳
+	cai3 na4
+10533	采取
+	cai3 qu3
+10534	采色
+	cai3 se4
+10535	采用
+	cai3 yong4
+10536	菜
+	cai4
+10537	菜单
+	cai4 dan1
+10538	叄
+	can1
+10539	餐车
+	can1 che1
+10540	参观
+	can1 guan1
+10541	餐痂
+	can1 jia1
+10542	参军
+	can1 jun1
+10543	参考
+	can1 kao3
+10544	参谋
+	can1 mou2
+10545	餐厅
+	can1 ting1
+10546	参议院
+	can1 yi4 yuan4
+10547	骖驭
+	can1 yu4
+10548	参阅
+	can1 yue4
+10549	参照
+	can1 zhao4
+10550	残
+	can2
+10551	残暴
+	can2 bao4
+10552	残疾
+	can2 ji2
+10553	残酷
+	can2 ku4
+10554	残溃
+	can2 kui4
+10555	残忍
+	can2 ren3
+10556	蚕渔
+	can2 yu2
+10557	惨
+	can3
+10558	灿
+	can4
+10559	粲烂
+	can4 lan4
+10560	仓
+	cang1
+10561	苍白
+	cang1 bai2
+10562	苍猝
+	cang1 cu4
+10563	仓库
+	cang1 ku4
+10564	沧瀛
+	cang1 ying2
+10565	㵴
+	cang2
+10566	操
+	cao1
+10567	操场
+	cao1 chang3
+10568	操劳
+	cao1 lao2
+10569	操练
+	cao1 lian4
+10570	操心
+	cao1 xin1
+10571	操纵
+	cao1 zong4
+10572	操作
+	cao1 zuo4
+10573	曹
+	cao2
+10574	艹
+	cao3
+10575	草案
+	cao3 an4
+10576	草地
+	cao3 di4
+10577	草莓
+	cao3 mei2
+10578	草坪
+	cao3 ping2
+10579	草率
+	cao3 shuai4
+10580	草原
+	cao3 yuan2
+10581	冊
+	ce4
+10582	测定
+	ce4 ding4
+10583	策画
+	ce4 hua4
+10584	测量
+	ce4 liang2
+10585	策畧
+	ce4 lve4
+10586	侧面
+	ce4 mian4
+10587	策试
+	ce4 shi4
+10588	测算
+	ce4 suan4
+10589	厕所
+	ce4 suo3
+10590	测验
+	ce4 yan4
+10591	侧重
+	ce4 zhong4
+10592	层
+	ceng2
+10593	层出不穷
+	ceng2 chu1 bu4 qiong2
+10594	层次
+	ceng2 ci4
+10595	曾经
+	ceng2 jing1
+10596	层面
+	ceng2 mian4
+10597	㣒
+	ceng4
+10598	鍤
+	cha1
+10599	差别
+	cha1 bie2
+10600	差错
+	cha1 cuo4
+10601	插犋
+	cha1 ju4
+10602	插秧
+	cha1 yang1
+10603	差异
+	cha1 yi4
+10604	杈子
+	cha1 zi3
+10605	插嘴
+	cha1 zui3
+10606	茶
+	cha2
+10607	查处
+	cha2 chu3
+10608	茶馆
+	cha2 guan3
+10609	茶话会
+	cha2 hua4 hui4
+10610	查获
+	cha2 huo4
+10611	茶茗
+	cha2 ming2
+10612	茶叶
+	cha2 ye4
+10613	查阅
+	cha2 yue4
+10614	诧
+	cha4
+10615	差不多
+	cha4 bu4 duo1
+10616	刹那
+	cha4 na4
+10617	诧异
+	cha4 yi4
+10618	钗
+	chai1
+10619	豺
+	chai2
+10620	柴油
+	chai2 you2
+10621	搀
+	chan1
+10622	纏
+	chan2
+10623	谗言
+	chan2 yan2
+10624	产
+	chan3
+10625	铲地
+	chan3 di4
+10626	产量
+	chan3 liang4
+10627	阐明
+	chan3 ming2
+10628	产品
+	chan3 pin3
+10629	谄屈
+	chan3 qu1
+10630	产生
+	chan3 sheng1
+10631	阐述
+	chan3 shu4
+10632	阐悟
+	chan3 wu4
+10633	燀业
+	chan3 ye4
+10634	产殖
+	chan3 zhi2
+10635	懺
+	chan4
+10636	颤动
+	chan4 dong4
+10637	颤抖
+	chan4 dou3
+10638	娼
+	chang1
+10639	猖狂
+	chang1 kuang2
+10640	昌盛
+	chang1 sheng4
+10641	常
+	chang2
+10642	长长
+	chang2 chang2
+10643	长处
+	chang2 chu4
+10644	长度
+	chang2 du4
+10645	长短
+	chang2 duan3
+10646	长规
+	chang2 gui1
+10647	长鬟
+	chang2 huan2
+10648	长剑
+	chang2 jian4
+10649	长久
+	chang2 jiu3
+10650	长年
+	chang2 nian2
+10651	长期
+	chang2 qi1
+10652	长石
+	chang2 shi2
+10653	长饰
+	chang2 shi4
+10654	长寿
+	chang2 shou4
+10655	长途
+	chang2 tu2
+10656	长骛
+	chang2 wu4
+10657	常用
+	chang2 yong4
+10658	长远
+	chang2 yuan3
+10659	长征
+	chang2 zheng1
+10660	廠
+	chang3
+10661	场地
+	chang3 di4
+10662	厂房
+	chang3 fang2
+10663	场合
+	chang3 he2
+10664	厂家
+	chang3 jia1
+10665	敞开
+	chang3 kai1
+10666	场面
+	chang3 mian4
+10667	场商
+	chang3 shang1
+10668	场所
+	chang3 suo3
+10669	厂长
+	chang3 zhang3
+10670	唱
+	chang4
+10671	畅谈
+	chang4 tan2
+10672	鬯通
+	chang4 tong1
+10673	畅销
+	chang4 xiao1
+10674	畅意
+	chang4 yi4
+10675	蟐
+	chang5
+10676	钞
+	chao1
+10677	超产
+	chao1 chan3
+10678	超出
+	chao1 chu1
+10679	超额
+	chao1 e2
+10680	超过
+	chao1 guo4
+10681	钞集
+	chao1 ji2
+10682	钞票
+	chao1 piao4
+10683	钞写
+	chao1 xie3
+10684	超跃
+	chao1 yue4
+10685	潮
+	chao2
+10686	朝带
+	chao2 dai4
+10687	潮流
+	chao2 liu2
+10688	潮湿
+	chao2 shi1
+10689	嘲笑
+	chao2 xiao4
+10690	炒
+	chao3
+10691	吵架
+	chao3 jia4
+10692	炒闹
+	chao3 nao4
+10693	吵嘴
+	chao3 zui3
+10694	伡
+	che1
+10695	车床
+	che1 chuang2
+10696	车间
+	che1 jian1
+10697	车辆
+	che1 liang4
+10698	车箱
+	che1 xiang1
+10699	车站
+	che1 zhan4
+10700	扯
+	che3
+10701	撤
+	che4
+10702	澈底
+	che4 di3
+10703	撤退
+	che4 tui4
+10704	撤销
+	che4 xiao1
+10705	陈
+	chen2
+10706	沉淀
+	chen2 dian4
+10707	沉静
+	chen2 jing4
+10708	陈旧
+	chen2 jiu4
+10709	陈列
+	chen2 lie4
+10710	沉闷
+	chen2 men4
+10711	沉默
+	chen2 mo4
+10712	陈述
+	chen2 shu4
+10713	陈思
+	chen2 si1
+10714	沉痛
+	chen2 tong4
+10715	尘土
+	chen2 tu3
+10716	沉重
+	chen2 zhong4
+10717	沉着
+	chen2 zhuo2
+10718	衬
+	chen4
+10719	衬衫
+	chen4 shan1
+10720	趁心
+	chen4 xin1
+10721	衬衣
+	chen4 yi1
+10722	撐
+	cheng1
+10723	称耗
+	cheng1 hao4
+10724	称呼
+	cheng1 hu1
+10725	称赞
+	cheng1 zan4
+10726	成
+	cheng2
+10727	承办
+	cheng2 ban4
+10728	承包
+	cheng2 bao1
+10729	成本
+	cheng2 ben3
+10730	承担
+	cheng2 dan1
+10731	程度
+	cheng2 du4
+10732	承乏
+	cheng2 fa2
+10733	成分
+	cheng2 fen4
+10734	程工
+	cheng2 gong1
+10735	成裹
+	cheng2 guo3
+10736	承基
+	cheng2 ji1
+10737	诚绩
+	cheng2 ji4
+10738	成交
+	cheng2 jiao1
+10739	成就
+	cheng2 jiu4
+10740	诚恪
+	cheng2 ke4
+10741	诚恳
+	cheng2 ken3
+10742	诚砺
+	cheng2 li4
+10743	程品
+	cheng2 pin3
+10744	成千上万
+	cheng2 qian1 shang4 wan4
+10745	澄清
+	cheng2 qing1
+10746	成仁
+	cheng2 ren2
+10747	承认
+	cheng2 ren4
+10748	诚实
+	cheng2 shi2
+10749	诚是
+	cheng2 shi4
+10750	承授
+	cheng2 shou4
+10751	成熟
+	cheng2 shu2
+10752	成套
+	cheng2 tao4
+10753	承天
+	cheng2 tian1
+10754	成为
+	cheng2 wei2
+10755	乘务员
+	cheng2 wu4 yuan2
+10756	诚县
+	cheng2 xian4
+10757	诚效
+	cheng2 xiao4
+10758	诚心
+	cheng2 xin1
+10759	诚心诚意
+	cheng2 xin1 cheng2 yi4
+10760	诚信
+	cheng2 xin4
+10761	程序
+	cheng2 xu4
+10762	诚意
+	cheng2 yi4
+10763	成语
+	cheng2 yu3
+10764	成员
+	cheng2 yuan2
+10765	成长
+	cheng2 zhang3
+10766	城镇
+	cheng2 zhen4
+10767	诚质
+	cheng2 zhi4
+10768	㐼
+	cheng4
+10769	痴
+	chi1
+10770	吃惊
+	chi1 jing1
+10771	吃苦
+	chi1 ku3
+10772	吃亏
+	chi1 kui1
+10773	痴立
+	chi1 li4
+10774	持
+	chi2
+10775	驰道
+	chi2 dao4
+10776	迟缓
+	chi2 huan3
+10777	迟久
+	chi2 jiu3
+10778	池塘
+	chi2 tang2
+10779	持续
+	chi2 xu4
+10780	迟疑
+	chi2 yi2
+10781	齒
+	chi3
+10782	尺寸
+	chi3 cun4
+10783	齿轮
+	chi3 lun2
+10784	耻辱
+	chi3 ru3
+10785	尺子
+	chi3 zi5
+10786	赤
+	chi4
+10787	翅膀
+	chi4 bang3
+10788	赤道
+	chi4 dao4
+10789	赤字
+	chi4 zi4
+10790	沖
+	chong1
+10791	充当
+	chong1 dang1
+10792	充分
+	chong1 fen4
+10793	冲风
+	chong1 feng1
+10794	舂击
+	chong1 ji1
+10795	冲满
+	chong1 man3
+10796	充沛
+	chong1 pei4
+10797	冲破
+	chong1 po4
+10798	冲蚀
+	chong1 shi2
+10799	冲突
+	chong1 tu1
+10800	冲踤
+	chong1 zu2
+10801	崇
+	chong2
+10802	崇拜
+	chong2 bai4
+10803	重叠
+	chong2 die2
+10804	重复
+	chong2 fu4
+10805	崇高
+	chong2 gao1
+10806	崇敬
+	chong2 jing4
+10807	重身
+	chong2 shen1
+10808	重新
+	chong2 xin1
+10809	虫子
+	chong2 zi5
+10810	銃
+	chong4
+10811	抽
+	chou1
+10812	抽空
+	chou1 kong1
+10813	抽替
+	chou1 ti4
+10814	抽象
+	chou1 xiang4
+10815	抽菸
+	chou1 yan1
+10816	筹
+	chou2
+10817	筹备
+	chou2 bei4
+10818	踌躇
+	chou2 chu2
+10819	雠恨
+	chou2 hen4
+10820	雠贱
+	chou2 jian4
+10821	绸密
+	chou2 mi4
+10822	绸子
+	chou2 zi5
+10823	丑
+	chou3
+10824	丑恶
+	chou3 e4
+10825	丑闻
+	chou3 wen2
+10826	䔏
+	chou4
+10827	出
+	chu1
+10828	初版
+	chu1 ban3
+10829	初步
+	chu1 bu4
+10830	出差
+	chu1 chai1
+10831	出产
+	chu1 chan3
+10832	出动
+	chu1 dong4
+10833	出发
+	chu1 fa1
+10834	出发点
+	chu1 fa1 dian3
+10835	出访
+	chu1 fang3
+10836	初级
+	chu1 ji2
+10837	出镜
+	chu1 jing4
+10838	出口
+	chu1 kou3
+10839	初来
+	chu1 lai2
+10840	初露
+	chu1 lu4
+10841	出卖
+	chu1 mai4
+10842	出门
+	chu1 men2
+10843	出面
+	chu1 mian4
+10844	初名
+	chu1 ming2
+10845	出难题
+	chu1 nan2 ti2
+10846	出品
+	chu1 pin3
+10847	初期
+	chu1 qi1
+10848	出去
+	chu1 qu4
+10849	出入
+	chu1 ru4
+10850	出色
+	chu1 se4
+10851	出身
+	chu1 shen1
+10852	出神
+	chu1 shen2
+10853	初生
+	chu1 sheng1
+10854	初试
+	chu1 shi4
+10855	出狩
+	chu1 shou4
+10856	初晰
+	chu1 xi1
+10857	出席
+	chu1 xi2
+10858	初献
+	chu1 xian4
+10859	出洋相
+	chu1 yang2 xiang4
+10860	初衣
+	chu1 yi1
+10861	初愿
+	chu1 yuan4
+10862	初钟
+	chu1 zhong1
+10863	出租
+	chu1 zu1
+10864	出租汽车
+	chu1 zu1 qi4 che1
+10865	厨
+	chu2
+10866	除此之外
+	chu2 ci3 zhi1 wai4
+10867	厨房
+	chu2 fang2
+10868	除非
+	chu2 fei1
+10869	除了
+	chu2 le5
+10870	除湿
+	chu2 shi1
+10871	除外
+	chu2 wai4
+10872	除夕
+	chu2 xi1
+10873	楚
+	chu3
+10874	楮贝
+	chu3 bei4
+10875	储藏
+	chu3 cang2
+10876	杵触
+	chu3 chu4
+10877	储存
+	chu3 cun2
+10878	处罚
+	chu3 fa2
+10879	处方
+	chu3 fang1
+10880	处分
+	chu3 fen4
+10881	处境
+	chu3 jing4
+10882	处决
+	chu3 jue2
+10883	楮李
+	chu3 li3
+10884	储蓄
+	chu3 xu4
+10885	处于
+	chu3 yu2
+10886	础礩
+	chu3 zhi4
+10887	触
+	chu4
+10888	触犯
+	chu4 fan4
+10889	榋
+	chu5
+10890	川
+	chuan1
+10891	川流不息
+	chuan1 liu2 bu4 xi1
+10892	穿行
+	chuan1 xing2
+10893	船
+	chuan2
+10894	传播
+	chuan2 bo1
+10895	船舶
+	chuan2 bo2
+10896	传达
+	chuan2 da2
+10897	传单
+	chuan2 dan1
+10898	传递
+	chuan2 di4
+10899	传媒
+	chuan2 mei2
+10900	传染
+	chuan2 ran3
+10901	传授
+	chuan2 shou4
+10902	传输
+	chuan2 shu1
+10903	传说
+	chuan2 shuo1
+10904	传颂
+	chuan2 song4
+10905	传统
+	chuan2 tong3
+10906	传真
+	chuan2 zhen1
+10907	船只
+	chuan2 zhi1
+10908	喘
+	chuan3
+10909	钏
+	chuan4
+10910	疮
+	chuang1
+10911	窗口
+	chuang1 kou3
+10912	窗帘
+	chuang1 lian2
+10913	窗台
+	chuang1 tai2
+10914	床
+	chuang2
+10915	床单
+	chuang2 dan1
+10916	床铺
+	chuang2 pu4
+10917	床位
+	chuang2 wei4
+10918	闯
+	chuang3
+10919	怆
+	chuang4
+10920	创办
+	chuang4 ban4
+10921	创见
+	chuang4 jian4
+10922	创立
+	chuang4 li4
+10923	怆心
+	chuang4 xin1
+10924	创业
+	chuang4 ye4
+10925	创造
+	chuang4 zao4
+10926	创作
+	chuang4 zuo4
+10927	炊
+	chui1
+10928	吹牛
+	chui1 niu2
+10929	吹捧
+	chui1 peng3
+10930	炊事员
+	chui1 shi4 yuan2
+10931	錘
+	chui2
+10932	垂直
+	chui2 zhi2
+10933	椿
+	chun1
+10934	春耕
+	chun1 geng1
+10935	春霁
+	chun1 ji4
+10936	春节
+	chun1 jie2
+10937	春天
+	chun1 tian1
+10938	纯
+	chun2
+10939	醇粹
+	chun2 cui4
+10940	鹑结
+	chun2 jie2
+10941	蠢
+	chun3
+10942	戳
+	chuo1
+10943	詞
+	ci2
+10944	慈爱
+	ci2 ai4
+10945	磁带
+	ci2 dai4
+10946	辞典
+	ci2 dian3
+10947	词汇
+	ci2 hui4
+10948	辞拒
+	ci2 ju4
+10949	慈善
+	ci2 shan4
+10950	磁铁
+	ci2 tie3
+10951	慈祥
+	ci2 xiang2
+10952	辞职
+	ci2 zhi2
+10953	此
+	ci3
+10954	此后
+	ci3 hou4
+10955	此刻
+	ci3 ke4
+10956	此时
+	ci3 shi2
+10957	此外
+	ci3 wai4
+10958	賜
+	ci4
+10959	次后
+	ci4 hou4
+10960	刺讥
+	ci4 ji1
+10961	次品
+	ci4 pin3
+10962	次述
+	ci4 shu4
+10963	赐恤
+	ci4 xu4
+10964	次要
+	ci4 yao4
+10965	蔥
+	cong1
+10966	鏦鏦
+	cong1 cong1
+10967	怱忙
+	cong1 mang2
+10968	怱明
+	cong1 ming2
+10969	丛
+	cong2
+10970	賨布
+	cong2 bu4
+10971	从此
+	cong2 ci3
+10972	从而
+	cong2 er2
+10973	从来
+	cong2 lai2
+10974	从没
+	cong2 mei2
+10975	賨钱
+	cong2 qian2
+10976	从戎
+	cong2 rong2
+10977	从容不迫
+	cong2 rong2 bu4 po4
+10978	从适
+	cong2 shi4
+10979	从头
+	cong2 tou2
+10980	从未
+	cong2 wei4
+10981	从小
+	cong2 xiao3
+10982	从中
+	cong2 zhong1
+10983	凑
+	cou4
+10984	辏合
+	cou4 he2
+10985	辏巧
+	cou4 qiao3
+10986	粗
+	cu1
+10987	麤暴
+	cu1 bao4
+10988	麤良
+	cu1 liang2
+10989	麤鲁
+	cu1 lu3
+10990	麤细
+	cu1 xi4
+10991	粗心
+	cu1 xin1
+10992	粗心大意
+	cu1 xin1 da4 yi4
+10993	蹙
+	cu4
+10994	醋劲
+	cu4 jin4
+10995	趣使
+	cu4 shi3
+10996	窜
+	cuan4
+10997	崔
+	cui1
+10998	摧残
+	cui1 can2
+10999	摧毁
+	cui1 hui3
+11000	翠
+	cui4
+11001	翠绿
+	cui4 lv4
+11002	脆弱
+	cui4 ruo4
+11003	村
+	cun1
+11004	邨庄
+	cun1 zhuang1
+11005	村子
+	cun1 zi5
+11006	存
+	cun2
+11007	存放
+	cun2 fang4
+11008	存款
+	cun2 kuan3
+11009	存在
+	cun2 zai4
+11010	籿
+	cun4
+11011	磋
+	cuo1
+11012	磋商
+	cuo1 shang1
+11013	错
+	cuo4
+11014	错失
+	cuo4 shi1
+11015	错误
+	cuo4 wu4
+11016	挫折
+	cuo4 zhe2
+11017	错字
+	cuo4 zi4
+11018	褡
+	da1
+11019	搭配
+	da1 pei4
+11020	答应
+	da1 ying4
+11021	妲
+	da2
+11022	答案
+	da2 an4
+11023	达变
+	da2 bian4
+11024	达诚
+	da2 cheng2
+11025	达道
+	da2 dao4
+11026	答赋
+	da2 fu4
+11027	答卷
+	da2 juan4
+11028	𥕇
+	da3
+11029	打败
+	da3 bai4
+11030	打扮
+	da3 ban4
+11031	打发
+	da3 fa1
+11032	打稽
+	da3 ji1
+11033	打架
+	da3 jia4
+11034	打交道
+	da3 jiao1 dao4
+11035	打量
+	da3 liang4
+11036	打猎
+	da3 lie4
+11037	打破
+	da3 po4
+11038	打扰
+	da3 rao3
+11039	打扫
+	da3 sao3
+11040	打算
+	da3 suan4
+11041	打听
+	da3 ting1
+11042	打账
+	da3 zhang4
+11043	打招呼
+	da3 zhao1 hu1
+11044	打针
+	da3 zhen1
+11045	亣
+	da4
+11046	大半
+	da4 ban4
+11047	大包大揽
+	da4 bao1 da4 lan3
+11048	大辩
+	da4 bian4
+11049	大辰
+	da4 chen2
+11050	大大
+	da4 da4
+11051	大胆
+	da4 dan3
+11052	大道
+	da4 dao4
+11053	大弟
+	da4 di4
+11054	大都
+	da4 du1
+11055	大队
+	da4 dui4
+11056	大多
+	da4 duo1
+11057	大多数
+	da4 duo1 shu4
+11058	大枋
+	da4 fang1
+11059	大概
+	da4 gai4
+11060	大哥
+	da4 ge1
+11061	大公无私
+	da4 gong1 wu2 si1
+11062	大锅饭
+	da4 guo1 fan4
+11063	大讳
+	da4 hui4
+11064	大枷
+	da4 jia1
+11065	大街
+	da4 jie1
+11066	大局
+	da4 ju2
+11067	大理石
+	da4 li3 shi2
+11068	大荔
+	da4 li4
+11069	大量
+	da4 liang4
+11070	大麓
+	da4 lu4
+11071	大妈
+	da4 ma1
+11072	大米
+	da4 mi3
+11073	大母指
+	da4 mu3 zhi3
+11074	大脑
+	da4 nao3
+11075	大娘
+	da4 niang2
+11076	大炮
+	da4 pao4
+11077	大邳
+	da4 pi1
+11078	大气压
+	da4 qi4 ya1
+11079	大仁
+	da4 ren2
+11080	大嫂
+	da4 sao3
+11081	大厦
+	da4 sha4
+11082	大生
+	da4 sheng1
+11083	大史
+	da4 shi3
+11084	大使馆
+	da4 shi3 guan3
+11085	大肆
+	da4 si4
+11086	大体
+	da4 ti3
+11087	大同小异
+	da4 tong2 xiao3 yi4
+11088	大无畏
+	da4 wu2 wei4
+11089	大小
+	da4 xiao3
+11090	大行
+	da4 xing2
+11091	大学
+	da4 xue2
+11092	大鴈
+	da4 yan4
+11093	大爷
+	da4 ye2
+11094	大衣
+	da4 yi1
+11095	大邑
+	da4 yi4
+11096	大有可为
+	da4 you3 ke3 wei2
+11097	大雩
+	da4 yu2
+11098	大约
+	da4 yue1
+11099	大质
+	da4 zhi4
+11100	大重
+	da4 zhong4
+11101	大自然
+	da4 zi4 ran2
+11102	垯
+	da5
+11103	懛
+	dai1
+11104	傣
+	dai3
+11105	歹徒
+	dai3 tu2
+11106	带
+	dai4
+11107	待办
+	dai4 ban4
+11108	戴表
+	dai4 biao3
+11109	逮捕
+	dai4 bu3
+11110	带动
+	dai4 dong4
+11111	大夫
+	dai4 fu1
+11112	怠工
+	dai4 gong1
+11113	骀浩
+	dai4 hao4
+11114	待价
+	dai4 jia4
+11115	殆尽
+	dai4 jin4
+11116	贷款
+	dai4 kuan3
+11117	代理
+	dai4 li3
+11118	带领
+	dai4 ling3
+11119	怠慢
+	dai4 man4
+11120	殆庶
+	dai4 shu4
+11121	怠替
+	dai4 ti4
+11122	戴头
+	dai4 tou2
+11123	待遇
+	dai4 yu4
+11124	鮘
+	dai5
+11125	丹
+	dan1
+11126	担保
+	dan1 bao3
+11127	单纯
+	dan1 chun2
+11128	单辞
+	dan1 ci2
+11129	单调
+	dan1 diao4
+11130	酖毒
+	dan1 du2
+11131	担负
+	dan1 fu4
+11132	担认
+	dan1 ren4
+11133	躭味
+	dan1 wei4
+11134	躭误
+	dan1 wu4
+11135	躭心
+	dan1 xin1
+11136	躭忧
+	dan1 you1
+11137	单元
+	dan1 yuan2
+11138	膽
+	dan3
+11139	胆量
+	dan3 liang4
+11140	胆怯
+	dan3 qie4
+11141	胆子
+	dan3 zi5
+11142	蛋
+	dan4
+11143	蛋白质
+	dan4 bai2 zhi4
+11144	诞辰
+	dan4 chen2
+11145	蛋糕
+	dan4 gao1
+11146	诞计
+	dan4 ji4
+11147	诞生
+	dan4 sheng1
+11148	蛋市
+	dan4 shi4
+11149	淡水
+	dan4 shui3
+11150	诞曜
+	dan4 yao4
+11151	担子
+	dan4 zi5
+11152	噹
+	dang1
+11153	当场
+	dang1 chang3
+11154	当初
+	dang1 chu1
+11155	当待
+	dang1 dai4
+11156	当地
+	dang1 di4
+11157	当家
+	dang1 jia1
+11158	当局
+	dang1 ju2
+11159	当面
+	dang1 mian4
+11160	当年
+	dang1 nian2
+11161	当前
+	dang1 qian2
+11162	当然
+	dang1 ran2
+11163	当时
+	dang1 shi2
+11164	当事人
+	dang1 shi4 ren2
+11165	当心
+	dang1 xin1
+11166	当选
+	dang1 xuan3
+11167	当中
+	dang1 zhong1
+11168	党
+	dang3
+11169	党派
+	dang3 pai4
+11170	党援
+	dang3 yuan2
+11171	档
+	dang4
+11172	档案
+	dang4 an4
+11173	档次
+	dang4 ci4
+11174	当天
+	dang4 tian1
+11175	当真
+	dang4 zhen1
+11176	当做
+	dang4 zuo4
+11177	刂
+	dao1
+11178	叨唠
+	dao1 lao2
+11179	刀刃
+	dao1 ren4
+11180	刀子
+	dao1 zi5
+11181	岛
+	dao3
+11182	倒闭
+	dao3 bi4
+11183	捣蛋
+	dao3 dan4
+11184	导航
+	dao3 hang2
+11185	捣乱
+	dao3 luan4
+11186	倒霉
+	dao3 mei2
+11187	捣蓍
+	dao3 shi1
+11188	导示
+	dao3 shi4
+11189	蹈腾
+	dao3 teng2
+11190	导体
+	dao3 ti3
+11191	导衍
+	dao3 yan3
+11192	倒爷
+	dao3 ye2
+11193	导游
+	dao3 you2
+11194	祷雨
+	dao3 yu3
+11195	捣治
+	dao3 zhi4
+11196	到
+	dao4
+11197	悼怵
+	dao4 chu4
+11198	道达
+	dao4 da2
+11199	道德
+	dao4 de2
+11200	到底
+	dao4 di3
+11201	到来
+	dao4 lai2
+11202	道里
+	dao4 li3
+11203	道録
+	dao4 lu4
+11204	道念
+	dao4 nian4
+11205	到期
+	dao4 qi1
+11206	道歉
+	dao4 qian4
+11207	盗窃
+	dao4 qie4
+11208	倒退
+	dao4 tui4
+11209	稻子
+	dao4 zi5
+11210	德
+	de2
+11211	得病
+	de2 bing4
+11212	得不偿失
+	de2 bu4 chang2 shi1
+11213	德道
+	de2 dao4
+11214	得了
+	de2 le5
+11215	得力
+	de2 li4
+11216	得以
+	de2 yi3
+11217	德艺
+	de2 yi4
+11218	得知
+	de2 zhi1
+11219	得罪
+	de2 zui4
+11220	𠵨
+	de5
+11221	的话
+	de5 hua4
+11222	燈
+	deng1
+11223	灯火
+	deng1 huo3
+11224	蹬技
+	deng1 ji4
+11225	登龙
+	deng1 long2
+11226	登陆
+	deng1 lu4
+11227	灯泡
+	deng1 pao4
+11228	等
+	deng3
+11229	等待
+	deng3 dai4
+11230	等道
+	deng3 dao4
+11231	等候
+	deng3 hou4
+11232	等级
+	deng3 ji2
+11233	等于
+	deng3 yu2
+11234	鄧
+	deng4
+11235	镫子
+	deng4 zi5
+11236	低
+	di1
+11237	低级
+	di1 ji2
+11238	低劣
+	di1 lie4
+11239	低温
+	di1 wen1
+11240	滴下
+	di1 xia4
+11241	敵
+	di2
+11242	敌对
+	di2 dui4
+11243	的确
+	di2 que4
+11244	狄人
+	di2 ren2
+11245	敌视
+	di2 shi4
+11246	笛子
+	di2 zi5
+11247	邸
+	di3
+11248	抵达
+	di3 da2
+11249	抵抗
+	di3 kang4
+11250	底片
+	di3 pian4
+11251	底下
+	di3 xia4
+11252	抵滞
+	di3 zhi4
+11253	第
+	di4
+11254	地板
+	di4 ban3
+11255	弟布
+	di4 bu4
+11256	递带
+	di4 dai4
+11257	递盗
+	di4 dao4
+11258	递递
+	di4 di4
+11259	帝典
+	di4 dian3
+11260	地方
+	di4 fang1
+11261	帝国
+	di4 guo2
+11262	递交
+	di4 jiao1
+11263	缔结
+	di4 jie2
+11264	禘礼
+	di4 li3
+11265	地面
+	di4 mian4
+11266	地球
+	di4 qiu2
+11267	地区
+	di4 qu1
+11268	递事
+	di4 shi4
+11269	地毯
+	di4 tan3
+11270	地铁
+	di4 tie3
+11271	弟徒
+	di4 tu2
+11272	谛味
+	di4 wei4
+11273	第下
+	di4 xia4
+11274	第行
+	di4 xing2
+11275	弟兄
+	di4 xiong1
+11276	递衣
+	di4 yi1
+11277	递增
+	di4 zeng1
+11278	地震
+	di4 zhen4
+11279	帝祉
+	di4 zhi3
+11280	递质
+	di4 zhi4
+11281	第主
+	di4 zhu3
+11282	顛
+	dian1
+11283	颠跛
+	dian1 bo3
+11284	颠倒
+	dian1 dao3
+11285	颠覆
+	dian1 fu4
+11286	点
+	dian3
+11287	点火
+	dian3 huo3
+11288	典礼
+	dian3 li3
+11289	点明
+	dian3 ming2
+11290	点燃
+	dian3 ran2
+11291	点行
+	dian3 xing2
+11292	点钟
+	dian3 zhong1
+11293	点缀
+	dian3 zhui4
+11294	点子
+	dian3 zi5
+11295	电
+	dian4
+11296	电报
+	dian4 bao4
+11297	电冰箱
+	dian4 bing1 xiang1
+11298	钿车
+	dian4 che1
+11299	电驰
+	dian4 chi2
+11300	电灯
+	dian4 deng1
+11301	奠定
+	dian4 ding4
+11302	电动机
+	dian4 dong4 ji1
+11303	淀粉
+	dian4 fen3
+11304	电风扇
+	dian4 feng1 shan4
+11305	电话
+	dian4 hua4
+11306	惦记
+	dian4 ji4
+11307	电力
+	dian4 li4
+11308	电铃
+	dian4 ling2
+11309	电流
+	dian4 liu2
+11310	电炉
+	dian4 lu2
+11311	电露
+	dian4 lu4
+11312	电脑
+	dian4 nao3
+11313	电钮
+	dian4 niu3
+11314	钿砌
+	dian4 qi4
+11315	钿扇
+	dian4 shan4
+11316	电逝
+	dian4 shi4
+11317	电视台
+	dian4 shi4 tai2
+11318	电台
+	dian4 tai2
+11319	电梯
+	dian4 ti1
+11320	电线
+	dian4 xian4
+11321	电压
+	dian4 ya1
+11322	电影
+	dian4 ying3
+11323	电影院
+	dian4 ying3 yuan4
+11324	电源
+	dian4 yuan2
+11325	垫子
+	dian4 zi5
+11326	彫
+	diao1
+11327	雕刻
+	diao1 ke4
+11328	雕素
+	diao1 su4
+11329	吊
+	diao4
+11330	钓槎
+	diao4 cha2
+11331	调动
+	diao4 dong4
+11332	调度
+	diao4 du4
+11333	调换
+	diao4 huan4
+11334	爹
+	die1
+11335	叠
+	die2
+11336	碟子
+	die2 zi5
+11337	叮
+	ding1
+11338	叮嘱
+	ding1 zhu3
+11339	钉子
+	ding1 zi5
+11340	頂
+	ding3
+11341	顶点
+	ding3 dian3
+11342	顶端
+	ding3 duan1
+11343	定
+	ding4
+11344	定点
+	ding4 dian3
+11345	订讹
+	ding4 e2
+11346	订购
+	ding4 gou4
+11347	订婚
+	ding4 hun1
+11348	订货
+	ding4 huo4
+11349	定价
+	ding4 jia4
+11350	定居
+	ding4 ju1
+11351	订礼
+	ding4 li3
+11352	定量
+	ding4 liang4
+11353	定律
+	ding4 lv4
+11354	订期
+	ding4 qi1
+11355	定项
+	ding4 xiang4
+11356	定性
+	ding4 xing4
+11357	订议
+	ding4 yi4
+11358	订阅
+	ding4 yue4
+11359	丟
+	diu1
+11360	丢人
+	diu1 ren2
+11361	丢失
+	diu1 shi1
+11362	东
+	dong1
+11363	东北
+	dong1 bei3
+11364	东奔西走
+	dong1 ben1 xi1 zou3
+11365	东部
+	dong1 bu4
+11366	东道主
+	dong1 dao4 zhu3
+11367	东方
+	dong1 fang1
+11368	冬瓜
+	dong1 gua1
+11369	冬季
+	dong1 ji4
+11370	东面
+	dong1 mian4
+11371	东南
+	dong1 nan2
+11372	冬天
+	dong1 tian1
+11373	东西
+	dong1 xi1
+11374	懂
+	dong3
+11375	懂得
+	dong3 de5
+11376	董事
+	dong3 shi4
+11377	动
+	dong4
+11378	洞荡
+	dong4 dang4
+11379	洞宫
+	dong4 gong1
+11380	动机
+	dong4 ji1
+11381	冻结
+	dong4 jie2
+11382	动静
+	dong4 jing4
+11383	动力
+	dong4 li4
+11384	动乱
+	dong4 luan4
+11385	动脉
+	dong4 mai4
+11386	峒人
+	dong4 ren2
+11387	动身
+	dong4 shen1
+11388	动手
+	dong4 shou3
+11389	动态
+	dong4 tai4
+11390	洞悟
+	dong4 wu4
+11391	动物园
+	dong4 wu4 yuan2
+11392	洞猺
+	dong4 yao2
+11393	动用
+	dong4 yong4
+11394	洞螈
+	dong4 yuan2
+11395	动作
+	dong4 zuo4
+11396	兜
+	dou1
+11397	抖
+	dou3
+11398	鬥
+	dou4
+11399	豆腐
+	dou4 fu3
+11400	豆浆
+	dou4 jiang1
+11401	斗争
+	dou4 zheng1
+11402	斗智
+	dou4 zhi4
+11403	豆子
+	dou4 zi5
+11404	督
+	du1
+11405	督促
+	du1 cu4
+11406	都试
+	du1 shi4
+11407	独
+	du2
+11408	黩财
+	du2 cai2
+11409	毒害
+	du2 hai4
+11410	独立
+	du2 li4
+11411	独立自主
+	du2 li4 zi4 zhu3
+11412	毒品
+	du2 pin3
+11413	读书
+	du2 shu1
+11414	独特
+	du2 te4
+11415	读物
+	du2 wu4
+11416	独幸
+	du2 xing4
+11417	读者
+	du2 zhe3
+11418	独自
+	du2 zi4
+11419	賭
+	du3
+11420	赌博
+	du3 bo2
+11421	赌色
+	du3 se4
+11422	肚子
+	du3 zi5
+11423	渡
+	du4
+11424	渡船
+	du4 chuan2
+11425	渡过
+	du4 guo4
+11426	杜绝
+	du4 jue2
+11427	渡口
+	du4 kou3
+11428	端
+	duan1
+11429	端正
+	duan1 zheng4
+11430	短
+	duan3
+11431	短绌
+	duan3 chu4
+11432	短促
+	duan3 cu4
+11433	短期
+	duan3 qi1
+11434	短暂
+	duan3 zan4
+11435	段
+	duan4
+11436	断定
+	duan4 ding4
+11437	断断续续
+	duan4 duan4 xu4 xu4
+11438	断绝
+	duan4 jue2
+11439	锻练
+	duan4 lian4
+11440	缎子
+	duan4 zi5
+11441	塠
+	dui1
+11442	堆积
+	dui1 ji1
+11443	对
+	dui4
+11444	对案
+	dui4 an4
+11445	怼笔
+	dui4 bi3
+11446	对不起
+	dui4 bu4 qi3
+11447	对策
+	dui4 ce4
+11448	对衬
+	dui4 chen4
+11449	对待
+	dui4 dai4
+11450	对得起
+	dui4 de5 qi3
+11451	碓坊
+	dui4 fang1
+11452	队副
+	dui4 fu4
+11453	对话
+	dui4 hua4
+11454	对换
+	dui4 huan4
+11455	对抗
+	dui4 kang4
+11456	对了
+	dui4 le5
+11457	对立
+	dui4 li4
+11458	对联
+	dui4 lian2
+11459	对门
+	dui4 men2
+11460	对面
+	dui4 mian4
+11461	对手
+	dui4 shou3
+11462	碓投
+	dui4 tou2
+11463	队舞
+	dui4 wu3
+11464	兑现
+	dui4 xian4
+11465	对象
+	dui4 xiang4
+11466	对映
+	dui4 ying4
+11467	对于
+	dui4 yu2
+11468	队员
+	dui4 yuan2
+11469	队长
+	dui4 zhang3
+11470	对诏
+	dui4 zhao4
+11471	噸
+	dun1
+11472	鈍
+	dun4
+11473	顿食
+	dun4 shi2
+11474	多
+	duo1
+11475	多半
+	duo1 ban4
+11476	多亏
+	duo1 kui1
+11477	多么
+	duo1 me5
+11478	多媒体
+	duo1 mei2 ti3
+11479	多少
+	duo1 shao3
+11480	多束
+	duo1 shu4
+11481	哆嗦
+	duo1 suo5
+11482	多虞
+	duo1 yu2
+11483	夺
+	duo2
+11484	夺得
+	duo2 de5
+11485	夺取
+	duo2 qu3
+11486	躲
+	duo3
+11487	躲避
+	duo3 bi4
+11488	躲藏
+	duo3 cang2
+11489	剁
+	duo4
+11490	陊落
+	duo4 luo4
+11491	𦕰
+	duo5
+11492	俄
+	e2
+11493	额外
+	e2 wai4
+11494	蛾子
+	e2 zi5
+11495	砈
+	e3
+11496	恶心
+	e3 xin1
+11497	餓
+	e4
+11498	恶毒
+	e4 du2
+11499	腭化
+	e4 hua4
+11500	颚裂
+	e4 lie4
+11501	恶性
+	e4 xing4
+11502	恩
+	en1
+11503	恩爱
+	en1 ai4
+11504	恩情
+	en1 qing2
+11505	恩人
+	en1 ren2
+11506	児
+	er2
+11507	而后
+	er2 hou4
+11508	儿女
+	er2 nv3
+11509	而且
+	er2 qie3
+11510	儿童
+	er2 tong2
+11511	而已
+	er2 yi3
+11512	儿子
+	er2 zi5
+11513	尔
+	er3
+11514	二
+	er4
+11515	二氧化碳
+	er4 yang3 hua4 tan4
+11516	発
+	fa1
+11517	发表
+	fa1 biao3
+11518	发病
+	fa1 bing4
+11519	发布
+	fa1 bu4
+11520	发财
+	fa1 cai2
+11521	发愁
+	fa1 chou2
+11522	发出
+	fa1 chu1
+11523	发达
+	fa1 da2
+11524	发电
+	fa1 dian4
+11525	发动
+	fa1 dong4
+11526	发抖
+	fa1 dou3
+11527	发愤图强
+	fa1 fen4 tu2 qiang2
+11528	发辉
+	fa1 hui1
+11529	发火
+	fa1 huo3
+11530	发觉
+	fa1 jue2
+11531	发明
+	fa1 ming2
+11532	发脾气
+	fa1 pi2 qi4
+11533	发票
+	fa1 piao4
+11534	发起
+	fa1 qi3
+11535	发热
+	fa1 re4
+11536	发烧
+	fa1 shao1
+11537	发射
+	fa1 she4
+11538	发生
+	fa1 sheng1
+11539	发誓
+	fa1 shi4
+11540	发现
+	fa1 xian4
+11541	发铏
+	fa1 xing2
+11542	发颜
+	fa1 yan2
+11543	发扬
+	fa1 yang2
+11544	发扬光大
+	fa1 yang2 guang1 da4
+11545	发郁
+	fa1 yu4
+11546	发展
+	fa1 zhan3
+11547	罚
+	fa2
+11548	罚款
+	fa2 kuan3
+11549	法
+	fa3
+11550	法定
+	fa3 ding4
+11551	法官
+	fa3 guan1
+11552	法规
+	fa3 gui1
+11553	法令
+	fa3 ling4
+11554	法律
+	fa3 lv4
+11555	法人
+	fa3 ren2
+11556	法庭
+	fa3 ting2
+11557	法西斯
+	fa3 xi1 si1
+11558	法院
+	fa3 yuan4
+11559	法则
+	fa3 ze2
+11560	法治
+	fa3 zhi4
+11561	法子
+	fa3 zi5
+11562	珐
+	fa4
+11563	翻
+	fan1
+11564	颿船
+	fan1 chuan2
+11565	蕃茄
+	fan1 qie2
+11566	翻身
+	fan1 shen1
+11567	飜译
+	fan1 yi4
+11568	凡
+	fan2
+11569	繁多
+	fan2 duo1
+11570	繁华
+	fan2 hua2
+11571	繁忙
+	fan2 mang2
+11572	烦闷
+	fan2 men4
+11573	烦恼
+	fan2 nao3
+11574	繁荣
+	fan2 rong2
+11575	繁饰
+	fan2 shi4
+11576	繁体字
+	fan2 ti3 zi4
+11577	烦躁
+	fan2 zao4
+11578	繁殖
+	fan2 zhi2
+11579	繁重
+	fan2 zhong4
+11580	返
+	fan3
+11581	反驳
+	fan3 bo2
+11582	反常
+	fan3 chang2
+11583	返道
+	fan3 dao4
+11584	反对
+	fan3 dui4
+11585	反而
+	fan3 er2
+11586	返覆
+	fan3 fu4
+11587	反感
+	fan3 gan3
+11588	返躬
+	fan3 gong1
+11589	返回
+	fan3 hui2
+11590	反激
+	fan3 ji1
+11591	反抗
+	fan3 kang4
+11592	反馈
+	fan3 kui4
+11593	反面
+	fan3 mian4
+11594	返舍
+	fan3 she4
+11595	反思
+	fan3 si1
+11596	反问
+	fan3 wen4
+11597	反映
+	fan3 ying4
+11598	返正
+	fan3 zheng4
+11599	反支
+	fan3 zhi1
+11600	犯
+	fan4
+11601	范畴
+	fan4 chou2
+11602	饭店
+	fan4 dian4
+11603	犯法
+	fan4 fa3
+11604	饭馆
+	fan4 guan3
+11605	犯浑
+	fan4 hun2
+11606	泛滥
+	fan4 lan4
+11607	贩卖
+	fan4 mai4
+11608	贩人
+	fan4 ren2
+11609	饭碗
+	fan4 wan3
+11610	范围
+	fan4 wei2
+11611	犯罪
+	fan4 zui4
+11612	芳
+	fang1
+11613	方案
+	fang1 an4
+11614	方便
+	fang1 bian4
+11615	方程
+	fang1 cheng2
+11616	方法
+	fang1 fa3
+11617	方面
+	fang1 mian4
+11618	方式
+	fang1 shi4
+11619	方向
+	fang1 xiang4
+11620	方针
+	fang1 zhen1
+11621	防
+	fang2
+11622	防艾
+	fang2 ai4
+11623	防冬
+	fang2 dong1
+11624	防护
+	fang2 hu4
+11625	房间
+	fang2 jian1
+11626	防守
+	fang2 shou3
+11627	防污
+	fang2 wu1
+11628	防限
+	fang2 xian4
+11629	防汛
+	fang2 xun4
+11630	防疫
+	fang2 yi4
+11631	防驭
+	fang2 yu4
+11632	防止
+	fang2 zhi3
+11633	防治
+	fang2 zhi4
+11634	房子
+	fang2 zi5
+11635	房租
+	fang2 zu1
+11636	訪
+	fang3
+11637	髣拂
+	fang3 fu2
+11638	访问
+	fang3 wen4
+11639	访知
+	fang3 zhi1
+11640	𨾔
+	fang4
+11641	放大
+	fang4 da4
+11642	放驾
+	fang4 jia4
+11643	放气
+	fang4 qi4
+11644	放赦
+	fang4 she4
+11645	放手
+	fang4 shou3
+11646	放松
+	fang4 song1
+11647	放心
+	fang4 xin1
+11648	放学
+	fang4 xue2
+11649	放映
+	fang4 ying4
+11650	堏
+	fang5
+11651	飛
+	fei1
+11652	非常
+	fei1 chang2
+11653	飞船
+	fei1 chuan2
+11654	非法
+	fei1 fa3
+11655	飞机
+	fei1 ji1
+11656	飞快
+	fei1 kuai4
+11657	飞舞
+	fei1 wu3
+11658	飞翔
+	fei1 xiang2
+11659	飞行
+	fei1 xing2
+11660	飞跃
+	fei1 yue4
+11661	淝
+	fei2
+11662	肥料
+	fei2 liao4
+11663	肥沃
+	fei2 wo4
+11664	肥皂
+	fei2 zao4
+11665	斐
+	fei3
+11666	诽谤
+	fei3 bang4
+11667	匪徒
+	fei3 tu2
+11668	费
+	fei4
+11669	废除
+	fei4 chu2
+11670	费话
+	fei4 hua4
+11671	费力
+	fei4 li4
+11672	废品
+	fei4 pin3
+11673	费气
+	fei4 qi4
+11674	沸腾
+	fei4 teng2
+11675	费务
+	fei4 wu4
+11676	废墟
+	fei4 xu1
+11677	费用
+	fei4 yong4
+11678	芬
+	fen1
+11679	分辩
+	fen1 bian4
+11680	分别
+	fen1 bie2
+11681	分部
+	fen1 bu4
+11682	分寸
+	fen1 cun4
+11683	分队
+	fen1 dui4
+11684	芬芳
+	fen1 fang1
+11685	雰雰
+	fen1 fen1
+11686	芬馥
+	fen1 fu4
+11687	分割
+	fen1 ge1
+11688	分工
+	fen1 gong1
+11689	雰虹
+	fen1 hong2
+11690	分画
+	fen1 hua4
+11691	分解
+	fen1 jie3
+11692	分类
+	fen1 lei4
+11693	分离
+	fen1 li2
+11694	芬烈
+	fen1 lie4
+11695	分蜜
+	fen1 mi4
+11696	分明
+	fen1 ming2
+11697	分母
+	fen1 mu3
+11698	分配
+	fen1 pei4
+11699	纷披
+	fen1 pi1
+11700	分期
+	fen1 qi1
+11701	纷歧
+	fen1 qi2
+11702	分清
+	fen1 qing1
+11703	分散
+	fen1 san3
+11704	分述
+	fen1 shu4
+11705	分析
+	fen1 xi1
+11706	分枝
+	fen1 zhi1
+11707	分钟
+	fen1 zhong1
+11708	坟
+	fen2
+11709	焚牧
+	fen2 mu4
+11710	粉
+	fen3
+11711	粉笔
+	fen3 bi3
+11712	粉末
+	fen3 mo4
+11713	粉碎
+	fen3 sui4
+11714	粪
+	fen4
+11715	忿斗
+	fen4 dou4
+11716	愤恨
+	fen4 hen4
+11717	分量
+	fen4 liang4
+11718	愤怒
+	fen4 nu4
+11719	分外
+	fen4 wai4
+11720	愤踊
+	fen4 yong3
+11721	奋战
+	fen4 zhan4
+11722	分子
+	fen4 zi3
+11723	风
+	feng1
+11724	风暴
+	feng1 bao4
+11725	风痹
+	feng1 bi4
+11726	风铲
+	feng1 chan3
+11727	风度
+	feng1 du4
+11728	风赋
+	feng1 fu4
+11729	风蛤
+	feng1 ge2
+11730	风光
+	feng1 guang1
+11731	风鍳
+	feng1 jian4
+11732	风警
+	feng1 jing3
+11733	风狂
+	feng1 kuang2
+11734	风浪
+	feng1 lang4
+11735	风砾
+	feng1 li4
+11736	丰满
+	feng1 man3
+11737	蜂蜜
+	feng1 mi4
+11738	风气
+	feng1 qi4
+11739	风趣
+	feng1 qu4
+11740	风沙
+	feng1 sha1
+11741	风尚
+	feng1 shang4
+11742	丰收
+	feng1 shou1
+11743	风俗
+	feng1 su2
+11744	封锁
+	feng1 suo3
+11745	风味
+	feng1 wei4
+11746	风险
+	feng1 xian3
+11747	风筝
+	feng1 zheng1
+11748	疯子
+	feng1 zi5
+11749	㦀
+	feng2
+11750	𢇫
+	feng3
+11751	讽刺
+	feng3 ci4
+11752	奉
+	feng4
+11753	鳯凰
+	feng4 huang2
+11754	缝线
+	feng4 xian4
+11755	奉行
+	feng4 xing2
+11756	仏
+	fo2
+11757	缶
+	fou3
+11758	否定
+	fou3 ding4
+11759	否决
+	fou3 jue2
+11760	否认
+	fou3 ren4
+11761	否则
+	fou3 ze2
+11762	敷
+	fu1
+11763	夫妇
+	fu1 fu4
+11764	夫妻
+	fu1 qi1
+11765	夫人
+	fu1 ren2
+11766	敷衍
+	fu1 yan3
+11767	彿
+	fu2
+11768	服从
+	fu2 cong2
+11769	浮雕
+	fu2 diao1
+11770	浮动
+	fu2 dong4
+11771	浮蠹
+	fu2 du4
+11772	符号
+	fu2 hao4
+11773	符合
+	fu2 he2
+11774	符吏
+	fu2 li4
+11775	俘虏
+	fu2 lu3
+11776	符契
+	fu2 qi4
+11777	鵩舍
+	fu2 she4
+11778	福物
+	fu2 wu4
+11779	服务员
+	fu2 wu4 yuan2
+11780	符桩
+	fu2 zhuang1
+11781	府
+	fu3
+11782	腐败
+	fu3 bai4
+11783	辅导
+	fu3 dao3
+11784	黼画
+	fu3 hua4
+11785	腐烂
+	fu3 lan4
+11786	辅时
+	fu3 shi2
+11787	腐朽
+	fu3 xiu3
+11788	辅养
+	fu3 yang3
+11789	捬育
+	fu3 yu4
+11790	辅助
+	fu3 zhu4
+11791	斧子
+	fu3 zi5
+11792	复
+	fu4
+11793	附出
+	fu4 chu1
+11794	附带
+	fu4 dai4
+11795	负担
+	fu4 dan1
+11796	覆盖
+	fu4 gai4
+11797	附合
+	fu4 he2
+11798	附和
+	fu4 he4
+11799	复活
+	fu4 huo2
+11800	附葭
+	fu4 jia1
+11801	附近
+	fu4 jin4
+11802	附款
+	fu4 kuan3
+11803	腹女
+	fu4 nv3
+11804	负墙
+	fu4 qiang2
+11805	附亲
+	fu4 qin1
+11806	富人
+	fu4 ren2
+11807	负伤
+	fu4 shang1
+11808	阜实
+	fu4 shi2
+11809	附署
+	fu4 shu3
+11810	负数
+	fu4 shu4
+11811	赴席
+	fu4 xi2
+11812	负星
+	fu4 xing1
+11813	附业
+	fu4 ye4
+11814	复印
+	fu4 yin4
+11815	附有
+	fu4 you3
+11816	鲋鱼
+	fu4 yu2
+11817	附语
+	fu4 yu3
+11818	馥郁
+	fu4 yu4
+11819	复杂
+	fu4 za2
+11820	附则
+	fu4 ze2
+11821	附质
+	fu4 zhi4
+11822	负作用
+	fu4 zuo4 yong4
+11823	酜
+	fu5
+11824	嘠
+	ga1
+11825	該
+	gai1
+11826	改
+	gai3
+11827	改编
+	gai3 bian1
+11828	改变
+	gai3 bian4
+11829	改革
+	gai3 ge2
+11830	改建
+	gai3 jian4
+11831	改进
+	gai3 jin4
+11832	改良
+	gai3 liang2
+11833	改善
+	gai3 shan4
+11834	改邪归正
+	gai3 xie2 gui1 zheng4
+11835	改造
+	gai3 zao4
+11836	改正
+	gai3 zheng4
+11837	改组
+	gai3 zu3
+11838	鈣
+	gai4
+11839	概况
+	gai4 kuang4
+11840	概括
+	gai4 kuo4
+11841	概念
+	gai4 nian4
+11842	盖子
+	gai4 zi5
+11843	肝
+	gan1
+11844	干杯
+	gan1 bei1
+11845	甘膬
+	gan1 cui4
+11846	干熯
+	gan1 han4
+11847	干净
+	gan1 jing4
+11848	干扰
+	gan1 rao3
+11849	干涉
+	gan1 she4
+11850	肝心
+	gan1 xin1
+11851	肝炎
+	gan1 yan2
+11852	肝郁
+	gan1 yu4
+11853	干燥
+	gan1 zao4
+11854	竿蔗
+	gan1 zhe4
+11855	敢
+	gan3
+11856	赶道
+	gan3 dao4
+11857	感洞
+	gan3 dong4
+11858	感化
+	gan3 hua4
+11859	感激
+	gan3 ji1
+11860	赶紧
+	gan3 jin3
+11861	敢决
+	gan3 jue2
+11862	感慨
+	gan3 kai3
+11863	赶快
+	gan3 kuai4
+11864	赶忙
+	gan3 mang2
+11865	感冒
+	gan3 mao4
+11866	赶情
+	gan3 qing2
+11867	感染
+	gan3 ran3
+11868	赶上
+	gan3 shang4
+11869	感授
+	gan3 shou4
+11870	敢想
+	gan3 xiang3
+11871	感谢
+	gan3 xie4
+11872	感兴趣
+	gan3 xing4 qu4
+11873	敢于
+	gan3 yu2
+11874	赣
+	gan4
+11875	干部
+	gan4 bu4
+11876	干进
+	gan4 jin4
+11877	干吗
+	gan4 ma2
+11878	赣县
+	gan4 xian4
+11879	刚
+	gang1
+11880	钢笔
+	gang1 bi3
+11881	钢材
+	gang1 cai2
+11882	伉伉
+	gang1 gang1
+11883	纲领
+	gang1 ling3
+11884	钢琴
+	gang1 qin2
+11885	纲要
+	gang1 yao4
+11886	㟠
+	gang3
+11887	港币
+	gang3 bi4
+11888	港口
+	gang3 kou3
+11889	岗位
+	gang3 wei4
+11890	槓
+	gang4
+11891	杠杆
+	gang4 gan3
+11892	糕
+	gao1
+11893	高产
+	gao1 chan3
+11894	高超
+	gao1 chao1
+11895	高潮
+	gao1 chao2
+11896	高大
+	gao1 da4
+11897	高档
+	gao1 dang4
+11898	高等
+	gao1 deng3
+11899	高低
+	gao1 di1
+11900	高度
+	gao1 du4
+11901	高风
+	gao1 feng1
+11902	高贵
+	gao1 gui4
+11903	高级
+	gao1 ji2
+11904	高考
+	gao1 kao3
+11905	高空
+	gao1 kong1
+11906	高粱
+	gao1 liang2
+11907	高明
+	gao1 ming2
+11908	高尚
+	gao1 shang4
+11909	高烧
+	gao1 shao1
+11910	高速
+	gao1 su4
+11911	高温
+	gao1 wen1
+11912	高姓
+	gao1 xing4
+11913	高血压
+	gao1 xue4 ya1
+11914	高压
+	gao1 ya1
+11915	高圆
+	gao1 yuan2
+11916	高涨
+	gao1 zhang3
+11917	高中
+	gao1 zhong1
+11918	稿
+	gao3
+11919	搞鬼
+	gao3 gui3
+11920	搞活
+	gao3 huo2
+11921	稿荐
+	gao3 jian4
+11922	稿纸
+	gao3 zhi3
+11923	稿子
+	gao3 zi5
+11924	誥
+	gao4
+11925	告别
+	gao4 bie2
+11926	诰辞
+	gao4 ci2
+11927	诰诫
+	gao4 jie4
+11928	告诉
+	gao4 su4
+11929	告状
+	gao4 zhuang4
+11930	歌
+	ge1
+11931	胳膊
+	ge1 bo2
+11932	歌唱
+	ge1 chang4
+11933	疙瘩
+	ge1 da1
+11934	歌歌
+	ge1 ge1
+11935	歌剧
+	ge1 ju4
+11936	歌曲
+	ge1 qu3
+11937	歌手
+	ge1 shou3
+11938	謌颂
+	ge1 song4
+11939	歌星
+	ge1 xing1
+11940	謌咏
+	ge1 yong3
+11941	鸽子
+	ge1 zi5
+11942	閣
+	ge2
+11943	鬲闭
+	ge2 bi4
+11944	格格不入
+	ge2 ge2 bu4 ru4
+11945	隔阂
+	ge2 he2
+11946	格局
+	ge2 ju2
+11947	鬲绝
+	ge2 jue2
+11948	隔离
+	ge2 li2
+11949	革命
+	ge2 ming4
+11950	鬲氏
+	ge2 shi4
+11951	隔外
+	ge2 wai4
+11952	革辛
+	ge2 xin1
+11953	箇
+	ge4
+11954	各奔前程
+	ge4 ben4 qian2 cheng2
+11955	各别
+	ge4 bie2
+11956	个儿
+	ge4 er2
+11957	各行各业
+	ge4 hang2 ge4 ye4
+11958	各界
+	ge4 jie4
+11959	各人
+	ge4 ren2
+11960	各式各样
+	ge4 shi4 ge4 yang4
+11961	个体
+	ge4 ti3
+11962	个体户
+	ge4 ti3 hu4
+11963	个性
+	ge4 xing4
+11964	各种
+	ge4 zhong3
+11965	各自
+	ge4 zi4
+11966	个子
+	ge4 zi5
+11967	给以
+	gei3 yi3
+11968	跟
+	gen1
+11969	根本
+	gen1 ben3
+11970	根据
+	gen1 ju4
+11971	根据地
+	gen1 ju4 di4
+11972	跟前
+	gen1 qian2
+11973	根深蔕固
+	gen1 shen1 di4 gu4
+11974	跟随
+	gen1 sui2
+11975	跟头
+	gen1 tou5
+11976	根缘
+	gen1 yuan2
+11977	跟踪
+	gen1 zong1
+11978	耕
+	geng1
+11979	耕地
+	geng1 di4
+11980	更改
+	geng1 gai3
+11981	更换
+	geng1 huan4
+11982	更新
+	geng1 xin1
+11983	更正
+	geng1 zheng4
+11984	耕种
+	geng1 zhong4
+11985	梗
+	geng3
+11986	䱍
+	geng4
+11987	更加
+	geng4 jia1
+11988	公
+	gong1
+11989	公安
+	gong1 an1
+11990	公报
+	gong1 bao4
+11991	工部
+	gong1 bu4
+11992	供不应求
+	gong1 bu4 ying4 qiu2
+11993	工场
+	gong1 chang3
+11994	攻城
+	gong1 cheng2
+11995	工程师
+	gong1 cheng2 shi1
+11996	攻道
+	gong1 dao4
+11997	工地
+	gong1 di4
+11998	宫钿
+	gong1 dian4
+11999	攻读
+	gong1 du2
+12000	功费
+	gong1 fei4
+12001	工夫
+	gong1 fu1
+12002	公告
+	gong1 gao4
+12003	公共
+	gong1 gong4
+12004	公共汽车
+	gong1 gong4 qi4 che1
+12005	攻关
+	gong1 guan1
+12006	工会
+	gong1 hui4
+12007	攻击
+	gong1 ji1
+12008	躬己
+	gong1 ji3
+12009	工技
+	gong1 ji4
+12010	弓筋
+	gong1 jin1
+12011	恭敬
+	gong1 jing4
+12012	攻据
+	gong1 ju4
+12013	工具书
+	gong1 ju4 shu1
+12014	公开
+	gong1 kai1
+12015	攻克
+	gong1 ke4
+12016	宫醪
+	gong1 lao2
+12017	攻理
+	gong1 li3
+12018	攻凌
+	gong1 ling2
+12019	觥録
+	gong1 lu4
+12020	工民
+	gong1 min2
+12021	功能
+	gong1 neng2
+12022	公评
+	gong1 ping2
+12023	恭虔
+	gong1 qian2
+12024	恭请
+	gong1 qing3
+12025	公然
+	gong1 ran2
+12026	恭人
+	gong1 ren2
+12027	公认
+	gong1 ren4
+12028	攻社
+	gong1 she4
+12029	攻势
+	gong1 shi4
+12030	宫司
+	gong1 si1
+12031	公物
+	gong1 wu4
+12032	宫绡
+	gong1 xiao1
+12033	恭孝
+	gong1 xiao4
+12034	工序
+	gong1 xu4
+12035	工业
+	gong1 ye4
+12036	工艺品
+	gong1 yi4 pin3
+12037	宫媵
+	gong1 ying4
+12038	工用
+	gong1 yong4
+12039	公用电话
+	gong1 yong4 dian4 hua4
+12040	工友
+	gong1 you3
+12041	公有制
+	gong1 you3 zhi4
+12042	工员
+	gong1 yuan2
+12043	恭约
+	gong1 yue1
+12044	公债
+	gong1 zhai4
+12045	觥政
+	gong1 zheng4
+12046	工资
+	gong1 zi1
+12047	工作
+	gong1 zuo4
+12048	汞
+	gong3
+12049	拲梏
+	gong3 gu4
+12050	貢
+	gong4
+12051	共产党
+	gong4 chan3 dang3
+12052	共和国
+	gong4 he2 guo2
+12053	贡计
+	gong4 ji4
+12054	贡茗
+	gong4 ming2
+12055	共同
+	gong4 tong2
+12056	贡献
+	gong4 xian4
+12057	共性
+	gong4 xing4
+12058	鈎
+	gou1
+12059	钩结
+	gou1 jie2
+12060	钩通
+	gou1 tong1
+12061	钩子
+	gou1 zi5
+12062	狗
+	gou3
+12063	够
+	gou4
+12064	构成
+	gou4 cheng2
+12065	购买
+	gou4 mai3
+12066	购买力
+	gou4 mai3 li4
+12067	购私
+	gou4 si1
+12068	构想
+	gou4 xiang3
+12069	诟噪
+	gou4 zao4
+12070	孤
+	gu1
+12071	孤单
+	gu1 dan1
+12072	辜毒
+	gu1 du2
+12073	辜负
+	gu1 fu4
+12074	毂毂
+	gu1 gu1
+12075	孤绩
+	gu1 ji4
+12076	軱戾
+	gu1 li4
+12077	姑且
+	gu1 qie3
+12078	骨头
+	gu2 tou5
+12079	股
+	gu3
+12080	鼓吹
+	gu3 chui1
+12081	贾贷
+	gu3 dai4
+12082	鼓点
+	gu3 dian3
+12083	骨冬
+	gu3 dong1
+12084	鼓动
+	gu3 dong4
+12085	股份
+	gu3 fen4
+12086	骨干
+	gu3 gan4
+12087	古恠
+	gu3 guai4
+12088	古迹
+	gu3 ji4
+12089	鼓老
+	gu3 lao3
+12090	鼓隶
+	gu3 li4
+12091	股票
+	gu3 piao4
+12092	鼓人
+	gu3 ren2
+12093	骨肉
+	gu3 rou4
+12094	古文
+	gu3 wen2
+12095	鼓舞
+	gu3 wu3
+12096	鼓涨
+	gu3 zhang3
+12097	骨子
+	gu3 zi5
+12098	故
+	gu4
+12099	锢定
+	gu4 ding4
+12100	顾客
+	gu4 ke4
+12101	顾虑
+	gu4 lv4
+12102	顾全大局
+	gu4 quan2 da4 ju2
+12103	故然
+	gu4 ran2
+12104	顾諟
+	gu4 shi4
+12105	固体
+	gu4 ti3
+12106	顾问
+	gu4 wen4
+12107	故乡
+	gu4 xiang1
+12108	顾意
+	gu4 yi4
+12109	顾佣
+	gu4 yong1
+12110	故有
+	gu4 you3
+12111	雇员
+	gu4 yuan2
+12112	故障
+	gu4 zhang4
+12113	顾直
+	gu4 zhi2
+12114	刮
+	gua1
+12115	瓜分
+	gua1 fen1
+12116	剐
+	gua3
+12117	挂
+	gua4
+12118	挂钩
+	gua4 gou1
+12119	挂号
+	gua4 hao4
+12120	罣念
+	gua4 nian4
+12121	乖
+	guai1
+12122	拐
+	guai3
+12123	拐湾
+	guai3 wan1
+12124	怪
+	guai4
+12125	怪不得
+	guai4 bu4 de2
+12126	关
+	guan1
+12127	官婢
+	guan1 bi4
+12128	官材
+	guan1 cai2
+12129	观测
+	guan1 ce4
+12130	观察
+	guan1 cha2
+12131	观点
+	guan1 dian3
+12132	官方
+	guan1 fang1
+12133	观光
+	guan1 guang1
+12134	官槐
+	guan1 huai2
+12135	观见
+	guan1 jian4
+12136	关节炎
+	guan1 jie2 yan2
+12137	观看
+	guan1 kan4
+12138	官寮
+	guan1 liao2
+12139	官僚主义
+	guan1 liao2 zhu3 yi4
+12140	观念
+	guan1 nian4
+12141	关切
+	guan1 qie4
+12142	观赏
+	guan1 shang3
+12143	关头
+	guan1 tou2
+12144	观戏
+	guan1 xi4
+12145	观心
+	guan1 xin1
+12146	鳏鱼
+	guan1 yu2
+12147	官员
+	guan1 yuan2
+12148	观照
+	guan1 zhao4
+12149	观众
+	guan1 zhong4
+12150	管
+	guan3
+12151	管道
+	guan3 dao4
+12152	管理
+	guan3 li3
+12153	錧辖
+	guan3 xia2
+12154	馆子
+	guan3 zi5
+12155	罐
+	guan4
+12156	贯澈
+	guan4 che4
+12157	盥溉
+	guan4 gai4
+12158	冠军
+	guan4 jun1
+12159	贯利
+	guan4 li4
+12160	贯木
+	guan4 mu4
+12161	罐头
+	guan4 tou5
+12162	惯用语
+	guan4 yong4 yu3
+12163	胱
+	guang1
+12164	光采
+	guang1 cai3
+12165	光棍儿
+	guang1 gun4 er2
+12166	光滑
+	guang1 hua2
+12167	光辉
+	guang1 hui1
+12168	光量
+	guang1 liang4
+12169	光临
+	guang1 lin2
+12170	光铓
+	guang1 mang2
+12171	光明
+	guang1 ming2
+12172	光融
+	guang1 rong2
+12173	光线
+	guang1 xian4
+12174	広
+	guang3
+12175	广播
+	guang3 bo1
+12176	广敞
+	guang3 chang3
+12177	广大
+	guang3 da4
+12178	广泛
+	guang3 fan4
+12179	广告
+	guang3 gao4
+12180	广阔
+	guang3 kuo4
+12181	俇
+	guang4
+12182	归
+	gui1
+12183	规定
+	gui1 ding4
+12184	鲑饭
+	gui1 fan4
+12185	闺阁
+	gui1 ge2
+12186	归根到底
+	gui1 gen1 dao4 di3
+12187	规画
+	gui1 hua4
+12188	归还
+	gui1 huan2
+12189	瑰杰
+	gui1 jie2
+12190	规矩
+	gui1 ju3
+12191	规虑
+	gui1 lv4
+12192	规谟
+	gui1 mo2
+12193	归纳
+	gui1 na4
+12194	闺女
+	gui1 nv3
+12195	规责
+	gui1 ze2
+12196	龟章
+	gui1 zhang1
+12197	鬼
+	gui3
+12198	鬼道
+	gui3 dao4
+12199	鬼子
+	gui3 zi5
+12200	貴
+	gui4
+12201	贵宾
+	gui4 bin1
+12202	贵官
+	gui4 guan1
+12203	桂台
+	gui4 tai2
+12204	贵性
+	gui4 xing4
+12205	贵重
+	gui4 zhong4
+12206	柜子
+	gui4 zi5
+12207	贵足
+	gui4 zu2
+12208	滚
+	gun3
+12209	滚动
+	gun3 dong4
+12210	璭
+	gun4
+12211	棍子
+	gun4 zi5
+12212	锅
+	guo1
+12213	锅炉
+	guo1 lu2
+12214	国
+	guo2
+12215	国产
+	guo2 chan3
+12216	国法
+	guo2 fa3
+12217	国防
+	guo2 fang2
+12218	国讳
+	guo2 hui4
+12219	国籍
+	guo2 ji2
+12220	国际
+	guo2 ji4
+12221	国际法
+	guo2 ji4 fa3
+12222	国际主义
+	guo2 ji4 zhu3 yi4
+12223	国筴
+	guo2 jia1
+12224	国库券
+	guo2 ku4 quan4
+12225	国立
+	guo2 li4
+12226	国民
+	guo2 min2
+12227	国内
+	guo2 nei4
+12228	国棋
+	guo2 qi2
+12229	国情
+	guo2 qing2
+12230	国庆节
+	guo2 qing4 jie2
+12231	国土
+	guo2 tu3
+12232	国王
+	guo2 wang2
+12233	国务院
+	guo2 wu4 yuan4
+12234	国有
+	guo2 you3
+12235	裹
+	guo3
+12236	果断
+	guo3 duan4
+12237	猓然
+	guo3 ran2
+12238	果食
+	guo3 shi2
+12239	裹束
+	guo3 shu4
+12240	㳀
+	guo4
+12241	过程
+	guo4 cheng2
+12242	过渡
+	guo4 du4
+12243	过分
+	guo4 fen4
+12244	过后
+	guo4 hou4
+12245	过来
+	guo4 lai2
+12246	过虑
+	guo4 lv4
+12247	过年
+	guo4 nian2
+12248	过去
+	guo4 qu4
+12249	过失
+	guo4 shi1
+12250	过问
+	guo4 wen4
+12251	过逾
+	guo4 yu2
+12252	铪
+	ha1
+12253	哈哈
+	ha1 ha1
+12254	㨟
+	hai1
+12255	孩
+	hai2
+12256	还视
+	hai2 shi4
+12257	孩子
+	hai2 zi5
+12258	海
+	hai3
+12259	海岸
+	hai3 an4
+12260	海拔
+	hai3 ba2
+12261	海濒
+	hai3 bin1
+12262	海港
+	hai3 gang3
+12263	海关
+	hai3 guan1
+12264	海军
+	hai3 jun1
+12265	海面
+	hai3 mian4
+12266	海外
+	hai3 wai4
+12267	海峡
+	hai3 xia2
+12268	海阳
+	hai3 yang2
+12269	氦
+	hai4
+12270	害虫
+	hai4 chong2
+12271	害处
+	hai4 chu4
+12272	骇怕
+	hai4 pa4
+12273	害羞
+	hai4 xiu1
+12274	嚡
+	hai5
+12275	韓
+	han2
+12276	涵胡
+	han2 hu2
+12277	寒假
+	han2 jia4
+12278	寒冷
+	han2 leng3
+12279	涵量
+	han2 liang4
+12280	韩寿
+	han2 shou4
+12281	寒暄
+	han2 xuan1
+12282	涵意
+	han2 yi4
+12283	寒牖
+	han2 you3
+12284	㘎
+	han3
+12285	罕见
+	han3 jian4
+12286	喊叫
+	han3 jiao4
+12287	汉
+	han4
+12288	汉奸
+	han4 jian1
+12289	汗位
+	han4 wei4
+12290	翰学
+	han4 xue2
+12291	汗雨
+	han4 yu3
+12292	旱灾
+	han4 zai1
+12293	汗渍
+	han4 zi4
+12294	航
+	hang2
+12295	航班
+	hang2 ban1
+12296	行道
+	hang2 dao4
+12297	航海
+	hang2 hai3
+12298	航空
+	hang2 kong1
+12299	行列
+	hang2 lie4
+12300	航天
+	hang2 tian1
+12301	航线
+	hang2 xian4
+12302	航行
+	hang2 xing2
+12303	行业
+	hang2 ye4
+12304	航运
+	hang2 yun4
+12305	豪
+	hao2
+12306	毫不
+	hao2 bu4
+12307	豪猾
+	hao2 hua2
+12308	毫米
+	hao2 mi3
+12309	毫无
+	hao2 wu2
+12310	𤫧
+	hao3
+12311	好比
+	hao3 bi3
+12312	好吃
+	hao3 chi1
+12313	好处
+	hao3 chu4
+12314	好多
+	hao3 duo1
+12315	好感
+	hao3 gan3
+12316	好好儿
+	hao3 hao3 er2
+12317	好坏
+	hao3 huai4
+12318	好酒
+	hao3 jiu3
+12319	好看
+	hao3 kan4
+12320	好容易
+	hao3 rong2 yi4
+12321	好说
+	hao3 shuo1
+12322	好听
+	hao3 ting1
+12323	好玩儿
+	hao3 wan2 er2
+12324	好象
+	hao3 xiang4
+12325	好歇
+	hao3 xie1
+12326	好样的
+	hao3 yang4 de5
+12327	好在
+	hao3 zai4
+12328	好转
+	hao3 zhuan3
+12329	灏
+	hao4
+12330	号称
+	hao4 cheng1
+12331	耗费
+	hao4 fei4
+12332	浩浩荡荡
+	hao4 hao4 dang4 dang4
+12333	好客
+	hao4 ke4
+12334	号码
+	hao4 ma3
+12335	好奇
+	hao4 qi2
+12336	号召
+	hao4 zhao4
+12337	訶
+	he1
+12338	河
+	he2
+12339	和霭
+	he2 ai3
+12340	阖闭
+	he2 bi4
+12341	合并
+	he2 bing4
+12342	和畅
+	he2 chang4
+12343	和成
+	he2 cheng2
+12344	禾稻
+	he2 dao4
+12345	何等
+	he2 deng3
+12346	合法
+	he2 fa3
+12347	阂隔
+	he2 ge2
+12348	合乎
+	he2 hu1
+12349	荷花
+	he2 hua1
+12350	合火
+	he2 huo3
+12351	和解
+	he2 jie3
+12352	鞨巾
+	he2 jin1
+12353	何况
+	he2 kuang4
+12354	荷礼
+	he2 li3
+12355	涸流
+	he2 liu2
+12356	禾苗
+	he2 miao2
+12357	阂目
+	he2 mu4
+12358	龢平
+	he2 ping2
+12359	和平共处
+	he2 ping2 gong4 chu3
+12360	和气
+	he2 qi4
+12361	合情合理
+	he2 qing2 he2 li3
+12362	河上
+	he2 shang4
+12363	龢氏
+	he2 shi4
+12364	核算
+	he2 suan4
+12365	核桃
+	he2 tao2
+12366	龢同
+	he2 tong2
+12367	核武器
+	he2 wu3 qi4
+12368	龢协
+	he2 xie2
+12369	阂心
+	he2 xin1
+12370	合营
+	he2 ying2
+12371	和约
+	he2 yue1
+12372	核资
+	he2 zi1
+12373	阖座
+	he2 zuo4
+12374	賀
+	he4
+12375	贺辞
+	he4 ci2
+12376	黑
+	hei1
+12377	黑黯
+	hei1 an4
+12378	黑白
+	hei1 bai2
+12379	黑板
+	hei1 ban3
+12380	黑夜
+	hei1 ye4
+12381	拫
+	hen2
+12382	痕迹
+	hen2 ji4
+12383	很
+	hen3
+12384	狠毒
+	hen3 du2
+12385	狠心
+	hen3 xin1
+12386	恨
+	hen4
+12387	恨不得
+	hen4 bu4 de2
+12388	涥
+	heng1
+12389	橫
+	heng2
+12390	恒星
+	heng2 xing1
+12391	衡行
+	heng2 xing2
+12392	堼
+	heng4
+12393	轟
+	hong1
+12394	轰动
+	hong1 dong4
+12395	轰轰烈烈
+	hong1 hong1 lie4 lie4
+12396	轰炸
+	hong1 zha4
+12397	鸿
+	hong2
+12398	红茶
+	hong2 cha2
+12399	鸿大
+	hong2 da4
+12400	红领巾
+	hong2 ling3 jin1
+12401	虹旗
+	hong2 qi2
+12402	鸿水
+	hong2 shui3
+12403	闳伟
+	hong2 wei3
+12404	㬴
+	hong3
+12405	訌
+	hong4
+12406	猴
+	hou2
+12407	喉咙
+	hou2 long2
+12408	瘊子
+	hou2 zi5
+12409	吼
+	hou3
+12410	后
+	hou4
+12411	后鞭
+	hou4 bian1
+12412	候补
+	hou4 bu3
+12413	后代
+	hou4 dai4
+12414	厚度
+	hou4 du4
+12415	后方
+	hou4 fang1
+12416	后果
+	hou4 guo3
+12417	后悔
+	hou4 hui3
+12418	后来
+	hou4 lai2
+12419	后面
+	hou4 mian4
+12420	后年
+	hou4 nian2
+12421	后期
+	hou4 qi1
+12422	后秦
+	hou4 qin2
+12423	后台
+	hou4 tai2
+12424	后天
+	hou4 tian1
+12425	后头
+	hou4 tou5
+12426	后退
+	hou4 tui4
+12427	候选人
+	hou4 xuan3 ren2
+12428	乎
+	hu1
+12429	糊糊
+	hu1 hu1
+12430	忽略
+	hu1 lve4
+12431	忽然
+	hu1 ran2
+12432	呼声
+	hu1 sheng1
+12433	忽视
+	hu1 shi4
+12434	呼豨
+	hu1 xi1
+12435	呼啸
+	hu1 xiao4
+12436	淴浴
+	hu1 yu4
+12437	湖
+	hu2
+12438	蝴蝶
+	hu2 die2
+12439	胡来
+	hu2 lai2
+12440	胡离
+	hu2 li2
+12441	葫芦
+	hu2 lu2
+12442	胡乱
+	hu2 luan4
+12443	胡说
+	hu2 shuo1
+12444	胡衕
+	hu2 tong4
+12445	鹘鶟
+	hu2 tu2
+12446	胡子
+	hu2 zi5
+12447	琥
+	hu3
+12448	戶
+	hu4
+12449	户口
+	hu4 kou3
+12450	扈隶
+	hu4 li4
+12451	护视
+	hu4 shi4
+12452	护箱
+	hu4 xiang1
+12453	护照
+	hu4 zhao4
+12454	护筑
+	hu4 zhu4
+12455	𩾇
+	hu5
+12456	花
+	hua1
+12457	花朶
+	hua1 duo3
+12458	花费
+	hua1 fei4
+12459	花蘤
+	hua1 hua1
+12460	花色
+	hua1 se4
+12461	花生
+	hua1 sheng1
+12462	花纹
+	hua1 wen2
+12463	花样
+	hua1 yang4
+12464	花源
+	hua1 yuan2
+12465	鏵
+	hua2
+12466	滑冰
+	hua2 bing1
+12467	猾吏
+	hua2 li4
+12468	华侨
+	hua2 qiao2
+12469	哗人
+	hua2 ren2
+12470	滑雪
+	hua2 xue3
+12471	話
+	hua4
+12472	画报
+	hua4 bao4
+12473	化儿
+	hua4 er2
+12474	化肥
+	hua4 fei2
+12475	画分
+	hua4 fen1
+12476	画工
+	hua4 gong1
+12477	化合
+	hua4 he2
+12478	画家
+	hua4 jia1
+12479	话剧
+	hua4 ju4
+12480	画面
+	hua4 mian4
+12481	画蛇添足
+	hua4 she2 tian1 zu2
+12482	画石
+	hua4 shi2
+12483	话题
+	hua4 ti2
+12484	话仙
+	hua4 xian1
+12485	画学
+	hua4 xue2
+12486	化验
+	hua4 yan4
+12487	画妆
+	hua4 zhuang1
+12488	懷
+	huai2
+12489	怀念
+	huai2 nian4
+12490	槐树
+	huai2 shu4
+12491	淮夷
+	huai2 yi2
+12492	怀韫
+	huai2 yun4
+12493	壊
+	huai4
+12494	坏处
+	huai4 chu4
+12495	坏蛋
+	huai4 dan4
+12496	欢
+	huan1
+12497	驩呼
+	huan1 hu1
+12498	驩乐
+	huan1 le4
+12499	讙讼
+	huan1 song4
+12500	驩喜
+	huan1 xi3
+12501	驩笑
+	huan1 xiao4
+12502	驩迎
+	huan1 ying2
+12503	环
+	huan2
+12504	鬟结
+	huan2 jie2
+12505	环境
+	huan2 jing4
+12506	还源
+	huan2 yuan2
+12507	緩
+	huan3
+12508	缓和
+	huan3 he2
+12509	缓缓
+	huan3 huan3
+12510	缓漫
+	huan3 man4
+12511	换
+	huan4
+12512	幻灯
+	huan4 deng1
+12513	换取
+	huan4 qu3
+12514	幻想
+	huan4 xiang3
+12515	患者
+	huan4 zhe3
+12516	肓
+	huang1
+12517	荒地
+	huang1 di4
+12518	荒凉
+	huang1 liang2
+12519	荒乱
+	huang1 luan4
+12520	荒茫
+	huang1 mang2
+12521	荒谬
+	huang1 miu4
+12522	荒唐
+	huang1 tang2
+12523	荒獐
+	huang1 zhang1
+12524	黃
+	huang2
+12525	蝗虫
+	huang2 chong2
+12526	黄弟
+	huang2 di4
+12527	黄瓜
+	huang2 gua1
+12528	黄后
+	huang2 hou4
+12529	黄昏
+	huang2 hun1
+12530	黄金
+	huang2 jin1
+12531	黄色
+	huang2 se4
+12532	黄油
+	huang2 you2
+12533	謊
+	huang3
+12534	皝
+	huang4
+12535	灰
+	hui1
+12536	灰沉
+	hui1 chen2
+12537	恢富
+	hui1 fu4
+12538	辉皇
+	hui1 huang2
+12539	灰货
+	hui1 huo4
+12540	隳心
+	hui1 xin1
+12541	回
+	hui2
+12542	回避
+	hui2 bi4
+12543	回答
+	hui2 da2
+12544	回顾
+	hui2 gu4
+12545	回击
+	hui2 ji1
+12546	回觑
+	hui2 qu4
+12547	回收
+	hui2 shou1
+12548	回头
+	hui2 tou2
+12549	回想
+	hui2 xiang3
+12550	回信
+	hui2 xin4
+12551	回翼
+	hui2 yi4
+12552	毀
+	hui3
+12553	悔改
+	hui3 gai3
+12554	悔恨
+	hui3 hen4
+12555	毁坏
+	hui3 huai4
+12556	毁灭
+	hui3 mie4
+12557	匯
+	hui4
+12558	汇报
+	hui4 bao4
+12559	会场
+	hui4 chang3
+12560	诲化
+	hui4 hua4
+12561	讳疾
+	hui4 ji2
+12562	秽贱
+	hui4 jian4
+12563	汇刻
+	hui4 ke4
+12564	汇款
+	hui4 kuan3
+12565	贿赂
+	hui4 lu4
+12566	汇率
+	hui4 lv4
+12567	秽谈
+	hui4 tan2
+12568	会同
+	hui4 tong2
+12569	秽物
+	hui4 wu4
+12570	诲益
+	hui4 yi4
+12571	会垣
+	hui4 yuan2
+12572	婚
+	hun1
+12573	昏迷
+	hun1 mi2
+12574	昏婣
+	hun1 yin1
+12575	魂
+	hun2
+12576	浑身
+	hun2 shen1
+12577	混浊
+	hun2 zhuo2
+12578	諢
+	hun4
+12579	混纺
+	hun4 fang3
+12580	混阖
+	hun4 he2
+12581	混合物
+	hun4 he2 wu4
+12582	混乱
+	hun4 luan4
+12583	混凝土
+	hun4 ning2 tu3
+12584	混淆
+	hun4 xiao2
+12585	鍃
+	huo1
+12586	佸
+	huo2
+12587	活动
+	huo2 dong4
+12588	活儿
+	huo2 er5
+12589	活该
+	huo2 gai1
+12590	活力
+	huo2 li4
+12591	活跃
+	huo2 yue4
+12592	夥
+	huo3
+12593	火伴
+	huo3 ban4
+12594	火柴
+	huo3 chai2
+12595	火车
+	huo3 che1
+12596	火齐
+	huo3 ji4
+12597	火鉴
+	huo3 jian4
+12598	火粒
+	huo3 li4
+12599	火山
+	huo3 shan1
+12600	火食
+	huo3 shi2
+12601	火焱
+	huo3 yan4
+12602	火药
+	huo3 yao4
+12603	火烖
+	huo3 zai1
+12604	獲
+	huo4
+12605	货币
+	huo4 bi4
+12606	霍德
+	huo4 de2
+12607	或多或少
+	huo4 duo1 huo4 shao3
+12608	祸害
+	huo4 hai4
+12609	货取
+	huo4 qu3
+12610	货市
+	huo4 shi4
+12611	货物
+	huo4 wu4
+12612	或许
+	huo4 xu3
+12613	获者
+	huo4 zhe3
+12614	機
+	ji1
+12615	箕畚
+	ji1 ben3
+12616	基层
+	ji1 ceng2
+12617	鸡场
+	ji1 chang3
+12618	机车
+	ji1 che1
+12619	积褚
+	ji1 chu3
+12620	机床
+	ji1 chuang2
+12621	鸡蛋
+	ji1 dan4
+12622	积墆
+	ji1 di4
+12623	鸡冻
+	ji1 dong4
+12624	饥饿
+	ji1 e4
+12625	赍发
+	ji1 fa1
+12626	稽诟
+	ji1 gou4
+12627	鸡冠
+	ji1 guan1
+12628	激光
+	ji1 guang1
+12629	几乎
+	ji1 hu1
+12630	箕会
+	ji1 hui4
+12631	饥棘
+	ji1 ji2
+12632	积极性
+	ji1 ji2 xing4
+12633	积金
+	ji1 jin1
+12634	积絫
+	ji1 lei3
+12635	鸡栗
+	ji1 li4
+12636	积烈
+	ji1 lie4
+12637	跻陵
+	ji1 ling2
+12638	积幂
+	ji1 mi4
+12639	韲器
+	ji1 qi4
+12640	机枪
+	ji1 qiang1
+12641	赍擎
+	ji1 qing2
+12642	鸡肉
+	ji1 rou4
+12643	鸡素
+	ji1 su4
+12644	肌体
+	ji1 ti3
+12645	踦校
+	ji1 xiao4
+12646	羁绁
+	ji1 xie4
+12647	羁押
+	ji1 ya1
+12648	羁寓
+	ji1 yu4
+12649	隮陟
+	ji1 zhi4
+12650	及
+	ji2
+12651	疾便
+	ji2 bian4
+12652	级别
+	ji2 bie2
+12653	疾病
+	ji2 bing4
+12654	疾妒
+	ji2 du4
+12655	棘端
+	ji2 duan1
+12656	疾革
+	ji2 ge2
+12657	籍贯
+	ji2 guan4
+12658	集合
+	ji2 he2
+12659	集会
+	ji2 hui4
+12660	棘橿
+	ji2 jiang1
+12661	集聚
+	ji2 ju4
+12662	极了
+	ji2 le5
+12663	瘠立
+	ji2 li4
+12664	吉良
+	ji2 liang2
+12665	疾忙
+	ji2 mang2
+12666	吉普车
+	ji2 pu3 che1
+12667	疾骑
+	ji2 qi2
+12668	急切
+	ji2 qie4
+12669	籍湜
+	ji2 shi2
+12670	集矢
+	ji2 shi3
+12671	集释
+	ji2 shi4
+12672	集体
+	ji2 ti3
+12673	集团
+	ji2 tuan2
+12674	极限
+	ji2 xian4
+12675	吉祥
+	ji2 xiang2
+12676	急须
+	ji2 xu1
+12677	集邮
+	ji2 you2
+12678	极娱
+	ji2 yu2
+12679	疾早
+	ji2 zao3
+12680	急躁
+	ji2 zao4
+12681	集中
+	ji2 zhong1
+12682	集资
+	ji2 zi1
+12683	挤
+	ji3
+12684	掎龁
+	ji3 he2
+12685	给予
+	ji3 yu3
+12686	旣
+	ji4
+12687	记乘
+	ji4 cheng2
+12688	记得
+	ji4 de5
+12689	计度
+	ji4 du4
+12690	记号
+	ji4 hao4
+12691	计画
+	ji4 hua4
+12692	计较
+	ji4 jiao4
+12693	记结
+	ji4 jie2
+12694	寄径
+	ji4 jing4
+12695	骥騄
+	ji4 lu4
+12696	计虑
+	ji4 lv4
+12697	祭陌
+	ji4 mo4
+12698	技能
+	ji4 neng2
+12699	记念
+	ji4 nian4
+12700	记念品
+	ji4 nian4 pin3
+12701	技巧
+	ji4 qiao3
+12702	济然
+	ji4 ran2
+12703	记述
+	ji4 shu4
+12704	技术员
+	ji4 shu4 yuan2
+12705	记算
+	ji4 suan4
+12706	计算机
+	ji4 suan4 ji1
+12707	济脱
+	ji4 tuo1
+12708	迹象
+	ji4 xiang4
+12709	际幸
+	ji4 xing4
+12710	记序
+	ji4 xu4
+12711	记要
+	ji4 yao4
+12712	记臆
+	ji4 yi4
+12713	记忆力
+	ji4 yi4 li4
+12714	记载
+	ji4 zai3
+12715	记者
+	ji4 zhe3
+12716	加
+	jia1
+12717	加班
+	jia1 ban1
+12718	家常
+	jia1 chang2
+12719	家畜
+	jia1 chu4
+12720	家公
+	jia1 gong1
+12721	家伙
+	jia1 huo5
+12722	家集
+	jia1 ji2
+12723	嘉奖
+	jia1 jiang3
+12724	夹紧
+	jia1 jin3
+12725	家具
+	jia1 ju4
+12726	葭墙
+	jia1 qiang2
+12727	加热
+	jia1 re4
+12728	加入
+	jia1 ru4
+12729	加深
+	jia1 shen1
+12730	家鼠
+	jia1 shu3
+12731	家粟
+	jia1 su4
+12732	家廷
+	jia1 ting2
+12733	家物
+	jia1 wu4
+12734	家相
+	jia1 xiang1
+12735	加以
+	jia1 yi3
+12736	加油
+	jia1 you2
+12737	家谕户晓
+	jia1 yu4 hu4 xiao3
+12738	夹杂
+	jia1 za2
+12739	家长
+	jia1 zhang3
+12740	家种
+	jia1 zhong4
+12741	家子
+	jia1 zi5
+12742	頰
+	jia2
+12743	甲
+	jia3
+12744	甲板
+	jia3 ban3
+12745	假定
+	jia3 ding4
+12746	假冒
+	jia3 mao4
+12747	假如
+	jia3 ru2
+12748	假若
+	jia3 ruo4
+12749	甲舍
+	jia3 she4
+12750	假使
+	jia3 shi3
+12751	假装
+	jia3 zhuang1
+12752	架
+	jia4
+12753	架阁
+	jia4 ge2
+12754	假期
+	jia4 qi1
+12755	价钱
+	jia4 qian2
+12756	驾驶
+	jia4 shi3
+12757	假条
+	jia4 tiao2
+12758	价直
+	jia4 zhi2
+12759	架子
+	jia4 zi5
+12760	兼
+	jian1
+12761	肩膀
+	jian1 bang3
+12762	监查
+	jian1 cha2
+12763	坚持
+	jian1 chi2
+12764	监定
+	jian1 ding4
+12765	监督
+	jian1 du1
+12766	尖端
+	jian1 duan1
+12767	监锢
+	jian1 gu4
+12768	间距
+	jian1 ju4
+12769	鹣蟨
+	jian1 jue2
+12770	艰苦
+	jian1 ku3
+12771	熸灭
+	jian1 mie4
+12772	艰难
+	jian1 nan2
+12773	肩墙
+	jian1 qiang2
+12774	肩任
+	jian1 ren4
+12775	尖锐
+	jian1 rui4
+12776	艰食
+	jian1 shi2
+12777	笺释
+	jian1 shi4
+12778	艰险
+	jian1 xian3
+12779	奸衅
+	jian1 xin4
+12780	坚硬
+	jian1 ying4
+12781	餰鬻
+	jian1 yu4
+12782	坚贞不屈
+	jian1 zhen1 bu4 qu1
+12783	尖子
+	jian1 zi5
+12784	简
+	jian3
+12785	简便
+	jian3 bian4
+12786	翦彩
+	jian3 cai3
+12787	蹇策
+	jian3 ce4
+12788	简察
+	jian3 cha2
+12789	蹇浐
+	jian3 chan3
+12790	简称
+	jian3 cheng1
+12791	简单
+	jian3 dan1
+12792	翦刀
+	jian3 dao1
+12793	蹇羝
+	jian3 di1
+12794	简短
+	jian3 duan3
+12795	简化
+	jian3 hua4
+12796	简举
+	jian3 ju3
+12797	谫陋
+	jian3 lou4
+12798	简明
+	jian3 ming2
+12799	减轻
+	jian3 qing1
+12800	蹇弱
+	jian3 ruo4
+12801	简少
+	jian3 shao3
+12802	简讨
+	jian3 tao3
+12803	简体字
+	jian3 ti3 zi4
+12804	蹇修
+	jian3 xiu1
+12805	简验
+	jian3 yan4
+12806	简要
+	jian3 yao4
+12807	翦抑
+	jian3 yi4
+12808	蹇直
+	jian3 zhi2
+12809	建
+	jian4
+12810	饯别
+	jian4 bie2
+12811	鉴定
+	jian4 ding4
+12812	间隔
+	jian4 ge2
+12813	鏩鏩
+	jian4 jian4
+12814	建交
+	jian4 jiao1
+12815	间接
+	jian4 jie1
+12816	见解
+	jian4 jie3
+12817	建康
+	jian4 kang1
+12818	践莅
+	jian4 li4
+12819	健美
+	jian4 mei3
+12820	见面
+	jian4 mian4
+12821	键盘
+	jian4 pan2
+12822	健全
+	jian4 quan2
+12823	谏舍
+	jian4 she4
+12824	鉴识
+	jian4 shi2
+12825	践蹋
+	jian4 ta4
+12826	践校
+	jian4 xiao4
+12827	贱易
+	jian4 yi4
+12828	鉴于
+	jian4 yu2
+12829	贱造
+	jian4 zao4
+12830	楗柱
+	jian4 zhu4
+12831	见状
+	jian4 zhuang4
+12832	江
+	jiang1
+12833	江禁
+	jiang1 jin4
+12834	江君
+	jiang1 jun1
+12835	将来
+	jiang1 lai2
+12836	将要
+	jiang1 yao4
+12837	講
+	jiang3
+12838	讲话
+	jiang3 hua4
+12839	讲解
+	jiang3 jie3
+12840	奬金
+	jiang3 jin1
+12841	讲课
+	jiang3 ke4
+12842	讲礼
+	jiang3 li3
+12843	蒋厉
+	jiang3 li4
+12844	奬品
+	jiang3 pin3
+12845	讲述
+	jiang3 shu4
+12846	奬学金
+	jiang3 xue2 jin1
+12847	讲演
+	jiang3 yan3
+12848	讲议
+	jiang3 yi4
+12849	奬状
+	jiang3 zhuang4
+12850	讲座
+	jiang3 zuo4
+12851	酱
+	jiang4
+12852	降低
+	jiang4 di1
+12853	降驾
+	jiang4 jia4
+12854	降临
+	jiang4 lin2
+12855	降落
+	jiang4 luo4
+12856	酱油
+	jiang4 you2
+12857	杢
+	jiang5
+12858	交
+	jiao1
+12859	骄骜
+	jiao1 ao4
+12860	交叉
+	jiao1 cha1
+12861	交错
+	jiao1 cuo4
+12862	骄怠
+	jiao1 dai4
+12863	焦点
+	jiao1 dian3
+12864	骄富
+	jiao1 fu4
+12865	郊祼
+	jiao1 guan4
+12866	蛟患
+	jiao1 huan4
+12867	郊籍
+	jiao1 ji2
+12868	骄忌
+	jiao1 ji4
+12869	胶卷
+	jiao1 juan3
+12870	浇流
+	jiao1 liu2
+12871	胶片
+	jiao1 pian4
+12872	娇气
+	jiao1 qi4
+12873	郊区
+	jiao1 qu1
+12874	郊赦
+	jiao1 she4
+12875	浇手
+	jiao1 shou3
+12876	郊坛
+	jiao1 tan2
+12877	焦炭
+	jiao1 tan4
+12878	娇殢
+	jiao1 ti4
+12879	交通
+	jiao1 tong1
+12880	交往
+	jiao1 wang3
+12881	骄逸
+	jiao1 yi4
+12882	搅
+	jiao3
+12883	搅拌
+	jiao3 ban4
+12884	脚步
+	jiao3 bu4
+12885	角度
+	jiao3 du4
+12886	矫滑
+	jiao3 hua2
+12887	角落
+	jiao3 luo4
+12888	缴纳
+	jiao3 na4
+12889	饺子
+	jiao3 zi5
+12890	较
+	jiao4
+12891	教材
+	jiao4 cai2
+12892	轿车
+	jiao4 che1
+12893	教导
+	jiao4 dao3
+12894	叫喊
+	jiao4 han3
+12895	教练
+	jiao4 lian4
+12896	较量
+	jiao4 liang4
+12897	叫嚷
+	jiao4 rang3
+12898	教师
+	jiao4 shi1
+12899	醮事
+	jiao4 shi4
+12900	教授
+	jiao4 shou4
+12901	教唆
+	jiao4 suo1
+12902	教堂
+	jiao4 tang2
+12903	教条
+	jiao4 tiao2
+12904	窖穴
+	jiao4 xue2
+12905	教驯
+	jiao4 xun4
+12906	教研室
+	jiao4 yan2 shi4
+12907	教养
+	jiao4 yang3
+12908	教谕
+	jiao4 yu4
+12909	教员
+	jiao4 yuan2
+12910	叫座
+	jiao4 zuo4
+12911	皆
+	jie1
+12912	接班
+	jie1 ban1
+12913	阶层
+	jie1 ceng2
+12914	接触
+	jie1 chu4
+12915	接待
+	jie1 dai4
+12916	阶道
+	jie1 dao4
+12917	阶段
+	jie1 duan4
+12918	接二连三
+	jie1 er4 lian2 san1
+12919	揭发
+	jie1 fa1
+12920	街坊
+	jie1 fang1
+12921	阶级
+	jie1 ji2
+12922	阶渐
+	jie1 jian4
+12923	阶进
+	jie1 jin4
+12924	接连
+	jie1 lian2
+12925	謯娽
+	jie1 lu4
+12926	接洽
+	jie1 qia4
+12927	结实
+	jie1 shi2
+12928	阶戺
+	jie1 shi4
+12929	接收
+	jie1 shou1
+12930	接受
+	jie1 shou4
+12931	街头
+	jie1 tou2
+12932	接着
+	jie1 zhe5
+12933	傑
+	jie2
+12934	絜白
+	jie2 bai2
+12935	洁持
+	jie2 chi2
+12936	桀出
+	jie2 chu1
+12937	节构
+	jie2 gou4
+12938	结裹
+	jie2 guo3
+12939	节和
+	jie2 he2
+12940	结昏
+	jie2 hun1
+12941	节旌
+	jie2 jing1
+12942	结局
+	jie2 ju2
+12943	竭力
+	jie2 li4
+12944	诘论
+	jie2 lun4
+12945	节目
+	jie2 mu4
+12946	节能
+	jie2 neng2
+12947	诘日
+	jie2 ri4
+12948	节省
+	jie2 sheng3
+12949	节束
+	jie2 shu4
+12950	结算
+	jie2 suan4
+12951	节夜
+	jie2 ye4
+12952	节遇
+	jie2 yu4
+12953	节约
+	jie2 yue1
+12954	节止
+	jie2 zhi3
+12955	讦奏
+	jie2 zou4
+12956	杰作
+	jie2 zuo4
+12957	媎
+	jie3
+12958	解除
+	jie3 chu2
+12959	解达
+	jie3 da2
+12960	解放
+	jie3 fang4
+12961	解放军
+	jie3 fang4 jun1
+12962	解雇
+	jie3 gu4
+12963	解解
+	jie3 jie3
+12964	解决
+	jie3 jue2
+12965	解剖
+	jie3 pou1
+12966	解散
+	jie3 san4
+12967	解释
+	jie3 shi4
+12968	屆
+	jie4
+12969	戒鉴
+	jie4 jian4
+12970	藉口
+	jie4 kou3
+12971	介绍
+	jie4 shao4
+12972	界限
+	jie4 xian4
+12973	诫严
+	jie4 yan2
+12974	界柱
+	jie4 zhu4
+12975	今
+	jin1
+12976	金鹅
+	jin1 e2
+12977	津堠
+	jin1 hou4
+12978	金黄
+	jin1 huang2
+12979	津津有味
+	jin1 jin1 you3 wei4
+12980	金年
+	jin1 nian2
+12981	金牌
+	jin1 pai2
+12982	金钱
+	jin1 qian2
+12983	今日
+	jin1 ri4
+12984	金融
+	jin1 rong2
+12985	金属
+	jin1 shu3
+12986	黅天
+	jin1 tian1
+12987	津贴
+	jin1 tie1
+12988	金鱼
+	jin1 yu2
+12989	紧
+	jin3
+12990	尽管
+	jin3 guan3
+12991	谨疾
+	jin3 ji2
+12992	谨谨
+	jin3 jin3
+12993	尽快
+	jin3 kuai4
+12994	尽量
+	jin3 liang4
+12995	谨秘
+	jin3 mi4
+12996	紧迫
+	jin3 po4
+12997	紧峭
+	jin3 qiao4
+12998	谨慎
+	jin3 shen4
+12999	紧缩
+	jin3 suo1
+13000	锦绣
+	jin3 xiu4
+13001	锦鄣
+	jin3 zhang1
+13002	进
+	jin4
+13003	进步
+	jin4 bu4
+13004	进程
+	jin4 cheng2
+13005	近代
+	jin4 dai4
+13006	进而
+	jin4 er2
+13007	进攻
+	jin4 gong1
+13008	进画
+	jin4 hua4
+13009	进军
+	jin4 jun1
+13010	进口
+	jin4 kou3
+13011	进来
+	jin4 lai2
+13012	进历
+	jin4 li4
+13013	近年
+	jin4 nian2
+13014	近期
+	jin4 qi1
+13015	进驱
+	jin4 qu1
+13016	进取
+	jin4 qu3
+13017	进趣
+	jin4 qu4
+13018	进入
+	jin4 ru4
+13019	进升
+	jin4 sheng1
+13020	靳世
+	jin4 shi4
+13021	进祀
+	jin4 si4
+13022	尽头
+	jin4 tou2
+13023	进行
+	jin4 xing2
+13024	进羞
+	jin4 xiu1
+13025	进一步
+	jin4 yi2 bu4
+13026	进展
+	jin4 zhan3
+13027	靳指
+	jin4 zhi3
+13028	京
+	jing1
+13029	精采
+	jing1 cai3
+13030	经常
+	jing1 chang2
+13031	精打细算
+	jing1 da3 xi4 suan4
+13032	经典
+	jing1 dian3
+13033	惊动
+	jing1 dong4
+13034	经费
+	jing1 fei4
+13035	经过
+	jing1 guo4
+13036	鲸猾
+	jing1 hua2
+13037	惊荒
+	jing1 huang1
+13038	经纪
+	jing1 ji4
+13039	精简
+	jing1 jian3
+13040	兢兢业业
+	jing1 jing1 ye4 ye4
+13041	经据
+	jing1 ju4
+13042	经理
+	jing1 li3
+13043	鲸力
+	jing1 li4
+13044	精美
+	jing1 mei3
+13045	精密
+	jing1 mi4
+13046	精骑
+	jing1 qi2
+13047	精确
+	jing1 que4
+13048	荆人
+	jing1 ren2
+13049	经商
+	jing1 shang1
+13050	经神
+	jing1 shen2
+13051	经售
+	jing1 shou4
+13052	精通
+	jing1 tong1
+13053	精细
+	jing1 xi4
+13054	经销
+	jing1 xiao1
+13055	荆薪
+	jing1 xin1
+13056	惊讶
+	jing1 ya4
+13057	荆艳
+	jing1 yan4
+13058	荆翼
+	jing1 yi4
+13059	精益求精
+	jing1 yi4 qiu2 jing1
+13060	经营
+	jing1 ying2
+13061	鲸鱼
+	jing1 yu2
+13062	经袠
+	jing1 zhi4
+13063	警
+	jing3
+13064	警察
+	jing3 cha2
+13065	警告
+	jing3 gao4
+13066	警诫
+	jing3 jie4
+13067	景色
+	jing3 se4
+13068	警惕
+	jing3 ti4
+13069	警畏
+	jing3 wei4
+13070	警悟
+	jing3 wu4
+13071	颈项
+	jing3 xiang4
+13072	竟
+	jing4
+13073	敬爱
+	jing4 ai4
+13074	静谛
+	jing4 di4
+13075	敬而远之
+	jing4 er2 yuan3 zhi1
+13076	静化
+	jing4 hua4
+13077	镜诫
+	jing4 jie4
+13078	敬酒
+	jing4 jiu3
+13079	静理
+	jing4 li3
+13080	静悄悄
+	jing4 qiao1 qiao1
+13081	胫然
+	jing4 ran2
+13082	迳赛
+	jing4 sai4
+13083	镜头
+	jing4 tou2
+13084	竞选
+	jing4 xuan3
+13085	竞争
+	jing4 zheng1
+13086	镜子
+	jing4 zi5
+13087	燝
+	jing5
+13088	鸠
+	jiu1
+13089	纠纷
+	jiu1 fen1
+13090	究镜
+	jiu1 jing4
+13091	纠正
+	jiu1 zheng4
+13092	久
+	jiu3
+13093	酒淀
+	jiu3 dian4
+13094	酒会
+	jiu3 hui4
+13095	韭菁
+	jiu3 jing1
+13096	就
+	jiu4
+13097	就餐
+	jiu4 can1
+13098	舅弟
+	jiu4 di4
+13099	旧迹
+	jiu4 ji4
+13100	就近
+	jiu4 jin4
+13101	就就
+	jiu4 jiu4
+13102	舅母
+	jiu4 mu3
+13103	鹫室
+	jiu4 shi4
+13104	就是说
+	jiu4 shi4 shuo1
+13105	就算
+	jiu4 suan4
+13106	旧业
+	jiu4 ye4
+13107	救灾
+	jiu4 zai1
+13108	旧职
+	jiu4 zhi2
+13109	𣐤
+	jiu5
+13110	驹
+	ju1
+13111	鞠躬
+	ju1 gong1
+13112	驹留
+	ju1 liu2
+13113	拘民
+	ju1 min2
+13114	居然
+	ju1 ran2
+13115	鞫誓
+	ju1 shi4
+13116	拘束
+	ju1 shu4
+13117	居住
+	ju1 zhu4
+13118	侷
+	ju2
+13119	菊部
+	ju2 bu4
+13120	菊花
+	ju2 hua1
+13121	局面
+	ju2 mian4
+13122	局势
+	ju2 shi4
+13123	局限
+	ju2 xian4
+13124	局长
+	ju2 zhang3
+13125	橘子
+	ju2 zi5
+13126	举
+	ju3
+13127	举办
+	ju3 ban4
+13128	沮动
+	ju3 dong4
+13129	举世闻名
+	ju3 shi4 wen2 ming2
+13130	举世瞩目
+	ju3 shi4 zhu3 mu4
+13131	矩形
+	ju3 xing2
+13132	據
+	ju4
+13133	具备
+	ju4 bei4
+13134	剧本
+	ju4 ben3
+13135	剧场
+	ju4 chang3
+13136	巨大
+	ju4 da4
+13137	钜典
+	ju4 dian3
+13138	钜惠
+	ju4 hui4
+13139	醵集
+	ju4 ji2
+13140	聚精会神
+	ju4 jing1 hui4 shen2
+13141	距绝
+	ju4 jue2
+13142	俱乐部
+	ju4 le4 bu4
+13143	距离
+	ju4 li2
+13144	句烈
+	ju4 lie4
+13145	据说
+	ju4 shuo1
+13146	具体
+	ju4 ti3
+13147	剧团
+	ju4 tuan2
+13148	据悉
+	ju4 xi1
+13149	聚友
+	ju4 you3
+13150	剧院
+	ju4 yuan4
+13151	锯子
+	ju4 zi5
+13152	爠
+	ju5
+13153	娟
+	juan1
+13154	捐款
+	juan1 kuan3
+13155	捐献
+	juan1 xian4
+13156	捐赠
+	juan1 zeng4
+13157	錈
+	juan3
+13158	绢
+	juan4
+13159	絕
+	jue2
+13160	躩步
+	jue2 bu4
+13161	决策
+	jue2 ce4
+13162	觉察
+	jue2 cha2
+13163	觉得
+	jue2 de5
+13164	决定
+	jue2 ding4
+13165	绝对
+	jue2 dui4
+13166	绝口
+	jue2 kou3
+13167	决赛
+	jue2 sai4
+13168	决算
+	jue2 suan4
+13169	谲妄
+	jue2 wang4
+13170	觉悟
+	jue2 wu4
+13171	觉心
+	jue2 xin1
+13172	觉醒
+	jue2 xing3
+13173	谲异
+	jue2 yi4
+13174	觉元
+	jue2 yuan2
+13175	决战
+	jue2 zhan4
+13176	军
+	jun1
+13177	军备
+	jun1 bei4
+13178	军队
+	jun1 dui4
+13179	君伐
+	jun1 fa2
+13180	军官
+	jun1 guan1
+13181	钧鉴
+	jun1 jian4
+13182	菌人
+	jun1 ren2
+13183	钧适
+	jun1 shi4
+13184	均壹
+	jun1 yi1
+13185	军用
+	jun1 yong4
+13186	均匀
+	jun1 yun2
+13187	军装
+	jun1 zhuang1
+13188	郡
+	jun4
+13189	䘔
+	ka1
+13190	咖啡
+	ka1 fei1
+13191	裃
+	ka3
+13192	卡车
+	ka3 che1
+13193	卡片
+	ka3 pian4
+13194	开
+	kai1
+13195	开办
+	kai1 ban4
+13196	开采
+	kai1 cai3
+13197	开除
+	kai1 chu2
+13198	开刀
+	kai1 dao1
+13199	开动
+	kai1 dong4
+13200	开发
+	kai1 fa1
+13201	开饭
+	kai1 fan4
+13202	开放
+	kai1 fang4
+13203	开弓
+	kai1 gong1
+13204	开关
+	kai1 guan1
+13205	开话
+	kai1 hua4
+13206	开晦
+	kai1 hui4
+13207	开课
+	kai1 ke4
+13208	开垦
+	kai1 ken3
+13209	开口
+	kai1 kou3
+13210	开阔
+	kai1 kuo4
+13211	开朗
+	kai1 lang3
+13212	揩名
+	kai1 ming2
+13213	开目
+	kai1 mu4
+13214	开辟
+	kai1 pi4
+13215	开赦
+	kai1 she4
+13216	开驶
+	kai1 shi3
+13217	开水
+	kai1 shui3
+13218	开天辟地
+	kai1 tian1 pi4 di4
+13219	开头
+	kai1 tou2
+13220	开拓
+	kai1 tuo4
+13221	开玩笑
+	kai1 wan2 xiao4
+13222	开新
+	kai1 xin1
+13223	开学
+	kai1 xue2
+13224	开眼
+	kai1 yan3
+13225	开夜车
+	kai1 ye4 che1
+13226	开展
+	kai1 zhan3
+13227	开支
+	kai1 zhi1
+13228	凯
+	kai3
+13229	凯旋
+	kai3 xuan2
+13230	刊
+	kan1
+13231	龛灯
+	kan1 deng1
+13232	勘探
+	kan1 tan4
+13233	勘误
+	kan1 wu4
+13234	砍
+	kan3
+13235	崁
+	kan4
+13236	看病
+	kan4 bing4
+13237	看不起
+	kan4 bu4 qi3
+13238	看待
+	kan4 dai4
+13239	看法
+	kan4 fa3
+13240	看见
+	kan4 jian4
+13241	看来
+	kan4 lai2
+13242	看起来
+	kan4 qi3 lai2
+13243	瞰望
+	kan4 wang4
+13244	看样子
+	kan4 yang4 zi5
+13245	看座
+	kan4 zuo4
+13246	糠
+	kang1
+13247	慷慨
+	kang1 kai3
+13248	摃
+	kang2
+13249	鈧
+	kang4
+13250	抗旱
+	kang4 han4
+13251	抗衡
+	kang4 heng2
+13252	抗击
+	kang4 ji1
+13253	抗议
+	kang4 yi4
+13254	考
+	kao3
+13255	考查
+	kao3 cha2
+13256	考古
+	kao3 gu3
+13257	考核
+	kao3 he2
+13258	考虑
+	kao3 lv4
+13259	考取
+	kao3 qu3
+13260	考释
+	kao3 shi4
+13261	考验
+	kao3 yan4
+13262	靠
+	kao4
+13263	靠近
+	kao4 jin4
+13264	颗
+	ke1
+13265	科髻
+	ke1 ji4
+13266	颗粒
+	ke1 li4
+13267	科目
+	ke1 mu4
+13268	科浦
+	ke1 pu3
+13269	窠穴
+	ke1 xue2
+13270	科学家
+	ke1 xue2 jia1
+13271	科学院
+	ke1 xue2 yuan4
+13272	颗盐
+	ke1 yan2
+13273	科长
+	ke1 zhang3
+13274	翗
+	ke2
+13275	咳嗽
+	ke2 sou4
+13276	岢
+	ke3
+13277	可爱
+	ke3 ai4
+13278	可不是
+	ke3 bu2 shi4
+13279	可歌可泣
+	ke3 ge1 ke3 qi4
+13280	可观
+	ke3 guan1
+13281	可贵
+	ke3 gui4
+13282	可鉴
+	ke3 jian4
+13283	可靠
+	ke3 kao4
+13284	可口
+	ke3 kou3
+13285	可怜
+	ke3 lian2
+13286	可能
+	ke3 neng2
+13287	可怕
+	ke3 pa4
+13288	可巧
+	ke3 qiao3
+13289	可是
+	ke3 shi4
+13290	渴望
+	ke3 wang4
+13291	可恶
+	ke3 wu4
+13292	可惜
+	ke3 xi1
+13293	可喜
+	ke3 xi3
+13294	可想而知
+	ke3 xiang3 er2 zhi1
+13295	可笑
+	ke3 xiao4
+13296	可行
+	ke3 xing2
+13297	可以
+	ke3 yi3
+13298	克
+	ke4
+13299	课本
+	ke4 ben3
+13300	客车
+	ke4 che1
+13301	课程
+	ke4 cheng2
+13302	客服
+	ke4 fu2
+13303	客观
+	ke4 guan1
+13304	刻苦
+	ke4 ku3
+13305	客人
+	ke4 ren2
+13306	课时
+	ke4 shi2
+13307	课堂
+	ke4 tang2
+13308	课题
+	ke4 ti2
+13309	客厅
+	ke4 ting1
+13310	课文
+	ke4 wen2
+13311	肯
+	ken3
+13312	肯定
+	ken3 ding4
+13313	恳切
+	ken3 qie4
+13314	恳求
+	ken3 qiu2
+13315	鏗
+	keng1
+13316	崆
+	kong1
+13317	空洞
+	kong1 dong4
+13318	空话
+	kong1 hua4
+13319	空间
+	kong1 jian1
+13320	空军
+	kong1 jun1
+13321	空炁
+	kong1 qi4
+13322	空前
+	kong1 qian2
+13323	空调
+	kong1 tiao2
+13324	空想
+	kong1 xiang3
+13325	空心
+	kong1 xin1
+13326	空虚
+	kong1 xu1
+13327	空中
+	kong1 zhong1
+13328	孔
+	kong3
+13329	恐怖
+	kong3 bu4
+13330	恐惧
+	kong3 ju4
+13331	恐怕
+	kong3 pa4
+13332	孔雀
+	kong3 que4
+13333	㸜
+	kong4
+13334	空白
+	kong4 bai2
+13335	空儿
+	kong4 er2
+13336	控诉
+	kong4 su4
+13337	空隙
+	kong4 xi4
+13338	控制
+	kong4 zhi4
+13339	抠
+	kou1
+13340	口
+	kou3
+13341	口案
+	kou3 an4
+13342	口袋
+	kou3 dai4
+13343	口号
+	kou3 hao4
+13344	口气
+	kou3 qi4
+13345	口腔
+	kou3 qiang1
+13346	口试
+	kou3 shi4
+13347	口头
+	kou3 tou2
+13348	口语
+	kou3 yu3
+13349	扣
+	kou4
+13350	哭
+	ku1
+13351	窟笼
+	ku1 long2
+13352	枯燥
+	ku1 zao4
+13353	狜
+	ku3
+13354	苦难
+	ku3 nan4
+13355	苦恼
+	ku3 nao3
+13356	库
+	ku4
+13357	库存
+	ku4 cun2
+13358	库房
+	ku4 fang2
+13359	裤子
+	ku4 zi5
+13360	㛻
+	kua1
+13361	夸讲
+	kua1 jiang3
+13362	垮
+	kua3
+13363	骻
+	kua4
+13364	快
+	kuai4
+13365	快餐
+	kuai4 can1
+13366	会计
+	kuai4 ji4
+13367	快乐
+	kuai4 le4
+13368	快速
+	kuai4 su4
+13369	筷子
+	kuai4 zi5
+13370	宽
+	kuan1
+13371	宽厂
+	kuan1 chang3
+13372	宽大
+	kuan1 da4
+13373	宽广
+	kuan1 guang3
+13374	宽阔
+	kuan1 kuo4
+13375	㯘
+	kuan3
+13376	款待
+	kuan3 dai4
+13377	筐
+	kuang1
+13378	誑
+	kuang2
+13379	狂风
+	kuang2 feng1
+13380	诳妄
+	kuang2 wang4
+13381	矿
+	kuang4
+13382	矿藏
+	kuang4 cang2
+13383	矿产
+	kuang4 chan3
+13384	矿工
+	kuang4 gong1
+13385	矿井
+	kuang4 jing3
+13386	旷课
+	kuang4 ke4
+13387	况且
+	kuang4 qie3
+13388	矿区
+	kuang4 qu1
+13389	矿山
+	kuang4 shan1
+13390	矿石
+	kuang4 shi2
+13391	矿物
+	kuang4 wu4
+13392	虧
+	kui1
+13393	亏待
+	kui1 dai4
+13394	亏损
+	kui1 sun3
+13395	夔
+	kui2
+13396	葵花
+	kui2 hua1
+13397	馈
+	kui4
+13398	坤
+	kun1
+13399	蜫虫
+	kun1 chong2
+13400	綑
+	kun3
+13401	困
+	kun4
+13402	困苦
+	kun4 ku3
+13403	困难
+	kun4 nan2
+13404	扩
+	kuo4
+13405	扩充
+	kuo4 chong1
+13406	阔大
+	kuo4 da4
+13407	扩建
+	kuo4 jian4
+13408	扩散
+	kuo4 san4
+13409	扩展
+	kuo4 zhan3
+13410	扩张
+	kuo4 zhang1
+13411	菈
+	la1
+13412	拉圾
+	la1 ji1
+13413	藞
+	la3
+13414	辣
+	la4
+13415	辣椒
+	la4 jiao1
+13416	蜡月
+	la4 yue4
+13417	蜡烛
+	la4 zhu2
+13418	鞡
+	la5
+13419	来
+	lai2
+13420	来宾
+	lai2 bin1
+13421	来不及
+	lai2 bu4 ji2
+13422	来得及
+	lai2 de5 ji2
+13423	来访
+	lai2 fang3
+13424	来回
+	lai2 hui2
+13425	来回来去
+	lai2 hui2 lai2 qu4
+13426	来客
+	lai2 ke4
+13427	来莅
+	lai2 li4
+13428	来临
+	lai2 lin2
+13429	来年
+	lai2 nian2
+13430	来往
+	lai2 wang3
+13431	来信
+	lai2 xin4
+13432	涞源
+	lai2 yuan2
+13433	来自
+	lai2 zi4
+13434	賴
+	lai4
+13435	兰
+	lan2
+13436	阑干
+	lan2 gan1
+13437	兰花
+	lan2 hua1
+13438	篮球
+	lan2 qiu2
+13439	篮子
+	lan2 zi5
+13440	懒
+	lan3
+13441	懒惰
+	lan3 duo4
+13442	烂
+	lan4
+13443	廊
+	lang2
+13444	狼狈
+	lang2 bei4
+13445	朗
+	lang3
+13446	朗读
+	lang3 du2
+13447	朗诵
+	lang3 song4
+13448	埌
+	lang4
+13449	浪潮
+	lang4 chao2
+13450	浪费
+	lang4 fei4
+13451	浪漫
+	lang4 man4
+13452	捞
+	lao1
+13453	劳
+	lao2
+13454	劳动
+	lao2 dong4
+13455	劳动力
+	lao2 dong4 li4
+13456	牢房
+	lao2 fang2
+13457	牢固
+	lao2 gu4
+13458	牢记
+	lao2 ji4
+13459	劳驾
+	lao2 jia4
+13460	牢骚
+	lao2 sao1
+13461	老
+	lao3
+13462	老百姓
+	lao3 bai3 xing4
+13463	老版
+	lao3 ban3
+13464	老诚
+	lao3 cheng2
+13465	老大妈
+	lao3 da4 ma1
+13466	老大娘
+	lao3 da4 niang2
+13467	老大爷
+	lao3 da4 ye2
+13468	老二
+	lao3 er4
+13469	老汗
+	lao3 han4
+13470	老虎
+	lao3 hu3
+13471	老话
+	lao3 hua4
+13472	老家
+	lao3 jia1
+13473	姥姥
+	lao3 lao3
+13474	老年
+	lao3 nian2
+13475	老婆
+	lao3 po2
+13476	老人
+	lao3 ren2
+13477	老人家
+	lao3 ren2 jia1
+13478	老师
+	lao3 shi1
+13479	老视
+	lao3 shi4
+13480	老鼠
+	lao3 shu3
+13481	老太婆
+	lao3 tai4 po2
+13482	老天爷
+	lao3 tian1 ye2
+13483	老头儿
+	lao3 tou5 er5
+13484	老相
+	lao3 xiang1
+13485	老一辈
+	lao3 yi1 bei4
+13486	涝
+	lao4
+13487	𦛨
+	lao5
+13488	楽
+	le4
+13489	乐观
+	le4 guan1
+13490	乐趣
+	le4 qu4
+13491	勒抑
+	le4 yi4
+13492	餎
+	le5
+13493	鐳
+	lei2
+13494	雷达
+	lei2 da2
+13495	雷雨
+	lei2 yu3
+13496	蕾
+	lei3
+13497	类
+	lei4
+13498	酹祀
+	lei4 si4
+13499	类型
+	lei4 xing2
+13500	塄
+	leng2
+13501	冷澹
+	leng3 dan4
+13502	冷静
+	leng3 jing4
+13503	冷却
+	leng3 que4
+13504	冷饮
+	leng3 yin3
+13505	愣
+	leng4
+13506	梨
+	li2
+13507	离别
+	li2 bie2
+13508	离婚
+	li2 hun1
+13509	离开
+	li2 kai1
+13510	厘米
+	li2 mi3
+13511	黎明
+	li2 ming2
+13512	蠡浦
+	li2 pu3
+13513	裏
+	li3
+13514	礼拜
+	li3 bai4
+13515	礼拜日
+	li3 bai4 ri4
+13516	礼拜天
+	li3 bai4 tian1
+13517	理睬
+	li3 cai3
+13518	理发
+	li3 fa4
+13519	理会
+	li3 hui4
+13520	礼节
+	li3 jie2
+13521	理解
+	li3 jie3
+13522	理论
+	li3 lun4
+13523	礼貌
+	li3 mao4
+13524	里面
+	li3 mian4
+13525	礼品
+	li3 pin3
+13526	里试
+	li3 shi4
+13527	理所当然
+	li3 suo3 dang1 ran2
+13528	礼堂
+	li3 tang2
+13529	里头
+	li3 tou5
+13530	礼物
+	li3 wu4
+13531	里享
+	li3 xiang3
+13532	理由
+	li3 you2
+13533	理直气壮
+	li3 zhi2 qi4 zhuang4
+13534	力
+	li4
+13535	吏毕
+	li4 bi4
+13536	立场
+	li4 chang3
+13537	立待
+	li4 dai4
+13538	立方
+	li4 fang1
+13539	立方米
+	li4 fang1 mi3
+13540	栗骇
+	li4 hai4
+13541	隶籍
+	li4 ji2
+13542	立交桥
+	li4 jiao1 qiao2
+13543	立刻
+	li4 ke4
+13544	历来
+	li4 lai2
+13545	力量
+	li4 liang4
+13546	立年
+	li4 nian2
+13547	立契
+	li4 qi4
+13548	沥青
+	li4 qing1
+13549	栎梂
+	li4 qiu2
+13550	栗如
+	li4 ru2
+13551	利润
+	li4 run4
+13552	历始
+	li4 shi3
+13553	隶体
+	li4 ti3
+13554	历图
+	li4 tu2
+13555	例外
+	li4 wai4
+13556	利息
+	li4 xi1
+13557	隶役
+	li4 yi4
+13558	吏用
+	li4 yong4
+13559	力征
+	li4 zheng1
+13560	荔枝
+	li4 zhi1
+13561	栗子
+	li4 zi5
+13562	连
+	lian2
+13563	莲邦
+	lian2 bang1
+13564	镰刀
+	lian2 dao1
+13565	连队
+	lian2 dui4
+13566	连滚带爬
+	lian2 gun3 dai4 pa2
+13567	连翮
+	lian2 he2
+13568	连欢
+	lian2 huan1
+13569	连驾
+	lian2 jia4
+13570	连接
+	lian2 jie1
+13571	连结
+	lian2 jie2
+13572	鬑鬑
+	lian2 lian2
+13573	连络
+	lian2 luo4
+13574	连忙
+	lian2 mang2
+13575	连盟
+	lian2 meng2
+13576	连绵
+	lian2 mian2
+13577	连黏
+	lian2 nian2
+13578	连同
+	lian2 tong2
+13579	连系
+	lian2 xi4
+13580	连想
+	lian2 xiang3
+13581	连续
+	lian2 xu4
+13582	连续剧
+	lian2 xu4 ju4
+13583	连夜
+	lian2 ye4
+13584	廉正
+	lian2 zheng4
+13585	帘子
+	lian2 zi5
+13586	脸
+	lian3
+13587	脸盆
+	lian3 pen2
+13588	脸色
+	lian3 se4
+13589	链
+	lian4
+13590	恋爱
+	lian4 ai4
+13591	练兵
+	lian4 bing1
+13592	练习
+	lian4 xi2
+13593	链子
+	lian4 zi5
+13594	梁
+	liang2
+13595	良好
+	liang2 hao3
+13596	凉快
+	liang2 kuai4
+13597	良食
+	liang2 shi2
+13598	凉水
+	liang2 shui3
+13599	良种
+	liang2 zhong3
+13600	两
+	liang3
+13601	两极
+	liang3 ji2
+13602	两口子
+	liang3 kou3 zi5
+13603	两旁
+	liang3 pang2
+13604	两手
+	liang3 shou3
+13605	輛
+	liang4
+13606	亮光
+	liang4 guang1
+13607	谅解
+	liang4 jie3
+13608	煷
+	liang5
+13609	寮
+	liao2
+13610	潦草
+	liao2 cao3
+13611	辽阔
+	liao2 kuo4
+13612	疗效
+	liao2 xiao4
+13613	疗养
+	liao2 yang3
+13614	㝋
+	liao3
+13615	了不起
+	liao3 bu4 qi3
+13616	了解
+	liao3 jie3
+13617	撂
+	liao4
+13618	烈
+	lie4
+13619	猎车
+	lie4 che1
+13620	猎火
+	lie4 huo3
+13621	列举
+	lie4 ju3
+13622	猎人
+	lie4 ren2
+13623	列入
+	lie4 ru4
+13624	猎士
+	lie4 shi4
+13625	躐席
+	lie4 xi2
+13626	林
+	lin2
+13627	林场
+	lin2 chang3
+13628	临床
+	lin2 chuang2
+13629	邻国
+	lin2 guo2
+13630	邻近
+	lin2 jin4
+13631	麟驹
+	lin2 ju1
+13632	邻区
+	lin2 qu1
+13633	磷石
+	lin2 shi2
+13634	林业
+	lin2 ye4
+13635	灵
+	ling2
+13636	陵晨
+	ling2 chen2
+13637	灵魂
+	ling2 hun2
+13638	零活
+	ling2 huo2
+13639	零件
+	ling2 jian4
+13640	零栗
+	ling2 li4
+13641	零笼
+	ling2 long2
+13642	灵敏
+	ling2 min3
+13643	零钱
+	ling2 qian2
+13644	灵巧
+	ling2 qiao3
+13645	零售
+	ling2 shou4
+13646	零碎
+	ling2 sui4
+13647	零星
+	ling2 xing1
+13648	領
+	ling3
+13649	领导
+	ling3 dao3
+13650	领会
+	ling3 hui4
+13651	领示
+	ling3 shi4
+13652	领土
+	ling3 tu3
+13653	领先
+	ling3 xian1
+13654	领袖
+	ling3 xiu4
+13655	领御
+	ling3 yu4
+13656	领子
+	ling3 zi5
+13657	另
+	ling4
+13658	另外
+	ling4 wai4
+13659	瀮
+	ling5
+13660	熘
+	liu1
+13661	流
+	liu2
+13662	留传
+	liu2 chuan2
+13663	留动
+	liu2 dong4
+13664	流寇
+	liu2 kou4
+13665	流浪
+	liu2 lang4
+13666	鹠鷅
+	liu2 li4
+13667	留恋
+	liu2 lian4
+13668	流露
+	liu2 lu4
+13669	流氓
+	liu2 mang2
+13670	留念
+	liu2 nian4
+13671	留神
+	liu2 shen2
+13672	流水
+	liu2 shui3
+13673	硫酸
+	liu2 suan1
+13674	流通
+	liu2 tong1
+13675	留心
+	liu2 xin1
+13676	留行
+	liu2 xing2
+13677	留学
+	liu2 xue2
+13678	留学生
+	liu2 xue2 sheng1
+13679	留意
+	liu2 yi4
+13680	留狱
+	liu2 yu4
+13681	柳
+	liu3
+13682	柳树
+	liu3 shu4
+13683	鷚
+	liu4
+13684	龙
+	long2
+13685	龙头
+	long2 tou2
+13686	隆重
+	long2 zhong4
+13687	聋子
+	long2 zi5
+13688	拢
+	long3
+13689	陇断
+	long3 duan4
+13690	笼罩
+	long3 zhao4
+13691	楼
+	lou2
+13692	楼道
+	lou2 dao4
+13693	楼房
+	lou2 fang2
+13694	楼梯
+	lou2 ti1
+13695	篓
+	lou3
+13696	陋
+	lou4
+13697	露面
+	lou4 mian4
+13698	漏税
+	lou4 shui4
+13699	撸
+	lu1
+13700	卢
+	lu2
+13701	炉子
+	lu2 zi5
+13702	鲁
+	lu3
+13703	彔
+	lu4
+13704	鹿城
+	lu4 cheng2
+13705	露第
+	lu4 di4
+13706	路过
+	lu4 guo4
+13707	陆军
+	lu4 jun1
+13708	路口
+	lu4 kou3
+13709	路面
+	lu4 mian4
+13710	録取
+	lu4 qu3
+13711	陆上
+	lu4 shang4
+13712	路线
+	lu4 xian4
+13713	鹿巷
+	lu4 xiang4
+13714	鹭序
+	lu4 xu4
+13715	録音
+	lu4 yin1
+13716	録音机
+	lu4 yin1 ji1
+13717	録用
+	lu4 yong4
+13718	路子
+	lu4 zi5
+13719	氇
+	lu5
+13720	乱
+	luan4
+13721	乱七八遭
+	luan4 qi1 ba1 zao1
+13722	輪
+	lun2
+13723	轮船
+	lun2 chuan2
+13724	轮廓
+	lun2 kuo4
+13725	轮流
+	lun2 liu2
+13726	轮子
+	lun2 zi5
+13727	溣
+	lun4
+13728	论点
+	lun4 dian3
+13729	论述
+	lun4 shu4
+13730	论文
+	lun4 wen2
+13731	论诤
+	lun4 zheng4
+13732	頱
+	luo1
+13733	罗唆
+	luo1 suo1
+13734	萝
+	luo2
+13735	萝卜
+	luo2 bo5
+13736	逻辑
+	luo2 ji2
+13737	箩筐
+	luo2 kuang1
+13738	罗列
+	luo2 lie4
+13739	螺丝钉
+	luo2 si1 ding1
+13740	骡子
+	luo2 zi5
+13741	洛
+	luo4
+13742	骆丞
+	luo4 cheng2
+13743	落第
+	luo4 di4
+13744	落后
+	luo4 hou4
+13745	落石
+	luo4 shi2
+13746	骆駞
+	luo4 tuo2
+13747	落选
+	luo4 xuan3
+13748	驢
+	lv2
+13749	旅
+	lv3
+13750	旅次
+	lv3 ci4
+13751	旅店
+	lv3 dian4
+13752	旅客
+	lv3 ke4
+13753	旅途
+	lv3 tu2
+13754	旅行
+	lv3 xing2
+13755	旅游
+	lv3 you2
+13756	旅游业
+	lv3 you2 ye4
+13757	綠
+	lv4
+13758	虑化
+	lv4 hua4
+13759	緑施
+	lv4 shi1
+13760	略
+	lve4
+13761	略夺
+	lve4 duo2
+13762	略微
+	lve4 wei1
+13763	妈
+	ma1
+13764	抹布
+	ma1 bu4
+13765	痲
+	ma2
+13766	麻痹
+	ma2 bi4
+13767	麻袋
+	ma2 dai4
+13768	麻木
+	ma2 mu4
+13769	麻雀
+	ma2 que4
+13770	麻醉
+	ma2 zui4
+13771	馬
+	ma3
+13772	马车
+	ma3 che1
+13773	马达
+	ma3 da2
+13774	马荔
+	ma3 li4
+13775	马铃薯
+	ma3 ling2 shu3
+13776	马鹿
+	ma3 lu4
+13777	马上
+	ma3 shang4
+13778	马头
+	ma3 tou2
+13779	马饩
+	ma3 xi4
+13780	马蚁
+	ma3 yi3
+13781	罵
+	ma4
+13782	嫲
+	ma5
+13783	㜥
+	mai2
+13784	埋没
+	mai2 mo4
+13785	埋头
+	mai2 tou2
+13786	买
+	mai3
+13787	买卖
+	mai3 mai4
+13788	卖
+	mai4
+13789	卖国
+	mai4 guo2
+13790	蛮
+	man2
+13791	馒头
+	man2 tou5
+13792	瞒怨
+	man2 yuan4
+13793	满
+	man3
+13794	满怀
+	man3 huai2
+13795	满腔
+	man3 qiang1
+13796	满溢
+	man3 yi4
+13797	满月
+	man3 yue4
+13798	满足
+	man3 zu2
+13799	曼
+	man4
+13800	漫长
+	man4 chang2
+13801	慢性
+	man4 xing4
+13802	忙
+	mang2
+13803	盲从
+	mang2 cong2
+13804	忙碌
+	mang2 lu4
+13805	茫茫
+	mang2 mang2
+13806	盲目
+	mang2 mu4
+13807	茫然
+	mang2 ran2
+13808	盲人
+	mang2 ren2
+13809	𤚜
+	mao1
+13810	矛
+	mao2
+13811	毛笔
+	mao2 bi3
+13812	毛病
+	mao2 bing4
+13813	茅盾
+	mao2 dun4
+13814	毛巾
+	mao2 jin1
+13815	茅台酒
+	mao2 tai2 jiu3
+13816	毛线
+	mao2 xian4
+13817	毛衣
+	mao2 yi1
+13818	帽
+	mao4
+13819	冒进
+	mao4 jin4
+13820	茂密
+	mao4 mi4
+13821	冒牌
+	mao4 pai2
+13822	茂盛
+	mao4 sheng4
+13823	冒险
+	mao4 xian3
+13824	贸易
+	mao4 yi4
+13825	帽子
+	mao4 zi5
+13826	麼
+	me5
+13827	沒
+	mei2
+13828	没错
+	mei2 cuo4
+13829	没关系
+	mei2 guan1 xi4
+13830	珻瑰
+	mei2 gui1
+13831	梅花
+	mei2 hua1
+13832	媒界
+	mei2 jie4
+13833	霉气
+	mei2 qi4
+13834	没什么
+	mei2 shen2 me5
+13835	没事儿
+	mei2 shi4 er2
+13836	没说的
+	mei2 shuo1 de5
+13837	霉头
+	mei2 tou2
+13838	没意思
+	mei2 yi4 si1
+13839	没用
+	mei2 yong4
+13840	没有
+	mei2 you3
+13841	每
+	mei3
+13842	美德
+	mei3 de2
+13843	美观
+	mei3 guan1
+13844	美好
+	mei3 hao3
+13845	美利
+	mei3 li4
+13846	美满
+	mei3 man3
+13847	美妙
+	mei3 miao4
+13848	美术
+	mei3 shu4
+13849	美中不足
+	mei3 zhong1 bu4 zu2
+13850	妹
+	mei4
+13851	魅鬽
+	mei4 mei4
+13852	門
+	men2
+13853	门当户对
+	men2 dang1 hu4 dui4
+13854	门口
+	men2 kou3
+13855	门市部
+	men2 shi4 bu4
+13856	门诊
+	men2 zhen3
+13857	焖
+	men4
+13858	擝
+	meng1
+13859	濛
+	meng2
+13860	萌芽
+	meng2 ya2
+13861	猛
+	meng3
+13862	猛烈
+	meng3 lie4
+13863	猛然
+	meng3 ran2
+13864	梦
+	meng4
+13865	梦想
+	meng4 xiang3
+13866	謎
+	mi2
+13867	弥补
+	mi2 bu3
+13868	迷糊
+	mi2 hu1
+13869	麋惑
+	mi2 huo4
+13870	靡漫
+	mi2 man4
+13871	迷失
+	mi2 shi1
+13872	迷信
+	mi2 xin4
+13873	迷语
+	mi2 yu3
+13874	米
+	mi3
+13875	米饭
+	mi3 fan4
+13876	密
+	mi4
+13877	密度
+	mi4 du4
+13878	蜜蠭
+	mi4 feng1
+13879	谧谧
+	mi4 mi4
+13880	密切
+	mi4 qie4
+13881	蜜殊
+	mi4 shu1
+13882	秘书长
+	mi4 shu1 zhang3
+13883	棉
+	mian2
+13884	绵花
+	mian2 hua1
+13885	绵衣
+	mian2 yi1
+13886	緬
+	mian3
+13887	免除
+	mian3 chu2
+13888	免的
+	mian3 de5
+13889	免费
+	mian3 fei4
+13890	勉厉
+	mian3 li4
+13891	勉强
+	mian3 qiang3
+13892	面
+	mian4
+13893	面包
+	mian4 bao1
+13894	面包车
+	mian4 bao1 che1
+13895	面对
+	mian4 dui4
+13896	面粉
+	mian4 fen3
+13897	面稽
+	mian4 ji1
+13898	面孔
+	mian4 kong3
+13899	面临
+	mian4 lin2
+13900	面貌
+	mian4 mao4
+13901	面面俱到
+	mian4 mian4 ju4 dao4
+13902	面目
+	mian4 mu4
+13903	面前
+	mian4 qian2
+13904	面容
+	mian4 rong2
+13905	面子
+	mian4 zi5
+13906	苗
+	miao2
+13907	描绘
+	miao2 hui4
+13908	描述
+	miao2 shu4
+13909	描写
+	miao2 xie3
+13910	秒
+	miao3
+13911	藐小
+	miao3 xiao3
+13912	庙
+	miao4
+13913	滅
+	mie4
+13914	蔑视
+	mie4 shi4
+13915	灭亡
+	mie4 wang2
+13916	民
+	min2
+13917	民兵
+	min2 bing1
+13918	民航
+	min2 hang2
+13919	民间
+	min2 jian1
+13920	民室
+	min2 shi4
+13921	民意
+	min2 yi4
+13922	民用
+	min2 yong4
+13923	民众
+	min2 zhong4
+13924	民主
+	min2 zhu3
+13925	民族
+	min2 zu2
+13926	閩
+	min3
+13927	敏感
+	min3 gan3
+13928	敏捷
+	min3 jie2
+13929	闽蚋
+	min3 rui4
+13930	鳴
+	ming2
+13931	茗铛
+	ming2 cheng1
+13932	明刺
+	ming2 ci4
+13933	名单
+	ming2 dan1
+13934	螟蛾
+	ming2 e2
+13935	名副其实
+	ming2 fu4 qi2 shi2
+13936	名贵
+	ming2 gui4
+13937	明亮
+	ming2 liang4
+13938	瞑瞑
+	ming2 ming2
+13939	明年
+	ming2 nian2
+13940	铭牌
+	ming2 pai2
+13941	鸣鹊
+	ming2 que4
+13942	明仁
+	ming2 ren2
+13943	鸣声
+	ming2 sheng1
+13944	鸣盛
+	ming2 sheng4
+13945	明天
+	ming2 tian1
+13946	明显
+	ming2 xian3
+13947	明信片
+	ming2 xin4 pian4
+13948	明星
+	ming2 xing1
+13949	鸣弋
+	ming2 yi4
+13950	鸣豫
+	ming2 yu4
+13951	明字
+	ming2 zi4
+13952	命
+	ming4
+13953	命令
+	ming4 ling4
+13954	命名
+	ming4 ming2
+13955	命题
+	ming4 ti2
+13956	命运
+	ming4 yun4
+13957	謬
+	miu4
+13958	谬论
+	miu4 lun4
+13959	魔
+	mo2
+13960	磨擦
+	mo2 ca1
+13961	谟范
+	mo2 fan4
+13962	模仿
+	mo2 fang3
+13963	磨菇
+	mo2 gu1
+13964	魔鬼
+	mo2 gui3
+13965	模糊
+	mo2 hu2
+13966	魔事
+	mo2 shi4
+13967	魔术
+	mo2 shu4
+13968	摩托车
+	mo2 tuo1 che1
+13969	魔行
+	mo2 xing2
+13970	䩋
+	mo3
+13971	抹杀
+	mo3 sha1
+13972	默
+	mo4
+13973	莫明其妙
+	mo4 ming2 qi2 miao4
+13974	默默
+	mo4 mo4
+13975	陌生
+	mo4 sheng1
+13976	怽
+	mo5
+13977	哞
+	mou1
+13978	謀
+	mou2
+13979	谋求
+	mou2 qiu2
+13980	䍒
+	mou3
+13981	某些
+	mou3 xie1
+13982	毪
+	mu2
+13983	模样
+	mu2 yang4
+13984	姆
+	mu3
+13985	母亲
+	mu3 qin1
+13986	目
+	mu4
+13987	目标
+	mu4 biao1
+13988	木材
+	mu4 cai2
+13989	牧场
+	mu4 chang3
+13990	目的
+	mu4 di4
+13991	目覩
+	mu4 du3
+13992	目光
+	mu4 guang1
+13993	木强
+	mu4 jiang4
+13994	目録
+	mu4 lu4
+13995	穆民
+	mu4 min2
+13996	目前
+	mu4 qian2
+13997	牧区
+	mu4 qu1
+13998	穆斯林
+	mu4 si1 lin2
+13999	木头
+	mu4 tou5
+14000	牧业
+	mu4 ye4
+14001	目中无人
+	mu4 zhong1 wu2 ren2
+14002	拿
+	na2
+14003	雫
+	na3
+14004	哪儿
+	na3 er2
+14005	哪里
+	na3 li3
+14006	哪怕
+	na3 pa4
+14007	納
+	na4
+14008	那边
+	na4 bian1
+14009	那儿
+	na4 er2
+14010	那个
+	na4 ge4
+14011	那里
+	na4 li3
+14012	那麽
+	na4 me5
+14013	那时
+	na4 shi2
+14014	纳税
+	na4 shui4
+14015	那样
+	na4 yang4
+14016	奶
+	nai3
+14017	奶粉
+	nai3 fen3
+14018	奈
+	nai4
+14019	耐烦
+	nai4 fan2
+14020	耐力
+	nai4 li4
+14021	耐心
+	nai4 xin1
+14022	耐用
+	nai4 yong4
+14023	男
+	nan2
+14024	南边
+	nan2 bian1
+14025	南部
+	nan2 bu4
+14026	难道
+	nan2 dao4
+14027	难得
+	nan2 de5
+14028	难度
+	nan2 du4
+14029	男方
+	nan2 fang1
+14030	难怪
+	nan2 guai4
+14031	难关
+	nan2 guan1
+14032	难过
+	nan2 guo4
+14033	难堪
+	nan2 kan1
+14034	难看
+	nan2 kan4
+14035	难免
+	nan2 mian3
+14036	南面
+	nan2 mian4
+14037	难人
+	nan2 ren2
+14038	难受
+	nan2 shou4
+14039	难题
+	nan2 ti2
+14040	男性
+	nan2 xing4
+14041	难以
+	nan2 yi3
+14042	㬮
+	nan4
+14043	难民
+	nan4 min2
+14044	挠
+	nao2
+14045	脑
+	nao3
+14046	脑带
+	nao3 dai4
+14047	恼火
+	nao3 huo3
+14048	脑筋
+	nao3 jin1
+14049	脑力
+	nao3 li4
+14050	脑子
+	nao3 zi5
+14051	闹
+	nao4
+14052	闹市
+	nao4 shi4
+14053	闹着玩儿
+	nao4 zhe5 wan2 er2
+14054	哪个
+	nei3 ge4
+14055	哪些
+	nei3 xie1
+14056	內
+	nei4
+14057	内部
+	nei4 bu4
+14058	内第
+	nei4 di4
+14059	内阁
+	nei4 ge2
+14060	内行
+	nei4 hang2
+14061	内科
+	nei4 ke1
+14062	内睦
+	nei4 mu4
+14063	内荣
+	nei4 rong2
+14064	那些
+	nei4 xie1
+14065	内心
+	nei4 xin1
+14066	内在
+	nei4 zai4
+14067	内脏
+	nei4 zang4
+14068	内战
+	nei4 zhan4
+14069	内证
+	nei4 zheng4
+14070	嫩
+	nen4
+14071	㴰
+	neng2
+14072	能干
+	neng2 gan4
+14073	能歌善舞
+	neng2 ge1 shan4 wu3
+14074	能彀
+	neng2 gou4
+14075	能吏
+	neng2 li4
+14076	能量
+	neng2 liang4
+14077	能手
+	neng2 shou3
+14078	能源
+	neng2 yuan2
+14079	霓
+	ni2
+14080	泥龙
+	ni2 long2
+14081	泥土
+	ni2 tu3
+14082	你
+	ni3
+14083	拟订
+	ni3 ding4
+14084	你们
+	ni3 men5
+14085	逆
+	ni4
+14086	逆流
+	ni4 liu2
+14087	黏
+	nian2
+14088	黏带
+	nian2 dai4
+14089	黏度
+	nian2 du4
+14090	年集
+	nian2 ji2
+14091	年计
+	nian2 ji4
+14092	年龄
+	nian2 ling2
+14093	年青
+	nian2 qing1
+14094	碾
+	nian3
+14095	念
+	nian4
+14096	念书
+	nian4 shu1
+14097	念头
+	nian4 tou5
+14098	娘
+	niang2
+14099	醸
+	niang4
+14100	嬲
+	niao3
+14101	脲
+	niao4
+14102	捏
+	nie1
+14103	捏造
+	nie1 zao4
+14104	您
+	nin2
+14105	凝
+	ning2
+14106	宁固
+	ning2 gu4
+14107	凝结
+	ning2 jie2
+14108	宁静
+	ning2 jing4
+14109	柠檬
+	ning2 meng2
+14110	狞视
+	ning2 shi4
+14111	橣
+	ning3
+14112	佞
+	ning4
+14113	宁可
+	ning4 ke3
+14114	宁肯
+	ning4 ken3
+14115	宁愿
+	ning4 yuan4
+14116	牛
+	niu2
+14117	牛奶
+	niu2 nai3
+14118	紐
+	niu3
+14119	扭转
+	niu3 zhuan3
+14120	农
+	nong2
+14121	农产品
+	nong2 chan3 pin3
+14122	农场
+	nong2 chang3
+14123	农村
+	nong2 cun1
+14124	浓度
+	nong2 du4
+14125	醲厚
+	nong2 hou4
+14126	农鳸
+	nong2 hu4
+14127	农具
+	nong2 ju4
+14128	农贸市场
+	nong2 mao4 shi4 chang3
+14129	农民
+	nong2 min2
+14130	农田
+	nong2 tian2
+14131	农要
+	nong2 yao4
+14132	农馌
+	nong2 ye4
+14133	农作物
+	nong2 zuo4 wu4
+14134	挊
+	nong4
+14135	弄虚作假
+	nong4 xu1 zuo4 jia3
+14136	奴
+	nu2
+14137	奴隶
+	nu2 li4
+14138	奴役
+	nu2 yi4
+14139	努
+	nu3
+14140	弩力
+	nu3 li4
+14141	怒
+	nu4
+14142	怒吼
+	nu4 hou3
+14143	怒火
+	nu4 huo3
+14144	㬉
+	nuan3
+14145	暖和
+	nuan3 huo5
+14146	煗气
+	nuan3 qi4
+14147	暖水瓶
+	nuan3 shui3 ping2
+14148	挪
+	nuo2
+14149	釹
+	nv3
+14150	女儿
+	nv3 er2
+14151	女人
+	nv3 ren2
+14152	女式
+	nv3 shi4
+14153	女性
+	nv3 xing4
+14154	女子
+	nv3 zi3
+14155	欧
+	ou1
+14156	殴打
+	ou1 da3
+14157	偶
+	ou3
+14158	偶尔
+	ou3 er3
+14159	偶然
+	ou3 ran2
+14160	呕吐
+	ou3 tu4
+14161	啪
+	pa1
+14162	爬
+	pa2
+14163	袙
+	pa4
+14164	𣖐
+	pai1
+14165	拍摄
+	pai1 she4
+14166	拍照
+	pai1 zhao4
+14167	拍子
+	pai1 zi5
+14168	牌
+	pai2
+14169	排翅
+	pai2 chi4
+14170	排除
+	pai2 chu2
+14171	排队
+	pai2 dui4
+14172	徘徊
+	pai2 huai2
+14173	排挤
+	pai2 ji3
+14174	排列
+	pai2 lie4
+14175	排球
+	pai2 qiu2
+14176	排长
+	pai2 zhang3
+14177	牌子
+	pai2 zi5
+14178	蒎
+	pai4
+14179	派别
+	pai4 bie2
+14180	派出所
+	pai4 chu1 suo3
+14181	派遣
+	pai4 qian3
+14182	攀
+	pan1
+14183	攀登
+	pan1 deng1
+14184	盘
+	pan2
+14185	跘旋
+	pan2 xuan2
+14186	盘子
+	pan2 zi5
+14187	判
+	pan4
+14188	叛变
+	pan4 bian4
+14189	判处
+	pan4 chu3
+14190	判定
+	pan4 ding4
+14191	判断
+	pan4 duan4
+14192	判决
+	pan4 jue2
+14193	叛徒
+	pan4 tu2
+14194	盼望
+	pan4 wang4
+14195	乓
+	pang1
+14196	庞
+	pang2
+14197	旁边
+	pang2 bian1
+14198	庞大
+	pang2 da4
+14199	㕩
+	pang4
+14200	胖子
+	pang4 zi5
+14201	抛
+	pao1
+14202	抛弃
+	pao1 qi4
+14203	庖
+	pao2
+14204	𢾳
+	pao3
+14205	跑步
+	pao3 bu4
+14206	跑道
+	pao3 dao4
+14207	礮
+	pao4
+14208	炮弹
+	pao4 dan4
+14209	炮火
+	pao4 huo3
+14210	泡沫
+	pao4 mo4
+14211	陪
+	pei2
+14212	陪偿
+	pei2 chang2
+14213	赔款
+	pei2 kuan3
+14214	陪同
+	pei2 tong2
+14215	培训
+	pei2 xun4
+14216	培养
+	pei2 yang3
+14217	培育
+	pei2 yu4
+14218	配
+	pei4
+14219	配备
+	pei4 bei4
+14220	配方
+	pei4 fang1
+14221	帔服
+	pei4 fu2
+14222	配合
+	pei4 he2
+14223	配耦
+	pei4 ou3
+14224	配套
+	pei4 tao4
+14225	歕
+	pen1
+14226	喷射
+	pen1 she4
+14227	盆
+	pen2
+14228	盆地
+	pen2 di4
+14229	烹
+	peng1
+14230	烹饪
+	peng1 ren4
+14231	烹调
+	peng1 tiao2
+14232	鹏
+	peng2
+14233	蓬勃
+	peng2 bo2
+14234	倗友
+	peng2 you3
+14235	膨胀
+	peng2 zhang4
+14236	剻
+	peng3
+14237	碰
+	peng4
+14238	碰钉子
+	peng4 ding4 zi3
+14239	碰见
+	peng4 jian4
+14240	披
+	pi1
+14241	批发
+	pi1 fa1
+14242	披覆
+	pi1 fu4
+14243	批改
+	pi1 gai3
+14244	批判
+	pi1 pan4
+14245	批评
+	pi1 ping2
+14246	披视
+	pi1 shi4
+14247	批准
+	pi1 zhun3
+14248	皮
+	pi2
+14249	疲惫
+	pi2 bei4
+14250	皮袋
+	pi2 dai4
+14251	皮筏
+	pi2 fa2
+14252	皮肤
+	pi2 fu1
+14253	蠯蛤
+	pi2 ge2
+14254	罴九
+	pi2 jiu3
+14255	疲倦
+	pi2 juan4
+14256	疲劳
+	pi2 lao2
+14257	匹
+	pi3
+14258	屁
+	pi4
+14259	辟如
+	pi4 ru2
+14260	篇
+	pian1
+14261	偏差
+	pian1 cha1
+14262	偏鉴
+	pian1 jian4
+14263	偏辟
+	pian1 pi4
+14264	翩翩
+	pian1 pian1
+14265	偏向
+	pian1 xiang4
+14266	駢
+	pian2
+14267	騙
+	pian4
+14268	片刻
+	pian4 ke4
+14269	片面
+	pian4 mian4
+14270	飄
+	piao1
+14271	飘飏
+	piao1 yang2
+14272	㬓
+	piao4
+14273	漂亮
+	piao4 liang4
+14274	氕
+	pie1
+14275	㡦
+	pin1
+14276	拼搏
+	pin1 bo2
+14277	拼命
+	pin1 ming4
+14278	貧
+	pin2
+14279	贫乏
+	pin2 fa2
+14280	频繁
+	pin2 fan2
+14281	贫苦
+	pin2 ku3
+14282	贫困
+	pin2 kun4
+14283	频率
+	pin2 lv4
+14284	贫民
+	pin2 min2
+14285	贫穷
+	pin2 qiong2
+14286	品
+	pin3
+14287	品尝
+	pin3 chang2
+14288	品德
+	pin3 de2
+14289	品行
+	pin3 xing2
+14290	品骘
+	pin3 zhi4
+14291	品种
+	pin3 zhong3
+14292	牝
+	pin4
+14293	聘请
+	pin4 qing3
+14294	聘任
+	pin4 ren4
+14295	聘用
+	pin4 yong4
+14296	乒
+	ping1
+14297	乒乓球
+	ping1 pang1 qiu2
+14298	凭
+	ping2
+14299	平安
+	ping2 an1
+14300	评比
+	ping2 bi3
+14301	平常
+	ping2 chang2
+14302	平等
+	ping2 deng3
+14303	评订
+	ping2 ding4
+14304	苹蘩
+	ping2 fan2
+14305	平方
+	ping2 fang1
+14306	评估
+	ping2 gu1
+14307	苹果
+	ping2 guo3
+14308	评衡
+	ping2 heng2
+14309	评价
+	ping2 jia4
+14310	平静
+	ping2 jing4
+14311	平均
+	ping2 jun1
+14312	评论
+	ping2 lun4
+14313	平面
+	ping2 mian4
+14314	平民
+	ping2 min2
+14315	平日
+	ping2 ri4
+14316	评审
+	ping2 shen3
+14317	评识
+	ping2 shi2
+14318	萍水相逢
+	ping2 shui3 xiang1 feng2
+14319	平坦
+	ping2 tan3
+14320	平稳
+	ping2 wen3
+14321	评刑
+	ping2 xing2
+14322	评选
+	ping2 xuan3
+14323	平圆
+	ping2 yuan2
+14324	平账
+	ping2 zhang4
+14325	平整
+	ping2 zheng3
+14326	瓶子
+	ping2 zi5
+14327	坡
+	po1
+14328	婆
+	po2
+14329	皤皤
+	po2 po2
+14330	叵
+	po3
+14331	破
+	po4
+14332	破产
+	po4 chan3
+14333	魄蜍
+	po4 chu2
+14334	迫害
+	po4 hai4
+14335	破坏
+	po4 huai4
+14336	破货
+	po4 huo4
+14337	破旧
+	po4 jiu4
+14338	破烂
+	po4 lan4
+14339	迫烈
+	po4 lie4
+14340	迫切
+	po4 qie4
+14341	迫使
+	po4 shi3
+14342	破碎
+	po4 sui4
+14343	䬌
+	pou1
+14344	噗
+	pu1
+14345	扑克
+	pu1 ke4
+14346	扑灭
+	pu1 mie4
+14347	濮
+	pu2
+14348	蒲人
+	pu2 ren2
+14349	蒲陶
+	pu2 tao2
+14350	譜
+	pu3
+14351	普遍
+	pu3 bian4
+14352	普查
+	pu3 cha2
+14353	谱籍
+	pu3 ji2
+14354	谱曲
+	pu3 qu3
+14355	朴实
+	pu3 shi2
+14356	朴素
+	pu3 su4
+14357	普通
+	pu3 tong1
+14358	普通话
+	pu3 tong1 hua4
+14359	舖
+	pu4
+14360	瀑布
+	pu4 bu4
+14361	欺
+	qi1
+14362	戚惨
+	qi1 can3
+14363	欺诒
+	qi1 dai4
+14364	七赋
+	qi1 fu4
+14365	漆黑
+	qi1 hei1
+14366	期间
+	qi1 jian1
+14367	期刊
+	qi1 kan1
+14368	栖粮
+	qi1 liang2
+14369	欺骗
+	qi1 pian4
+14370	欺妄
+	qi1 wang4
+14371	期限
+	qi1 xian4
+14372	妻子
+	qi1 zi3
+14373	七嘴八舌
+	qi1 zui3 ba1 she2
+14374	骑
+	qi2
+14375	齐次
+	qi2 ci4
+14376	奇怪
+	qi2 guai4
+14377	旗号
+	qi2 hao4
+14378	奇花异草
+	qi2 hua1 yi4 cao3
+14379	齐迹
+	qi2 ji4
+14380	齐肩
+	qi2 jian1
+14381	奇妙
+	qi2 miao4
+14382	旗袍
+	qi2 pao2
+14383	齐全
+	qi2 quan2
+14384	跂石
+	qi2 shi2
+14385	齐事
+	qi2 shi4
+14386	其它
+	qi2 ta1
+14387	奇特
+	qi2 te4
+14388	齐竽
+	qi2 yu2
+14389	齐智
+	qi2 zhi4
+14390	齐终
+	qi2 zhong1
+14391	旗子
+	qi2 zi5
+14392	起
+	qi3
+14393	起部
+	qi3 bu4
+14394	起草
+	qi3 cao3
+14395	起程
+	qi3 cheng2
+14396	起初
+	qi3 chu1
+14397	起床
+	qi3 chuang2
+14398	起点
+	qi3 dian3
+14399	起发
+	qi3 fa1
+14400	起飞
+	qi3 fei1
+14401	起福
+	qi3 fu2
+14402	起哄
+	qi3 hong4
+14403	起尽
+	qi3 jin4
+14404	起马
+	qi3 ma3
+14405	启求
+	qi3 qiu2
+14406	起身
+	qi3 shen1
+14407	起誓
+	qi3 shi4
+14408	起诉
+	qi3 su4
+14409	岂徒
+	qi3 tu2
+14410	起夜
+	qi3 ye4
+14411	起意
+	qi3 yi4
+14412	岂有此理
+	qi3 you3 ci3 li3
+14413	起缘
+	qi3 yuan2
+14414	器
+	qi4
+14415	弃财
+	qi4 cai2
+14416	汽车
+	qi4 che1
+14417	汽船
+	qi4 chuan2
+14418	气喘
+	qi4 chuan3
+14419	气氛
+	qi4 fen1
+14420	气愤
+	qi4 fen4
+14421	气概
+	qi4 gai4
+14422	迄工
+	qi4 gong1
+14423	弃官
+	qi4 guan1
+14424	气候
+	qi4 hou4
+14425	弃剧
+	qi4 ju4
+14426	碛礰
+	qi4 li4
+14427	气流
+	qi4 liu2
+14428	气魄
+	qi4 po4
+14429	汽球
+	qi4 qiu2
+14430	讫事
+	qi4 shi4
+14431	砌水
+	qi4 shui3
+14432	砌体
+	qi4 ti3
+14433	气味
+	qi4 wei4
+14434	气温
+	qi4 wen1
+14435	讫息
+	qi4 xi1
+14436	气象
+	qi4 xiang4
+14437	器械
+	qi4 xie4
+14438	气压
+	qi4 ya1
+14439	汽油
+	qi4 you2
+14440	簯
+	qi5
+14441	掐
+	qia1
+14442	恰
+	qia4
+14443	恰当
+	qia4 dang4
+14444	恰到好处
+	qia4 dao4 hao3 chu4
+14445	恰好
+	qia4 hao3
+14446	洽恰
+	qia4 qia4
+14447	恰巧
+	qia4 qiao3
+14448	恰如其分
+	qia4 ru2 qi2 fen4
+14449	洽谈
+	qia4 tan2
+14450	千
+	qian1
+14451	铅笔
+	qian1 bi3
+14452	牵扯
+	qian1 che3
+14453	签订
+	qian1 ding4
+14454	签发
+	qian1 fa1
+14455	千方百计
+	qian1 fang1 bai3 ji4
+14456	迁就
+	qian1 jiu4
+14457	千军万马
+	qian1 jun1 wan4 ma3
+14458	迁客
+	qian1 ke4
+14459	谦明
+	qian1 ming2
+14460	签署
+	qian1 shu3
+14461	千瓦
+	qian1 wa3
+14462	千万
+	qian1 wan4
+14463	谦需
+	qian1 xu1
+14464	谦驯
+	qian1 xun4
+14465	牵引
+	qian1 yin3
+14466	签证
+	qian1 zheng4
+14467	迁陟
+	qian1 zhi4
+14468	铅字
+	qian1 zi4
+14469	钱
+	qian2
+14470	前辈
+	qian2 bei4
+14471	虔诚
+	qian2 cheng2
+14472	前方
+	qian2 fang1
+14473	钤符
+	qian2 fu2
+14474	前赴后继
+	qian2 fu4 hou4 ji4
+14475	前后
+	qian2 hou4
+14476	钳噤
+	qian2 jin4
+14477	前景
+	qian2 jing3
+14478	钳戾
+	qian2 li4
+14479	钱埒
+	qian2 lie4
+14480	干面
+	qian2 mian4
+14481	前年
+	qian2 nian2
+14482	前期
+	qian2 qi1
+14483	前人
+	qian2 ren2
+14484	前所未有
+	qian2 suo3 wei4 you3
+14485	前题
+	qian2 ti2
+14486	前天
+	qian2 tian1
+14487	前头
+	qian2 tou5
+14488	钳徒
+	qian2 tu2
+14489	钳网
+	qian2 wang3
+14490	钱限
+	qian2 xian4
+14491	钳子
+	qian2 zi5
+14492	譴
+	qian3
+14493	谴责
+	qian3 ze2
+14494	欠
+	qian4
+14495	茜意
+	qian4 yi4
+14496	籖
+	qian5
+14497	枪
+	qiang1
+14498	腔壁
+	qiang1 bi4
+14499	墙
+	qiang2
+14500	强愎
+	qiang2 bi4
+14501	强大
+	qiang2 da4
+14502	强道
+	qiang2 dao4
+14503	强调
+	qiang2 diao4
+14504	强渡
+	qiang2 du4
+14505	强化
+	qiang2 hua4
+14506	强烈
+	qiang2 lie4
+14507	强胜
+	qiang2 sheng4
+14508	强鸷
+	qiang2 zhi4
+14509	羟
+	qiang3
+14510	抢劫
+	qiang3 jie2
+14511	抢救
+	qiang3 jiu4
+14512	强迫
+	qiang3 po4
+14513	敲
+	qiao1
+14514	硗硗
+	qiao1 qiao1
+14515	桥
+	qiao2
+14516	侨胞
+	qiao2 bao1
+14517	桥梁
+	qiao2 liang2
+14518	桥桩
+	qiao2 zhuang1
+14519	巧
+	qiao3
+14520	巧妙
+	qiao3 miao4
+14521	殻
+	qiao4
+14522	苆
+	qie1
+14523	㚗
+	qie2
+14524	茄子
+	qie2 zi5
+14525	妾
+	qie4
+14526	窃取
+	qie4 qu3
+14527	窃食
+	qie4 shi2
+14528	窃听
+	qie4 ting1
+14529	钦
+	qin1
+14530	钦爱
+	qin1 ai4
+14531	亲笔
+	qin1 bi3
+14532	钦犯
+	qin1 fan4
+14533	侵骇
+	qin1 hai4
+14534	侵略
+	qin1 lve4
+14535	亲密
+	qin1 mi4
+14536	钦佩
+	qin1 pei4
+14537	侵欺
+	qin1 qi1
+14538	侵窃
+	qin1 qie4
+14539	亲热
+	qin1 re4
+14540	亲仁
+	qin1 ren2
+14541	衾褥
+	qin1 ru4
+14542	钦身
+	qin1 shen1
+14543	亲生
+	qin1 sheng1
+14544	侵食
+	qin1 shi2
+14545	亲手
+	qin1 shou3
+14546	亲眼
+	qin1 yan3
+14547	亲友
+	qin1 you3
+14548	侵占
+	qin1 zhan4
+14549	侵恣
+	qin1 zi4
+14550	琴
+	qin2
+14551	芹菜
+	qin2 cai4
+14552	勤奋
+	qin2 fen4
+14553	勤工俭学
+	qin2 gong1 jian3 xue2
+14554	禽翦
+	qin2 jian3
+14555	懃恳
+	qin2 ken3
+14556	秦牢
+	qin2 lao2
+14557	轻
+	qing1
+14558	轻艑
+	qing1 bian4
+14559	青菜
+	qing1 cai4
+14560	青茶
+	qing1 cha2
+14561	青尘
+	qing1 chen2
+14562	青刍
+	qing1 chu2
+14563	倾褚
+	qing1 chu3
+14564	青春
+	qing1 chun1
+14565	轻工业
+	qing1 gong1 ye4
+14566	青节
+	qing1 jie2
+14567	轻駃
+	qing1 kuai4
+14568	青李
+	qing1 li3
+14569	青黏
+	qing1 nian2
+14570	青襫
+	qing1 shi4
+14571	青松
+	qing1 song1
+14572	清听
+	qing1 ting1
+14573	青蜓
+	qing1 ting2
+14574	青蛙
+	qing1 wa1
+14575	顷危
+	qing1 wei1
+14576	青锡
+	qing1 xi1
+14577	卿相
+	qing1 xiang4
+14578	青鞵
+	qing1 xie2
+14579	青薪
+	qing1 xin1
+14580	轻醒
+	qing1 xing3
+14581	青鹢
+	qing1 yi4
+14582	青璅
+	qing1 zao3
+14583	清真寺
+	qing1 zhen1 si4
+14584	情
+	qing2
+14585	情抱
+	qing2 bao4
+14586	情感
+	qing2 gan3
+14587	情节
+	qing2 jie2
+14588	情景
+	qing2 jing3
+14589	情况
+	qing2 kuang4
+14590	晴朗
+	qing2 lang3
+14591	情礼
+	qing2 li3
+14592	晴天
+	qing2 tian1
+14593	黥刑
+	qing2 xing2
+14594	晴旭
+	qing2 xu4
+14595	请
+	qing3
+14596	请假
+	qing3 jia4
+14597	请柬
+	qing3 jian3
+14598	请教
+	qing3 jiao4
+14599	顷刻
+	qing3 ke4
+14600	请赇
+	qing3 qiu2
+14601	顷世
+	qing3 shi4
+14602	请帖
+	qing3 tie3
+14603	请问
+	qing3 wen4
+14604	请愿
+	qing3 yuan4
+14605	庆
+	qing4
+14606	庆贺
+	qing4 he4
+14607	庆祝
+	qing4 zhu4
+14608	硘
+	qing5
+14609	穷
+	qiong2
+14610	穷苦
+	qiong2 ku3
+14611	穷人
+	qiong2 ren2
+14612	秋
+	qiu1
+14613	鳅鮆
+	qiu1 ji4
+14614	邱陵
+	qiu1 ling2
+14615	秋收
+	qiu1 shou1
+14616	秋天
+	qiu1 tian1
+14617	求
+	qiu2
+14618	球场
+	qiu2 chang3
+14619	求得
+	qiu2 de2
+14620	球队
+	qiu2 dui4
+14621	球迷
+	qiu2 mi2
+14622	麯
+	qu1
+14623	区别
+	qu1 bie2
+14624	区分
+	qu1 fen1
+14625	驱祓
+	qu1 fu2
+14626	驱世
+	qu1 shi4
+14627	曲线
+	qu1 xian4
+14628	趋向
+	qu1 xiang4
+14629	驱驭
+	qu1 yu4
+14630	曲折
+	qu1 zhe2
+14631	驱逐
+	qu1 zhu2
+14632	佢
+	qu2
+14633	衢道
+	qu2 dao4
+14634	齲
+	qu3
+14635	曲贷
+	qu3 dai4
+14636	取得
+	qu3 de5
+14637	曲肖
+	qu3 xiao1
+14638	曲子
+	qu3 zi5
+14639	闃
+	qu4
+14640	去年
+	qu4 nian2
+14641	趣势
+	qu4 shi4
+14642	趣味
+	qu4 wei4
+14643	迲
+	qu5
+14644	圏
+	quan1
+14645	圈套
+	quan1 tao4
+14646	圈子
+	quan1 zi5
+14647	全
+	quan2
+14648	铨部
+	quan2 bu4
+14649	全都
+	quan2 dou1
+14650	全会
+	quan2 hui4
+14651	蜷蹐
+	quan2 ji2
+14652	跧局
+	quan2 ju2
+14653	铨历
+	quan2 li4
+14654	全力以赴
+	quan2 li4 yi3 fu4
+14655	全面
+	quan2 mian4
+14656	拳民
+	quan2 min2
+14657	全体
+	quan2 ti3
+14658	拳头
+	quan2 tou5
+14659	权威
+	quan2 wei1
+14660	铨限
+	quan2 xian4
+14661	全心全意
+	quan2 xin1 quan2 yi4
+14662	诠译
+	quan2 yi4
+14663	犬
+	quan3
+14664	劝
+	quan4
+14665	劝告
+	quan4 gao4
+14666	劝说
+	quan4 shuo1
+14667	劝阻
+	quan4 zu3
+14668	蒛
+	que1
+14669	阙典
+	que1 dian3
+14670	阙乏
+	que1 fa2
+14671	阙口
+	que1 kou3
+14672	阙少
+	que1 shao3
+14673	缺席
+	que1 xi2
+14674	阙陷
+	que1 xian4
+14675	瘸
+	que2
+14676	却
+	que4
+14677	确保
+	que4 bao3
+14678	确定
+	que4 ding4
+14679	鹊厉
+	que4 li4
+14680	确切
+	que4 qie4
+14681	确认
+	que4 ren4
+14682	鹊石
+	que4 shi2
+14683	确信
+	que4 xin4
+14684	确凿
+	que4 zao2
+14685	羣
+	qun2
+14686	群岛
+	qun2 dao3
+14687	群体
+	qun2 ti3
+14688	群众
+	qun2 zhong4
+14689	裙子
+	qun2 zi5
+14690	然
+	ran2
+14691	然而
+	ran2 er2
+14692	然后
+	ran2 hou4
+14693	燃料
+	ran2 liao4
+14694	燃烧
+	ran2 shao1
+14695	染
+	ran3
+14696	染料
+	ran3 liao4
+14697	壤
+	rang3
+14698	讓
+	rang4
+14699	让步
+	rang4 bu4
+14700	饒
+	rao2
+14701	擾
+	rao3
+14702	扰乱
+	rao3 luan4
+14703	遶
+	rao4
+14704	𢞇
+	re3
+14705	热
+	re4
+14706	热爱
+	re4 ai4
+14707	热潮
+	re4 chao2
+14708	热带
+	re4 dai4
+14709	热泪盈眶
+	re4 lei4 ying2 kuang4
+14710	热量
+	re4 liang4
+14711	热烈
+	re4 lie4
+14712	热情
+	re4 qing2
+14713	热水瓶
+	re4 shui3 ping2
+14714	热心
+	re4 xin1
+14715	人
+	ren2
+14716	人材
+	ren2 cai2
+14717	仁祠
+	ren2 ci2
+14718	人道主义
+	ren2 dao4 zhu3 yi4
+14719	人鬲
+	ren2 ge2
+14720	壬公
+	ren2 gong1
+14721	人家
+	ren2 jia1
+14722	人间
+	ren2 jian1
+14723	仁君
+	ren2 jun1
+14724	人口
+	ren2 kou3
+14725	人类
+	ren2 lei4
+14726	人立
+	ren2 li4
+14727	人们
+	ren2 men5
+14728	仁民
+	ren2 min2
+14729	人民币
+	ren2 min2 bi4
+14730	人情
+	ren2 qing2
+14731	人权
+	ren2 quan2
+14732	人群
+	ren2 qun2
+14733	壬申
+	ren2 shen1
+14734	仁声
+	ren2 sheng1
+14735	仁士
+	ren2 shi4
+14736	仁体
+	ren2 ti3
+14737	人为
+	ren2 wei2
+14738	人物
+	ren2 wu4
+14739	仁心
+	ren2 xin1
+14740	任姓
+	ren2 xing4
+14741	人缘
+	ren2 yuan2
+14742	人造
+	ren2 zao4
+14743	仁智
+	ren2 zhi4
+14744	稔
+	ren3
+14745	忍耐
+	ren3 nai4
+14746	忍受
+	ren3 shou4
+14747	認
+	ren4
+14748	认的
+	ren4 de5
+14749	认定
+	ren4 ding4
+14750	任何
+	ren4 he2
+14751	认可
+	ren4 ke3
+14752	认命
+	ren4 ming4
+14753	认识
+	ren4 shi2
+14754	认为
+	ren4 wei2
+14755	任务
+	ren4 wu4
+14756	韧性
+	ren4 xing4
+14757	认义
+	ren4 yi4
+14758	认真
+	ren4 zhen1
+14759	仍
+	reng2
+14760	仍旧
+	reng2 jiu4
+14761	仍然
+	reng2 ran2
+14762	日
+	ri4
+14763	日报
+	ri4 bao4
+14764	日常
+	ri4 chang2
+14765	驲丞
+	ri4 cheng2
+14766	日光
+	ri4 guang1
+14767	日际
+	ri4 ji4
+14768	日期
+	ri4 qi1
+14769	日夜
+	ri4 ye4
+14770	日裔
+	ri4 yi4
+14771	日用
+	ri4 yong4
+14772	日用品
+	ri4 yong4 pin3
+14773	日子
+	ri4 zi5
+14774	榮
+	rong2
+14775	镕化
+	rong2 hua4
+14776	戎机
+	rong2 ji1
+14777	融解
+	rong2 jie3
+14778	容量
+	rong2 liang4
+14779	荣纳
+	rong2 na4
+14780	荣气
+	rong2 qi4
+14781	融洽
+	rong2 qia4
+14782	容忍
+	rong2 ren3
+14783	荣幸
+	rong2 xing4
+14784	容许
+	rong2 xu3
+14785	镕液
+	rong2 ye4
+14786	融裔
+	rong2 yi4
+14787	荣郁
+	rong2 yu4
+14788	揉
+	rou2
+14789	糅合
+	rou2 he2
+14790	柔软
+	rou2 ruan3
+14791	宍
+	rou4
+14792	如
+	ru2
+14793	如此
+	ru2 ci3
+14794	如果
+	ru2 guo3
+14795	如何
+	ru2 he2
+14796	如今
+	ru2 jin1
+14797	孺童
+	ru2 tong2
+14798	如下
+	ru2 xia4
+14799	如意
+	ru2 yi4
+14800	如醉如痴
+	ru2 zui4 ru2 chi1
+14801	乳
+	ru3
+14802	入
+	ru4
+14803	入静
+	ru4 jing4
+14804	入口
+	ru4 kou3
+14805	入侵
+	ru4 qin1
+14806	入手
+	ru4 shou3
+14807	入学
+	ru4 xue2
+14808	軟
+	ruan3
+14809	软件
+	ruan3 jian4
+14810	软弱
+	ruan3 ruo4
+14811	瑞
+	rui4
+14812	锐立
+	rui4 li4
+14813	瑞雪
+	rui4 xue3
+14814	润
+	run4
+14815	弱
+	ruo4
+14816	弱点
+	ruo4 dian3
+14817	若干
+	ruo4 gan1
+14818	仨
+	sa1
+14819	撒谎
+	sa1 huang3
+14820	𡄳
+	sa3
+14821	鳃
+	sai1
+14822	賽
+	sai4
+14823	三
+	san1
+14824	三番五次
+	san1 fan1 wu3 ci4
+14825	三角
+	san1 jiao3
+14826	伞
+	san3
+14827	散文
+	san3 wen2
+14828	㪔
+	san4
+14829	散步
+	san4 bu4
+14830	散发
+	san4 fa4
+14831	桑
+	sang1
+14832	桑树
+	sang1 shu4
+14833	搡
+	sang3
+14834	嗓子
+	sang3 zi5
+14835	𣉕
+	sang4
+14836	丧师
+	sang4 shi1
+14837	骚
+	sao1
+14838	嫂
+	sao3
+14839	扫除
+	sao3 chu2
+14840	嫂子
+	sao3 zi5
+14841	瑟
+	se4
+14842	色采
+	se4 cai3
+14843	森
+	sen1
+14844	森林
+	sen1 lin2
+14845	杀
+	sha1
+14846	莎车
+	sha1 che1
+14847	沙发
+	sha1 fa1
+14848	沙害
+	sha1 hai4
+14849	沙漠
+	sha1 mo4
+14850	沙潬
+	sha1 tan1
+14851	砂土
+	sha1 tu3
+14852	砂子
+	sha1 zi5
+14853	傻
+	sha3
+14854	傻子
+	sha3 zi5
+14855	霎
+	sha4
+14856	筛
+	shai1
+14857	筛子
+	shai1 zi5
+14858	晒
+	shai4
+14859	山
+	shan1
+14860	山第
+	shan1 di4
+14861	搧风
+	shan1 feng1
+14862	纔刚
+	shan1 gang1
+14863	珊钩
+	shan1 gou1
+14864	山骨
+	shan1 gu3
+14865	山河
+	shan1 he2
+14866	珊瑚
+	shan1 hu2
+14867	山角
+	shan1 jiao3
+14868	山岭
+	shan1 ling3
+14869	山脉
+	shan1 mai4
+14870	山区
+	shan1 qu1
+14871	山水
+	shan1 shui3
+14872	幓头
+	shan1 tou2
+14873	山腰
+	shan1 yao1
+14874	閃
+	shan3
+14875	闪电
+	shan3 dian4
+14876	闪铄
+	shan3 shuo4
+14877	闪耀
+	shan3 yao4
+14878	善
+	shan4
+14879	擅长
+	shan4 chang2
+14880	善良
+	shan4 liang2
+14881	鳝鱼
+	shan4 yu2
+14882	擅自
+	shan4 zi4
+14883	扇子
+	shan4 zi5
+14884	伤
+	shang1
+14885	商飙
+	shang1 biao1
+14886	商场
+	shang1 chang3
+14887	觞奠
+	shang1 dian4
+14888	伤害
+	shang1 hai4
+14889	伤痕
+	shang1 hen2
+14890	伤口
+	shang1 kou3
+14891	商量
+	shang1 liang2
+14892	伤脑筋
+	shang1 nao3 jin1
+14893	商品
+	shang1 pin3
+14894	商确
+	shang1 que4
+14895	商人
+	shang1 ren2
+14896	商讨
+	shang1 tao3
+14897	商辛
+	shang1 xin1
+14898	商叶
+	shang1 ye4
+14899	觞醳
+	shang1 yi4
+14900	伤员
+	shang1 yuan2
+14901	賞
+	shang3
+14902	上去
+	shang3 qu4
+14903	赏午
+	shang3 wu3
+14904	緔
+	shang4
+14905	上班
+	shang4 ban1
+14906	上报
+	shang4 bao4
+14907	上边
+	shang4 bian1
+14908	上层
+	shang4 ceng2
+14909	上当
+	shang4 dang4
+14910	上等
+	shang4 deng3
+14911	上第
+	shang4 di4
+14912	上集
+	shang4 ji2
+14913	上焦
+	shang4 jiao1
+14914	上进
+	shang4 jin4
+14915	上课
+	shang4 ke4
+14916	上空
+	shang4 kong1
+14917	上来
+	shang4 lai2
+14918	上面
+	shang4 mian4
+14919	上衽
+	shang4 ren4
+14920	上牲
+	shang4 sheng1
+14921	上述
+	shang4 shu4
+14922	上诉
+	shang4 su4
+14923	上台
+	shang4 tai2
+14924	上头
+	shang4 tou5
+14925	尚武
+	shang4 wu3
+14926	上下
+	shang4 xia4
+14927	上学
+	shang4 xue2
+14928	上旬
+	shang4 xun2
+14929	上衣
+	shang4 yi1
+14930	尚猷
+	shang4 you2
+14931	上涨
+	shang4 zhang3
+14932	烧
+	shao1
+14933	烧毁
+	shao1 hui3
+14934	稍微
+	shao1 wei1
+14935	韶
+	shao2
+14936	杓子
+	shao2 zi5
+14937	㪢
+	shao3
+14938	少量
+	shao3 liang4
+14939	少数
+	shao3 shu4
+14940	少数民族
+	shao3 shu4 min2 zu2
+14941	绍
+	shao4
+14942	哨兵
+	shao4 bing1
+14943	少年
+	shao4 nian2
+14944	少女
+	shao4 nv3
+14945	奢
+	she1
+14946	奢侈
+	she1 chi3
+14947	佘
+	she2
+14948	舌头
+	she2 tou5
+14949	捨
+	she3
+14950	舍不得
+	she3 bu4 de2
+14951	設
+	she4
+14952	设备
+	she4 bei4
+14953	舍得
+	she4 de5
+14954	设法
+	she4 fa3
+14955	设会
+	she4 hui4
+14956	社会学
+	she4 hui4 xue2
+14957	设笄
+	she4 ji1
+14958	设棘
+	she4 ji2
+14959	设计
+	she4 ji4
+14960	设立
+	she4 li4
+14961	设施
+	she4 shi1
+14962	赦释
+	she4 shi4
+14963	麝团
+	she4 tuan2
+14964	涉外
+	she4 wai4
+14965	设飨
+	she4 xiang3
+14966	摄影
+	she4 ying3
+14967	设置
+	she4 zhi4
+14968	深
+	shen1
+14969	深奥
+	shen1 ao4
+14970	申报
+	shen1 bao4
+14971	身边
+	shen1 bian1
+14972	身裁
+	shen1 cai2
+14973	申陈
+	shen1 chen2
+14974	申黜
+	shen1 chu4
+14975	深度
+	shen1 du4
+14976	身分
+	shen1 fen4
+14977	身后
+	shen1 hou4
+14978	申画
+	shen1 hua4
+14979	深刻
+	shen1 ke4
+14980	深谴
+	shen1 qian3
+14981	深切
+	shen1 qie4
+14982	深情
+	shen1 qing2
+14983	申请
+	shen1 qing3
+14984	深入
+	shen1 ru4
+14985	身事
+	shen1 shi4
+14986	身首
+	shen1 shou3
+14987	申述
+	shen1 shu4
+14988	身躰
+	shen1 ti3
+14989	深信
+	shen1 xin4
+14990	深夜
+	shen1 ye4
+14991	身银
+	shen1 yin2
+14992	深远
+	shen1 yuan3
+14993	申展
+	shen1 zhan3
+14994	身重
+	shen1 zhong4
+14995	身子
+	shen1 zi5
+14996	榊
+	shen2
+14997	神话
+	shen2 hua4
+14998	神经
+	shen2 jing1
+14999	甚麼
+	shen2 me5
+15000	什么的
+	shen2 me5 de5
+15001	神秘
+	shen2 mi4
+15002	神祇
+	shen2 qi2
+15003	神气
+	shen2 qi4
+15004	神情
+	shen2 qing2
+15005	神色
+	shen2 se4
+15006	神圣
+	shen2 sheng4
+15007	神态
+	shen2 tai4
+15008	神先
+	shen2 xian1
+15009	审
+	shen3
+15010	审查
+	shen3 cha2
+15011	沈定
+	shen3 ding4
+15012	沈醴
+	shen3 li3
+15013	审美
+	shen3 mei3
+15014	审判
+	shen3 pan4
+15015	审批
+	shen3 pi1
+15016	沈逊
+	shen3 xun4
+15017	沈翳
+	shen3 yi4
+15018	婶子
+	shen3 zi5
+15019	肾
+	shen4
+15020	渗透
+	shen4 tou4
+15021	肾炎
+	shen4 yan2
+15022	甚至
+	shen4 zhi4
+15023	甚至于
+	shen4 zhi4 yu2
+15024	慎重
+	shen4 zhong4
+15025	生
+	sheng1
+15026	生病
+	sheng1 bing4
+15027	生产
+	sheng1 chan3
+15028	生产力
+	sheng1 chan3 li4
+15029	生产率
+	sheng1 chan3 lv4
+15030	生畜
+	sheng1 chu4
+15031	生词
+	sheng1 ci2
+15032	生存
+	sheng1 cun2
+15033	声调
+	sheng1 diao4
+15034	生栋
+	sheng1 dong4
+15035	生活
+	sheng1 huo2
+15036	生肌
+	sheng1 ji1
+15037	生口
+	sheng1 kou3
+15038	生理
+	sheng1 li3
+15039	声明
+	sheng1 ming2
+15040	生命
+	sheng1 ming4
+15041	生命力
+	sheng1 ming4 li4
+15042	生怕
+	sheng1 pa4
+15043	生炁
+	sheng1 qi4
+15044	生前
+	sheng1 qian2
+15045	生仁
+	sheng1 ren2
+15046	生日
+	sheng1 ri4
+15047	生式
+	sheng1 shi4
+15048	生疏
+	sheng1 shu1
+15049	生态
+	sheng1 tai4
+15050	生物
+	sheng1 wu4
+15051	生肖
+	sheng1 xiao4
+15052	生学
+	sheng1 xue2
+15053	生议
+	sheng1 yi4
+15054	声音
+	sheng1 yin1
+15055	生育
+	sheng1 yu4
+15056	生长
+	sheng1 zhang3
+15057	甥妷
+	sheng1 zhi2
+15058	绳
+	sheng2
+15059	绳子
+	sheng2 zi5
+15060	眚
+	sheng3
+15061	省的
+	sheng3 de5
+15062	省会
+	sheng3 hui4
+15063	省略
+	sheng3 lve4
+15064	省长
+	sheng3 zhang3
+15065	聖
+	sheng4
+15066	盛产
+	sheng4 chan3
+15067	盛大
+	sheng4 da4
+15068	盛开
+	sheng4 kai1
+15069	胜利
+	sheng4 li4
+15070	胜情
+	sheng4 qing2
+15071	盛行
+	sheng4 xing2
+15072	剩余
+	sheng4 yu2
+15073	师
+	shi1
+15074	失败
+	shi1 bai4
+15075	诗调
+	shi1 diao4
+15076	湿度
+	shi1 du4
+15077	诗犯
+	shi1 fan4
+15078	施肥
+	shi1 fei2
+15079	诗赋
+	shi1 fu4
+15080	诗謌
+	shi1 ge1
+15081	诗工
+	shi1 gong1
+15082	诗家
+	shi1 jia1
+15083	失眠
+	shi1 mian2
+15084	诗趣
+	shi1 qu4
+15085	诗人
+	shi1 ren2
+15086	湿润
+	shi1 run4
+15087	诗式
+	shi1 shi4
+15088	诗体
+	shi1 ti3
+15089	师望
+	shi1 wang4
+15090	失误
+	shi1 wu4
+15091	施效
+	shi1 xiao4
+15092	施行
+	shi1 xing2
+15093	诗学
+	shi1 xue2
+15094	诗业
+	shi1 ye4
+15095	诗曰
+	shi1 yue1
+15096	施展
+	shi1 zhan3
+15097	师长
+	shi1 zhang3
+15098	虱子
+	shi1 zi5
+15099	诗宗
+	shi1 zong1
+15100	时
+	shi2
+15101	识别
+	shi2 bie2
+15102	食肠
+	shi2 chang2
+15103	石黛
+	shi2 dai4
+15104	时而
+	shi2 er2
+15105	食分
+	shi2 fen1
+15106	时光
+	shi2 guang1
+15107	石堠
+	shi2 hou4
+15108	石画
+	shi2 hua4
+15109	石灰
+	shi2 hui1
+15110	识会
+	shi2 hui4
+15111	食积
+	shi2 ji1
+15112	食既
+	shi2 ji4
+15113	食间
+	shi2 jian1
+15114	识鉴
+	shi2 jian4
+15115	食结
+	shi2 jie2
+15116	食客
+	shi2 ke4
+15117	实况
+	shi2 kuang4
+15118	食力
+	shi2 li4
+15119	石锚
+	shi2 mao2
+15120	食品
+	shi2 pin3
+15121	石磎
+	shi2 qi1
+15122	十全十美
+	shi2 quan2 shi2 mei3
+15123	石狮
+	shi2 shi1
+15124	食食
+	shi2 shi2
+15125	食事
+	shi2 shi4
+15126	实事求是
+	shi2 shi4 qiu2 shi4
+15127	食糖
+	shi2 tang2
+15128	识体
+	shi2 ti3
+15129	石头
+	shi2 tou5
+15130	食物
+	shi2 wu4
+15131	识习
+	shi2 xi2
+15132	食限
+	shi2 xian4
+15133	石刑
+	shi2 xing2
+15134	食鴈
+	shi2 yan4
+15135	食用
+	shi2 yong4
+15136	食肬
+	shi2 you2
+15137	食玉
+	shi2 yu4
+15138	实在
+	shi2 zai4
+15139	食炙
+	shi2 zhi4
+15140	时装
+	shi2 zhuang1
+15141	石镞
+	shi2 zu2
+15142	使
+	shi3
+15143	使的
+	shi3 de5
+15144	使节
+	shi3 jie2
+15145	使靳
+	shi3 jin4
+15146	始料
+	shi3 liao4
+15147	矢命
+	shi3 ming4
+15148	使用
+	shi3 yong4
+15149	矢忠
+	shi3 zhong1
+15150	視
+	shi4
+15151	释币
+	shi4 bi4
+15152	饰辩
+	shi4 bian4
+15153	饰兵
+	shi4 bing1
+15154	试茶
+	shi4 cha2
+15155	试场
+	shi4 chang3
+15156	饰带
+	shi4 dai4
+15157	适当
+	shi4 dang4
+15158	是的
+	shi4 de5
+15159	释梵
+	shi4 fan4
+15160	释放
+	shi4 fang4
+15161	饰非
+	shi4 fei1
+15162	是否
+	shi4 fou3
+15163	是故
+	shi4 gu4
+15164	适合
+	shi4 he2
+15165	视候
+	shi4 hou4
+15166	试技
+	shi4 ji4
+15167	试剑
+	shi4 jian4
+15168	誓戒
+	shi4 jie4
+15169	世界观
+	shi4 jie4 guan1
+15170	释卷
+	shi4 juan4
+15171	释蹻
+	shi4 jue2
+15172	饰吏
+	shi4 li4
+15173	适民
+	shi4 min2
+15174	适情
+	shi4 qing2
+15175	适时
+	shi4 shi2
+15176	饰室
+	shi4 shi4
+15177	视态
+	shi4 tai4
+15178	示威
+	shi4 wei1
+15179	饰物
+	shi4 wu4
+15180	事先
+	shi4 xian1
+15181	视线
+	shi4 xian4
+15182	释像
+	shi4 xiang4
+15183	饰行
+	shi4 xing2
+15184	饰言
+	shi4 yan2
+15185	试验
+	shi4 yan4
+15186	试样
+	shi4 yang4
+15187	适野
+	shi4 ye3
+15188	试液
+	shi4 ye4
+15189	释疑
+	shi4 yi2
+15190	示意图
+	shi4 yi4 tu2
+15191	适应
+	shi4 ying4
+15192	适用
+	shi4 yong4
+15193	视掌
+	shi4 zhang3
+15194	饰治
+	shi4 zhi4
+15195	佦
+	shi5
+15196	收
+	shou1
+15197	收藏
+	shou1 cang2
+15198	收成
+	shou1 cheng2
+15199	收附
+	shou1 fu4
+15200	收割
+	shou1 ge1
+15201	收购
+	shou1 gou4
+15202	收回
+	shou1 hui2
+15203	收获
+	shou1 huo4
+15204	收集
+	shou1 ji2
+15205	收买
+	shou1 mai3
+15206	收入
+	shou1 ru4
+15207	收食
+	shou1 shi2
+15208	收缩
+	shou1 suo1
+15209	收益
+	shou1 yi4
+15210	收音机
+	shou1 yin1 ji1
+15211	收支
+	shou1 zhi1
+15212	手
+	shou3
+15213	手表
+	shou3 biao3
+15214	首创
+	shou3 chuang4
+15215	手电
+	shou3 dian4
+15216	手电筒
+	shou3 dian4 tong3
+15217	首都
+	shou3 du1
+15218	手段
+	shou3 duan4
+15219	手法
+	shou3 fa3
+15220	首功
+	shou3 gong1
+15221	手筋
+	shou3 jin1
+15222	首卷
+	shou3 juan4
+15223	首领
+	shou3 ling3
+15224	手榴弹
+	shou3 liu2 dan4
+15225	首脑
+	shou3 nao3
+15226	手枪
+	shou3 qiang1
+15227	首饰
+	shou3 shi4
+15228	首术
+	shou3 shu4
+15229	手套
+	shou3 tao4
+15230	首位
+	shou3 wei4
+15231	首席
+	shou3 xi2
+15232	首先
+	shou3 xian1
+15233	首项
+	shou3 xiang4
+15234	首序
+	shou3 xu4
+15235	首要
+	shou3 yao4
+15236	首邑
+	shou3 yi4
+15237	首长
+	shou3 zhang3
+15238	手纸
+	shou3 zhi3
+15239	兽
+	shou4
+15240	售货员
+	shou4 huo4 yuan2
+15241	授命
+	shou4 ming4
+15242	寿觞
+	shou4 shang1
+15243	授予
+	shou4 yu3
+15244	书
+	shu1
+15245	书包
+	shu1 bao1
+15246	书本
+	shu1 ben3
+15247	蔬菜
+	shu1 cai4
+15248	舒畅
+	shu1 chang4
+15249	输出
+	shu1 chu1
+15250	输电
+	shu1 dian4
+15251	书法
+	shu1 fa3
+15252	输服
+	shu1 fu2
+15253	倏忽
+	shu1 hu1
+15254	舒疾
+	shu1 ji2
+15255	疏记
+	shu1 ji4
+15256	书架
+	shu1 jia4
+15257	书刊
+	shu1 kan1
+15258	书面
+	shu1 mian4
+15259	输入
+	shu1 ru4
+15260	舒释
+	shu1 shi4
+15261	输输
+	shu1 shu1
+15262	输送
+	shu1 song4
+15263	输写
+	shu1 xie3
+15264	书信
+	shu1 xin4
+15265	舒展
+	shu1 zhan3
+15266	梳子
+	shu1 zi5
+15267	赎
+	shu2
+15268	熟练
+	shu2 lian4
+15269	熟悉
+	shu2 xi1
+15270	署
+	shu3
+15271	暑假
+	shu3 jia4
+15272	蜀雓
+	shu3 yu2
+15273	树
+	shu4
+15274	数额
+	shu4 e2
+15275	述附
+	shu4 fu4
+15276	树榦
+	shu4 gan4
+15277	束苣
+	shu4 ju4
+15278	竖笠
+	shu4 li4
+15279	数量
+	shu4 liang4
+15280	竖鳞
+	shu4 lin2
+15281	树木
+	shu4 mu4
+15282	腧穴
+	shu4 xue2
+15283	数字
+	shu4 zi4
+15284	唰
+	shua1
+15285	刷子
+	shua1 zi3
+15286	耍
+	shua3
+15287	摔
+	shuai1
+15288	衰老
+	shuai1 lao3
+15289	衰弱
+	shuai1 ruo4
+15290	衰退
+	shuai1 tui4
+15291	甩
+	shuai3
+15292	帅
+	shuai4
+15293	率领
+	shuai4 ling3
+15294	閂
+	shuan1
+15295	双
+	shuang1
+15296	双方
+	shuang1 fang1
+15297	塽
+	shuang3
+15298	脽
+	shui2
+15299	水
+	shui3
+15300	水产
+	shui3 chan3
+15301	水道
+	shui3 dao4
+15302	水电
+	shui3 dian4
+15303	水粪
+	shui3 fen4
+15304	水果
+	shui3 guo3
+15305	水库
+	shui3 ku4
+15306	水粒
+	shui3 li4
+15307	水泥
+	shui3 ni2
+15308	水苹
+	shui3 ping2
+15309	水土
+	shui3 tu3
+15310	水源
+	shui3 yuan2
+15311	水灾
+	shui3 zai1
+15312	水蒸气
+	shui3 zheng1 qi4
+15313	睡
+	shui4
+15314	睡觉
+	shui4 jiao4
+15315	睡眠
+	shui4 mian2
+15316	税收
+	shui4 shou1
+15317	氵
+	shui5
+15318	順
+	shun4
+15319	顺变
+	shun4 bian4
+15320	顺利
+	shun4 li4
+15321	顺手
+	shun4 shou3
+15322	顺续
+	shun4 xu4
+15323	說
+	shuo1
+15324	说不定
+	shuo1 bu4 ding4
+15325	说法
+	shuo1 fa3
+15326	说服
+	shuo1 fu2
+15327	说谎
+	shuo1 huang3
+15328	说明
+	shuo1 ming2
+15329	说情
+	shuo1 qing2
+15330	硕
+	shuo4
+15331	丝
+	si1
+15332	私朝
+	si1 chao2
+15333	私法
+	si1 fa3
+15334	丝毫
+	si1 hao2
+15335	私赍
+	si1 ji1
+15336	私拷
+	si1 kao3
+15337	司令
+	si1 ling4
+15338	司令部
+	si1 ling4 bu4
+15339	私念
+	si1 nian4
+15340	思前想后
+	si1 qian2 xiang3 hou4
+15341	私人
+	si1 ren2
+15342	思索
+	si1 suo3
+15343	私违
+	si1 wei2
+15344	私文
+	si1 wen2
+15345	思想
+	si1 xiang3
+15346	私蓄
+	si1 xu4
+15347	私营
+	si1 ying2
+15348	私有
+	si1 you3
+15349	私有制
+	si1 you3 zhi4
+15350	私自
+	si1 zi4
+15351	死
+	si3
+15352	死亡
+	si3 wang2
+15353	死刑
+	si3 xing2
+15354	四
+	si4
+15355	四处
+	si4 chu4
+15356	肆芳
+	si4 fang1
+15357	四呼
+	si4 hu1
+15358	食祭
+	si4 ji4
+15359	饲料
+	si4 liao4
+15360	四面八方
+	si4 mian4 ba1 fang1
+15361	似是而非
+	si4 shi4 er2 fei1
+15362	似笑非笑
+	si4 xiao4 fei1 xiao4
+15363	饲养
+	si4 yang3
+15364	四胑
+	si4 zhi1
+15365	四洲
+	si4 zhou1
+15366	松
+	song1
+15367	松树
+	song1 shu4
+15368	怂
+	song3
+15369	送
+	song4
+15370	颂礼
+	song4 li3
+15371	送行
+	song4 xing2
+15372	艘
+	sou1
+15373	搜查
+	sou1 cha2
+15374	蒐集
+	sou1 ji2
+15375	搜索
+	sou1 suo3
+15376	囌
+	su1
+15377	苏醒
+	su1 xing3
+15378	俗
+	su2
+15379	俗话
+	su2 hua4
+15380	素
+	su4
+15381	速成
+	su4 cheng2
+15382	速度
+	su4 du4
+15383	塑料
+	su4 liao4
+15384	肃清
+	su4 qing1
+15385	速射
+	su4 she4
+15386	速讼
+	su4 song4
+15387	塑造
+	su4 zao4
+15388	肃治
+	su4 zhi4
+15389	痠
+	suan1
+15390	算
+	suan4
+15391	算了
+	suan4 le5
+15392	算盘
+	suan4 pan2
+15393	算是
+	suan4 shi4
+15394	算术
+	suan4 shu4
+15395	虽
+	sui1
+15396	虽然
+	sui1 ran2
+15397	虽说
+	sui1 shuo1
+15398	随
+	sui2
+15399	随便
+	sui2 bian4
+15400	随后
+	sui2 hou4
+15401	随即
+	sui2 ji2
+15402	随时
+	sui2 shi2
+15403	随时随地
+	sui2 shi2 sui2 di4
+15404	随手
+	sui2 shou3
+15405	随意
+	sui2 yi4
+15406	随着
+	sui2 zhe5
+15407	岁
+	sui4
+15408	隧道
+	sui4 dao4
+15409	岁数
+	sui4 shu4
+15410	碎月
+	sui4 yue4
+15411	孙
+	sun1
+15412	孙女
+	sun1 nv3
+15413	孙子
+	sun1 zi5
+15414	损
+	sun3
+15415	损害
+	sun3 hai4
+15416	损耗
+	sun3 hao4
+15417	损坏
+	sun3 huai4
+15418	损人利己
+	sun3 ren2 li4 ji3
+15419	损伤
+	sun3 shang1
+15420	损失
+	sun3 shi1
+15421	簑
+	suo1
+15422	缩短
+	suo1 duan3
+15423	缩小
+	suo1 xiao3
+15424	所
+	suo3
+15425	所得
+	suo3 de5
+15426	所得税
+	suo3 de5 shui4
+15427	所属
+	suo3 shu3
+15428	所谓
+	suo3 wei4
+15429	索性
+	suo3 xing4
+15430	所已
+	suo3 yi3
+15431	所有
+	suo3 you3
+15432	所有权
+	suo3 you3 quan2
+15433	所有制
+	suo3 you3 zhi4
+15434	所在
+	suo3 zai4
+15435	祂
+	ta1
+15436	它们
+	ta1 men5
+15437	它人
+	ta1 ren2
+15438	鳎
+	ta3
+15439	挞
+	ta4
+15440	踏石
+	ta4 shi2
+15441	檯
+	tai2
+15442	邰封
+	tai2 feng1
+15443	苔阶
+	tai2 jie1
+15444	态
+	tai4
+15445	态度
+	tai4 du4
+15446	太空
+	tai4 kong1
+15447	泰平
+	tai4 ping2
+15448	泰然
+	tai4 ran2
+15449	太阳能
+	tai4 yang2 neng2
+15450	粏
+	tai5
+15451	貪
+	tan1
+15452	瘫痪
+	tan1 huan4
+15453	贪洿
+	tan1 wu1
+15454	談
+	tan2
+15455	谈话
+	tan2 hua4
+15456	谭论
+	tan2 lun4
+15457	谈判
+	tan2 pan4
+15458	谈天
+	tan2 tian1
+15459	坦
+	tan3
+15460	坦白
+	tan3 bai2
+15461	坦克
+	tan3 ke4
+15462	毯子
+	tan3 zi5
+15463	碳
+	tan4
+15464	探策
+	tan4 ce4
+15465	叹气
+	tan4 qi4
+15466	探亲
+	tan4 qin1
+15467	探索
+	tan4 suo3
+15468	探讨
+	tan4 tao3
+15469	探头探脑
+	tan4 tou2 tan4 nao3
+15470	探望
+	tan4 wang4
+15471	㓥
+	tang1
+15472	糖
+	tang2
+15473	糖果
+	tang2 guo3
+15474	傥
+	tang3
+15475	傥若
+	tang3 ruo4
+15476	烫
+	tang4
+15477	韬
+	tao1
+15478	滔滔不绝
+	tao1 tao1 bu4 jue2
+15479	逃
+	tao2
+15480	逃避
+	tao2 bi4
+15481	陶瓷
+	tao2 ci2
+15482	桃花
+	tao2 hua1
+15483	逃荒
+	tao2 huang1
+15484	逃跑
+	tao2 pao3
+15485	陶气
+	tao2 qi4
+15486	陶汰
+	tao2 tai4
+15487	逃走
+	tao2 zou3
+15488	討
+	tao3
+15489	讨价还价
+	tao3 jia4 huan2 jia4
+15490	讨论
+	tao3 lun4
+15491	讨厌
+	tao3 yan4
+15492	㚐
+	tao4
+15493	特
+	te4
+15494	特别
+	te4 bie2
+15495	特产
+	te4 chan3
+15496	特此
+	te4 ci3
+15497	特地
+	te4 di4
+15498	特点
+	te4 dian3
+15499	特定
+	te4 ding4
+15500	特区
+	te4 qu1
+15501	特权
+	te4 quan2
+15502	特色
+	te4 se4
+15503	特殊
+	te4 shu1
+15504	特性
+	te4 xing4
+15505	特意
+	te4 yi4
+15506	特征
+	te4 zheng1
+15507	疼
+	teng2
+15508	疼痛
+	teng2 tong4
+15509	锑
+	ti1
+15510	题
+	ti2
+15511	提案
+	ti2 an4
+15512	题跋
+	ti2 ba2
+15513	提包
+	ti2 bao1
+15514	题材
+	ti2 cai2
+15515	提唱
+	ti2 chang4
+15516	提纲
+	ti2 gang1
+15517	题餻
+	ti2 gao1
+15518	提供
+	ti2 gong1
+15519	提交
+	ti2 jiao1
+15520	提炼
+	ti2 lian4
+15521	题名
+	ti2 ming2
+15522	题目
+	ti2 mu4
+15523	提前
+	ti2 qian2
+15524	提取
+	ti2 qu3
+15525	题升
+	ti2 sheng1
+15526	缇室
+	ti2 shi4
+15527	提问
+	ti2 wen4
+15528	题醒
+	ti2 xing3
+15529	题要
+	ti2 yao4
+15530	鹈翼
+	ti2 yi4
+15531	蹄蚤
+	ti2 zao3
+15532	躰
+	ti3
+15533	体操
+	ti3 cao1
+15534	体会
+	ti3 hui4
+15535	体积
+	ti3 ji1
+15536	体力
+	ti3 li4
+15537	体量
+	ti3 liang4
+15538	体靣
+	ti3 mian4
+15539	体贴
+	ti3 tie1
+15540	体温
+	ti3 wen1
+15541	体系
+	ti3 xi4
+15542	体现
+	ti3 xian4
+15543	体验
+	ti3 yan4
+15544	体育
+	ti3 yu4
+15545	体育场
+	ti3 yu4 chang3
+15546	体育馆
+	ti3 yu4 guan3
+15547	軆貭
+	ti3 zhi4
+15548	体重
+	ti3 zhong4
+15549	替
+	ti4
+15550	替代
+	ti4 dai4
+15551	替换
+	ti4 huan4
+15552	笹
+	ti5
+15553	天
+	tian1
+15554	天财
+	tian1 cai2
+15555	天长地久
+	tian1 chang2 di4 jiu3
+15556	天帝
+	tian1 di4
+15557	天空
+	tian1 kong1
+15558	天泣
+	tian1 qi4
+15559	天然
+	tian1 ran2
+15560	天然气
+	tian1 ran2 qi4
+15561	添色
+	tian1 se4
+15562	天上
+	tian1 shang4
+15563	天生
+	tian1 sheng1
+15564	天堂
+	tian1 tang2
+15565	天文
+	tian1 wen2
+15566	天下
+	tian1 xia4
+15567	添线
+	tian1 xian4
+15568	天真
+	tian1 zhen1
+15569	田
+	tian2
+15570	填补
+	tian2 bu3
+15571	田地
+	tian2 di4
+15572	田间
+	tian2 jian1
+15573	田迳
+	tian2 jing4
+15574	填写
+	tian2 xie3
+15575	田野
+	tian2 ye3
+15576	祧
+	tiao1
+15577	挑选
+	tiao1 xuan3
+15578	条
+	tiao2
+15579	调和
+	tiao2 he2
+15580	髫髻
+	tiao2 ji4
+15581	条件
+	tiao2 jian4
+15582	调节
+	tiao2 jie2
+15583	调解
+	tiao2 jie3
+15584	条款
+	tiao2 kuan3
+15585	调理
+	tiao2 li3
+15586	条例
+	tiao2 li4
+15587	调脾
+	tiao2 pi2
+15588	条闻
+	tiao2 wen2
+15589	条约
+	tiao2 yue1
+15590	调整
+	tiao2 zheng3
+15591	条子
+	tiao2 zi5
+15592	脁
+	tiao3
+15593	挑拨
+	tiao3 bo1
+15594	挑衅
+	tiao3 xin4
+15595	挑战
+	tiao3 zhan4
+15596	粜
+	tiao4
+15597	跳动
+	tiao4 dong4
+15598	跳高
+	tiao4 gao1
+15599	跳舞
+	tiao4 wu3
+15600	跳远
+	tiao4 yuan3
+15601	跳跃
+	tiao4 yue4
+15602	貼
+	tie1
+15603	铁
+	tie3
+15604	铁道
+	tie3 dao4
+15605	铁饭碗
+	tie3 fan4 wan3
+15606	铁鹿
+	tie3 lu4
+15607	聽
+	ting1
+15608	听话
+	ting1 hua4
+15609	听见
+	ting1 jian4
+15610	听讲
+	ting1 jiang3
+15611	听取
+	ting1 qu3
+15612	听说
+	ting1 shuo1
+15613	听写
+	ting1 xie3
+15614	听重
+	ting1 zhong4
+15615	停
+	ting2
+15616	停舶
+	ting2 bo2
+15617	停顿
+	ting2 dun4
+15618	停留
+	ting2 liu2
+15619	停止
+	ting2 zhi3
+15620	廷质
+	ting2 zhi4
+15621	亭子
+	ting2 zi5
+15622	艇
+	ting3
+15623	挺拔
+	ting3 ba2
+15624	挺立
+	ting3 li4
+15625	樋
+	tong1
+15626	通报
+	tong1 bao4
+15627	通长
+	tong1 chang2
+15628	通道
+	tong1 dao4
+15629	通风
+	tong1 feng1
+15630	通诰
+	tong1 gao4
+15631	通过
+	tong1 guo4
+15632	通航
+	tong1 hang2
+15633	通商
+	tong1 shang1
+15634	通顺
+	tong1 shun4
+15635	通俗
+	tong1 su2
+15636	通信
+	tong1 xin4
+15637	通行
+	tong1 xing2
+15638	通讯
+	tong1 xun4
+15639	通讯社
+	tong1 xun4 she4
+15640	通用
+	tong1 yong4
+15641	通知
+	tong1 zhi1
+15642	銅
+	tong2
+15643	同伴
+	tong2 ban4
+15644	铜煲
+	tong2 bao1
+15645	桐布
+	tong2 bu4
+15646	同等
+	tong2 deng3
+15647	同行
+	tong2 hang2
+15648	同类
+	tong2 lei4
+15649	童蒙
+	tong2 meng2
+15650	童年
+	tong2 nian2
+15651	同栖
+	tong2 qi1
+15652	同情
+	tong2 qing2
+15653	铜石
+	tong2 shi2
+15654	童试
+	tong2 shi4
+15655	铜乌
+	tong2 wu1
+15656	铜穴
+	tong2 xue2
+15657	同样
+	tong2 yang4
+15658	同一
+	tong2 yi1
+15659	同邑
+	tong2 yi4
+15660	铜炙
+	tong2 zhi4
+15661	統
+	tong3
+15662	统筹
+	tong3 chou2
+15663	统计
+	tong3 ji4
+15664	统统
+	tong3 tong3
+15665	统壹
+	tong3 yi1
+15666	统战
+	tong3 zhan4
+15667	统治
+	tong3 zhi4
+15668	痛
+	tong4
+15669	痛恨
+	tong4 hen4
+15670	通红
+	tong4 hong2
+15671	痛苦
+	tong4 ku3
+15672	痛快
+	tong4 kuai4
+15673	偷
+	tou1
+15674	偷窃
+	tou1 qie4
+15675	偷税
+	tou1 shui4
+15676	偷偷
+	tou1 tou1
+15677	亠
+	tou2
+15678	投标
+	tou2 biao1
+15679	投产
+	tou2 chan3
+15680	头发
+	tou2 fa4
+15681	投放
+	tou2 fang4
+15682	投机
+	tou2 ji1
+15683	头脑
+	tou2 nao3
+15684	投票
+	tou2 piao4
+15685	投入
+	tou2 ru4
+15686	投降
+	tou2 xiang2
+15687	投贽
+	tou2 zhi4
+15688	投资
+	tou2 zi1
+15689	头子
+	tou2 zi5
+15690	㖣
+	tou4
+15691	透澈
+	tou4 che4
+15692	透明
+	tou4 ming2
+15693	透明度
+	tou4 ming2 du4
+15694	突
+	tu1
+15695	突出
+	tu1 chu1
+15696	突击
+	tu1 ji1
+15697	突破
+	tu1 po4
+15698	突然
+	tu1 ran2
+15699	图
+	tu2
+15700	屠岸
+	tu2 an4
+15701	图表
+	tu2 biao3
+15702	涂地
+	tu2 di4
+15703	图画
+	tu2 hua4
+15704	途迳
+	tu2 jing4
+15705	涂片
+	tu2 pian4
+15706	屠杀
+	tu2 sha1
+15707	图书馆
+	tu2 shu1 guan3
+15708	涂巷
+	tu2 xiang4
+15709	徒行
+	tu2 xing2
+15710	图纸
+	tu2 zhi3
+15711	釷
+	tu3
+15712	土帝
+	tu3 di4
+15713	土豆
+	tu3 dou4
+15714	土壤
+	tu3 rang3
+15715	堍
+	tu4
+15716	兔子
+	tu4 zi5
+15717	汢
+	tu5
+15718	糰
+	tuan2
+15719	抟结
+	tuan2 jie2
+15720	抟聚
+	tuan2 ju4
+15721	团体
+	tuan2 ti3
+15722	团缘
+	tuan2 yuan2
+15723	团长
+	tuan2 zhang3
+15724	推
+	tui1
+15725	推策
+	tui1 ce4
+15726	推迟
+	tui1 chi2
+15727	推辞
+	tui1 ci2
+15728	推动
+	tui1 dong4
+15729	推翻
+	tui1 fan1
+15730	推广
+	tui1 guang3
+15731	推见
+	tui1 jian4
+15732	推进
+	tui1 jin4
+15733	推来推去
+	tui1 lai2 tui1 qu4
+15734	推理
+	tui1 li3
+15735	推论
+	tui1 lun4
+15736	推算
+	tui1 suan4
+15737	推销
+	tui1 xiao1
+15738	推行
+	tui1 xing2
+15739	推选
+	tui1 xuan3
+15740	腿
+	tui3
+15741	退
+	tui4
+15742	退步
+	tui4 bu4
+15743	退出
+	tui4 chu1
+15744	退还
+	tui4 huan2
+15745	退修
+	tui4 xiu1
+15746	暾
+	tun1
+15747	臀
+	tun2
+15748	托
+	tuo1
+15749	托儿所
+	tuo1 er2 suo3
+15750	拖拉机
+	tuo1 la1 ji1
+15751	脱离
+	tuo1 li2
+15752	脱落
+	tuo1 luo4
+15753	讬言
+	tuo1 yan2
+15754	駝
+	tuo2
+15755	妥
+	tuo3
+15756	妥当
+	tuo3 dang4
+15757	妥善
+	tuo3 shan4
+15758	妥协
+	tuo3 xie2
+15759	椭圆
+	tuo3 yuan2
+15760	唾
+	tuo4
+15761	挖
+	wa1
+15762	挖角
+	wa1 jue2
+15763	𣢚
+	wa2
+15764	佤
+	wa3
+15765	瓦解
+	wa3 jie3
+15766	襪
+	wa4
+15767	袜子
+	wa4 zi5
+15768	瓲
+	wa5
+15769	㖞
+	wai1
+15770	歪曲
+	wai1 qu1
+15771	外
+	wai4
+15772	外编
+	wai4 bian1
+15773	外表
+	wai4 biao3
+15774	外宾
+	wai4 bin1
+15775	外部
+	wai4 bu4
+15776	外出
+	wai4 chu1
+15777	外第
+	wai4 di4
+15778	外甸
+	wai4 dian4
+15779	外观
+	wai4 guan1
+15780	外国
+	wai4 guo2
+15781	外行
+	wai4 hang2
+15782	外烩
+	wai4 hui4
+15783	外交
+	wai4 jiao1
+15784	外界
+	wai4 jie4
+15785	外科
+	wai4 ke1
+15786	外隶
+	wai4 li4
+15787	外流
+	wai4 liu2
+15788	外面
+	wai4 mian4
+15789	外婆
+	wai4 po2
+15790	外饰
+	wai4 shi4
+15791	外头
+	wai4 tou5
+15792	外文
+	wai4 wen2
+15793	外向型
+	wai4 xiang4 xing2
+15794	外形
+	wai4 xing2
+15795	外衣
+	wai4 yi1
+15796	外语
+	wai4 yu3
+15797	外资
+	wai4 zi1
+15798	外祖父
+	wai4 zu3 fu4
+15799	外祖母
+	wai4 zu3 mu3
+15800	湾
+	wan1
+15801	豌豆
+	wan1 dou4
+15802	弯曲
+	wan1 qu1
+15803	玩
+	wan2
+15804	顽惫
+	wan2 bei4
+15805	顽蔽
+	wan2 bi4
+15806	完成
+	wan2 cheng2
+15807	完蛋
+	wan2 dan4
+15808	顽锢
+	wan2 gu4
+15809	顽具
+	wan2 ju4
+15810	玩弄
+	wan2 nong4
+15811	顽强
+	wan2 qiang2
+15812	完全
+	wan2 quan2
+15813	纨扇
+	wan2 shan4
+15814	顽笑
+	wan2 xiao4
+15815	完整
+	wan2 zheng3
+15816	晚
+	wan3
+15817	晩报
+	wan3 bao4
+15818	晚餐
+	wan3 can1
+15819	晩饭
+	wan3 fan4
+15820	绾会
+	wan3 hui4
+15821	晩就
+	wan3 jiu4
+15822	晩年
+	wan3 nian2
+15823	晩西
+	wan3 xi1
+15824	萬
+	wan4
+15825	万分
+	wan4 fen1
+15826	万古长青
+	wan4 gu3 chang2 qing1
+15827	万岁
+	wan4 sui4
+15828	翫翫
+	wan4 wan4
+15829	万一
+	wan4 yi1
+15830	尪
+	wang1
+15831	汪洋
+	wang1 yang2
+15832	仼
+	wang2
+15833	王国
+	wang2 guo2
+15834	網
+	wang3
+15835	往常
+	wang3 chang2
+15836	往返
+	wang3 fan3
+15837	往后
+	wang3 hou4
+15838	往来
+	wang3 lai2
+15839	往年
+	wang3 nian2
+15840	网球
+	wang3 qiu2
+15841	往日
+	wang3 ri4
+15842	网室
+	wang3 shi4
+15843	罔罔
+	wang3 wang3
+15844	望
+	wang4
+15845	望祭
+	wang4 ji4
+15846	忘却
+	wang4 que4
+15847	妄图
+	wang4 tu2
+15848	望想
+	wang4 xiang3
+15849	望远镜
+	wang4 yuan3 jing4
+15850	微
+	wei1
+15851	微不足道
+	wei1 bu4 zu2 dao4
+15852	微风
+	wei1 feng1
+15853	微观
+	wei1 guan1
+15854	威骇
+	wei1 hai4
+15855	微讥
+	wei1 ji1
+15856	微疾
+	wei1 ji2
+15857	逶丽
+	wei1 li4
+15858	威望
+	wei1 wang4
+15859	微显
+	wei1 xian3
+15860	微小
+	wei1 xiao3
+15861	微笑
+	wei1 xiao4
+15862	微邪
+	wei1 xie2
+15863	微信
+	wei1 xin4
+15864	维
+	wei2
+15865	韦鞴
+	wei2 bei4
+15866	维持
+	wei2 chi2
+15867	惟独
+	wei2 du2
+15868	违法
+	wei2 fa3
+15869	违返
+	wei2 fan3
+15870	违犯
+	wei2 fan4
+15871	桅竿
+	wei2 gan1
+15872	帷宫
+	wei2 gong1
+15873	韦护
+	wei2 hu4
+15874	韦金
+	wei2 jin1
+15875	违难
+	wei2 nan2
+15876	违期
+	wei2 qi1
+15877	维奇
+	wei2 qi2
+15878	围绕
+	wei2 rao4
+15879	维生素
+	wei2 sheng1 su4
+15880	围守
+	wei2 shou3
+15881	唯物论
+	wei2 wu4 lun4
+15882	唯物主义
+	wei2 wu4 zhu3 yi4
+15883	唯心论
+	wei2 xin1 lun4
+15884	唯心主义
+	wei2 xin1 zhu3 yi4
+15885	维修
+	wei2 xiu1
+15886	韦衣
+	wei2 yi1
+15887	违指
+	wei2 zhi3
+15888	伪
+	wei3
+15889	尾巴
+	wei3 ba1
+15890	猥大
+	wei3 da4
+15891	骫曲
+	wei3 qu1
+15892	诿讬
+	wei3 tuo1
+15893	委员
+	wei3 yuan2
+15894	伪造
+	wei3 zao4
+15895	未
+	wei4
+15896	畏避
+	wei4 bi4
+15897	卫道
+	wei4 dao4
+15898	谓何
+	wei4 he2
+15899	畏惧
+	wei4 ju4
+15900	未来
+	wei4 lai2
+15901	为了
+	wei4 le5
+15902	未免
+	wei4 mian3
+15903	为什么
+	wei4 shen2 me5
+15904	卫生
+	wei4 sheng1
+15905	慰问
+	wei4 wen4
+15906	猬兴
+	wei4 xing1
+15907	尉鱼
+	wei4 yu2
+15908	位秩
+	wei4 zhi4
+15909	溫
+	wen1
+15910	温带
+	wen1 dai4
+15911	温度
+	wen1 du4
+15912	温度计
+	wen1 du4 ji4
+15913	温和
+	wen1 he2
+15914	温煗
+	wen1 nuan3
+15915	温柔
+	wen1 rou2
+15916	瘟疫
+	wen1 yi4
+15917	文
+	wen2
+15918	闻化
+	wen2 hua4
+15919	闻见
+	wen2 jian4
+15920	文盲
+	wen2 mang2
+15921	闻名
+	wen2 ming2
+15922	纹枰
+	wen2 ping2
+15923	闻人
+	wen2 ren2
+15924	文物
+	wen2 wu4
+15925	文献
+	wen2 xian4
+15926	文学
+	wen2 xue2
+15927	文学家
+	wen2 xue2 jia1
+15928	文雅
+	wen2 ya3
+15929	闻言
+	wen2 yan2
+15930	闻义
+	wen2 yi4
+15931	纹章
+	wen2 zhang1
+15932	文字
+	wen2 zi4
+15933	蚊子
+	wen2 zi5
+15934	吻
+	wen3
+15935	稳当
+	wen3 dang1
+15936	稳定
+	wen3 ding4
+15937	稳妥
+	wen3 tuo3
+15938	問
+	wen4
+15939	问答
+	wen4 da2
+15940	问好
+	wen4 hao3
+15941	问候
+	wen4 hou4
+15942	问市
+	wen4 shi4
+15943	问题
+	wen4 ti2
+15944	呚
+	wen5
+15945	鶲
+	weng1
+15946	窝
+	wo1
+15947	窝囊
+	wo1 nang1
+15948	我
+	wo3
+15949	我们
+	wo3 men5
+15950	沃
+	wo4
+15951	渥饰
+	wo4 shi4
+15952	握手
+	wo4 shou3
+15953	屋
+	wu1
+15954	诬衊
+	wu1 mie4
+15955	巫婆
+	wu1 po2
+15956	诬染
+	wu1 ran3
+15957	诬陷
+	wu1 xian4
+15958	乌鸦
+	wu1 ya1
+15959	呜咽
+	wu1 ye4
+15960	巫云
+	wu1 yun2
+15961	屋子
+	wu1 zi5
+15962	芜
+	wu2
+15963	芜鄙
+	wu2 bi3
+15964	无肠
+	wu2 chang2
+15965	无耻
+	wu2 chi3
+15966	无悰
+	wu2 cong2
+15967	无法
+	wu2 fa3
+15968	无非
+	wu2 fei1
+15969	无话可说
+	wu2 hua4 ke3 shuo1
+15970	无可奉告
+	wu2 ke3 feng4 gao4
+15971	无可柰何
+	wu2 ke3 nai4 he2
+15972	芜俚
+	wu2 li3
+15973	无聊
+	wu2 liao2
+15974	毋论
+	wu2 lun4
+15975	无论如何
+	wu2 lun4 ru2 he2
+15976	无能为力
+	wu2 neng2 wei2 li4
+15977	无情
+	wu2 qing2
+15978	无情无义
+	wu2 qing2 wu2 yi4
+15979	鼯穷
+	wu2 qiong2
+15980	无术
+	wu2 shu4
+15981	无所谓
+	wu2 suo3 wei4
+15982	无所作为
+	wu2 suo3 zuo4 wei2
+15983	梧桐
+	wu2 tong2
+15984	无微不至
+	wu2 wei1 bu4 zhi4
+15985	无限
+	wu2 xian4
+15986	无线电
+	wu2 xian4 dian4
+15987	无效
+	wu2 xiao4
+15988	莁荑
+	wu2 yi2
+15989	芜翳
+	wu2 yi4
+15990	无知
+	wu2 zhi1
+15991	五
+	wu3
+15992	舞蹈
+	wu3 dao3
+15993	迕犯
+	wu3 fan4
+15994	舞会
+	wu3 hui4
+15995	武吏
+	wu3 li4
+15996	武气
+	wu3 qi4
+15997	迕辱
+	wu3 ru3
+15998	武术
+	wu3 shu4
+15999	舞台
+	wu3 tai2
+16000	舞厅
+	wu3 ting1
+16001	武装
+	wu3 zhuang1
+16002	物
+	wu4
+16003	坞壁
+	wu4 bi4
+16004	误差
+	wu4 cha1
+16005	雾会
+	wu4 hui4
+16006	物价
+	wu4 jia4
+16007	雾解
+	wu4 jie3
+16008	物理
+	wu4 li3
+16009	骛利
+	wu4 li4
+16010	物品
+	wu4 pin3
+16011	物体
+	wu4 ti3
+16012	鹜置
+	wu4 zhi4
+16013	物资
+	wu4 zi1
+16014	錻
+	wu5
+16015	西
+	xi1
+16016	西北
+	xi1 bei3
+16017	西边
+	xi1 bian1
+16018	西部
+	xi1 bu4
+16019	西餐
+	xi1 can1
+16020	腊毒
+	xi1 du2
+16021	西方
+	xi1 fang1
+16022	锡福
+	xi1 fu2
+16023	膝盖
+	xi1 gai4
+16024	西瓜
+	xi1 gua1
+16025	西红柿
+	xi1 hong2 shi4
+16026	西面
+	xi1 mian4
+16027	稀灭
+	xi1 mie4
+16028	西南
+	xi1 nan2
+16029	西曲
+	xi1 qu3
+16030	鼷鼪
+	xi1 sheng1
+16031	吸收
+	xi1 shou1
+16032	睎望
+	xi1 wang4
+16033	西崦
+	xi1 yan1
+16034	西医
+	xi1 yi1
+16035	锡引
+	xi1 yin3
+16036	席
+	xi2
+16037	媳妇
+	xi2 fu4
+16038	习贯
+	xi2 guan4
+16039	袭击
+	xi2 ji1
+16040	习俗
+	xi2 su2
+16041	习题
+	xi2 ti2
+16042	袭位
+	xi2 wei4
+16043	玺
+	xi3
+16044	喜爱
+	xi3 ai4
+16045	洗涤
+	xi3 di2
+16046	喜鹊
+	xi3 que4
+16047	玺室
+	xi3 shi4
+16048	喜讯
+	xi3 xun4
+16049	洗衣机
+	xi3 yi1 ji1
+16050	徙月
+	xi3 yue4
+16051	洗澡
+	xi3 zao3
+16052	係
+	xi4
+16053	细胞
+	xi4 bao1
+16054	细节
+	xi4 jie2
+16055	戏剧
+	xi4 ju4
+16056	细钧
+	xi4 jun1
+16057	系列
+	xi4 lie4
+16058	系统
+	xi4 tong3
+16059	细小
+	xi4 xiao3
+16060	细辛
+	xi4 xin1
+16061	细致
+	xi4 zhi4
+16062	瞎
+	xia1
+16063	辖
+	xia2
+16064	陿隘
+	xia2 ai4
+16065	霞骨
+	xia2 gu3
+16066	狭窄
+	xia2 zhai3
+16067	下
+	xia4
+16068	下般
+	xia4 ban1
+16069	下达
+	xia4 da2
+16070	下放
+	xia4 fang4
+16071	下集
+	xia4 ji2
+16072	夏季
+	xia4 ji4
+16073	下降
+	xia4 jiang4
+16074	夏课
+	xia4 ke4
+16075	罅裂
+	xia4 lie4
+16076	夏令
+	xia4 ling4
+16077	下落
+	xia4 luo4
+16078	下面
+	xia4 mian4
+16079	下趣
+	xia4 qu4
+16080	夏台
+	xia4 tai2
+16081	夏天
+	xia4 tian1
+16082	夏五
+	xia4 wu3
+16083	下乡
+	xia4 xiang1
+16084	下旬
+	xia4 xun2
+16085	下游
+	xia4 you2
+16086	先
+	xian1
+16087	鲜风
+	xian1 feng1
+16088	鲜红
+	xian1 hong2
+16089	先后
+	xian1 hou4
+16090	鲜花
+	xian1 hua1
+16091	先进
+	xian1 jin4
+16092	鲜明
+	xian1 ming2
+16093	仙女
+	xian1 nv3
+16094	鲜绮
+	xian1 qi3
+16095	先前
+	xian1 qian2
+16096	先声
+	xian1 sheng1
+16097	纤维
+	xian1 wei2
+16098	纤形
+	xian1 xing2
+16099	鲜血
+	xian1 xue4
+16100	鲜艳
+	xian1 yan4
+16101	嫌
+	xian2
+16102	闲话
+	xian2 hua4
+16103	贤慧
+	xian2 hui4
+16104	闲接
+	xian2 jie1
+16105	嫌疑
+	xian2 yi2
+16106	显
+	xian3
+16107	显得
+	xian3 de5
+16108	显而易见
+	xian3 er2 yi4 jian4
+16109	显然
+	xian3 ran2
+16110	险螫
+	xian3 shi4
+16111	显微镜
+	xian3 wei1 jing4
+16112	显著
+	xian3 zhu4
+16113	县
+	xian4
+16114	现场
+	xian4 chang3
+16115	陷城
+	xian4 cheng2
+16116	限带
+	xian4 dai4
+16117	现代化
+	xian4 dai4 hua4
+16118	限度
+	xian4 du4
+16119	宪法
+	xian4 fa3
+16120	陷害
+	xian4 hai4
+16121	现金
+	xian4 jin1
+16122	苋陆
+	xian4 lu4
+16123	羡慕
+	xian4 mu4
+16124	限期
+	xian4 qi1
+16125	限钱
+	xian4 qian2
+16126	陷入
+	xian4 ru4
+16127	陷身
+	xian4 shen1
+16128	限时
+	xian4 shi2
+16129	线索
+	xian4 suo3
+16130	现象
+	xian4 xiang4
+16131	陷行
+	xian4 xing2
+16132	陷于
+	xian4 yu2
+16133	现在
+	xian4 zai4
+16134	县长
+	xian4 zhang3
+16135	陷滞
+	xian4 zhi4
+16136	线状
+	xian4 zhuang4
+16137	乡
+	xiang1
+16138	相比
+	xiang1 bi3
+16139	相差
+	xiang1 cha4
+16140	香肠
+	xiang1 chang2
+16141	厢村
+	xiang1 cun1
+16142	相当
+	xiang1 dang1
+16143	相等
+	xiang1 deng3
+16144	相对
+	xiang1 dui4
+16145	相返
+	xiang1 fan3
+16146	相符
+	xiang1 fu2
+16147	香官
+	xiang1 guan1
+16148	相护
+	xiang1 hu4
+16149	香罽
+	xiang1 ji4
+16150	香蕉
+	xiang1 jiao1
+16151	相亲
+	xiang1 qin1
+16152	相识
+	xiang1 shi2
+16153	箱笥
+	xiang1 si4
+16154	相通
+	xiang1 tong1
+16155	香童
+	xiang1 tong2
+16156	香尉
+	xiang1 wei4
+16157	相吓
+	xiang1 xia4
+16158	相信
+	xiang1 xin4
+16159	香烟
+	xiang1 yan1
+16160	相映
+	xiang1 ying4
+16161	香皂
+	xiang1 zao4
+16162	箱子
+	xiang1 zi5
+16163	祥
+	xiang2
+16164	详细
+	xiang2 xi4
+16165	想
+	xiang3
+16166	想法
+	xiang3 fa3
+16167	想方设法
+	xiang3 fang1 she4 fa3
+16168	飨福
+	xiang3 fu2
+16169	享乐
+	xiang3 le4
+16170	响喨
+	xiang3 liang4
+16171	想念
+	xiang3 nian4
+16172	饷生
+	xiang3 sheng1
+16173	享寿
+	xiang3 shou4
+16174	饷项
+	xiang3 xiang4
+16175	响应
+	xiang3 ying4
+16176	享有
+	xiang3 you3
+16177	向
+	xiang4
+16178	向导
+	xiang4 dao3
+16179	象话
+	xiang4 hua4
+16180	橡胶
+	xiang4 jiao1
+16181	曏来
+	xiang4 lai2
+16182	项链
+	xiang4 lian4
+16183	项目
+	xiang4 mu4
+16184	橡皮
+	xiang4 pi2
+16185	相片
+	xiang4 pian1
+16186	象棋
+	xiang4 qi2
+16187	象生
+	xiang4 sheng1
+16188	象罔
+	xiang4 wang3
+16189	象样
+	xiang4 yang4
+16190	象征
+	xiang4 zheng1
+16191	消
+	xiao1
+16192	销除
+	xiao1 chu2
+16193	消毒
+	xiao1 du2
+16194	消费
+	xiao1 fei4
+16195	销耗
+	xiao1 hao4
+16196	销化
+	xiao1 hua4
+16197	销毁
+	xiao1 hui3
+16198	霄极
+	xiao1 ji2
+16199	霄露
+	xiao1 lu4
+16200	销灭
+	xiao1 mie4
+16201	销失
+	xiao1 shi1
+16202	销瘦
+	xiao1 shou4
+16203	销息
+	xiao1 xi1
+16204	淆
+	xiao2
+16205	小
+	xiao3
+16206	小辫
+	xiao3 bian4
+16207	晓的
+	xiao3 de5
+16208	小鬼
+	xiao3 gui3
+16209	小伙子
+	xiao3 huo3 zi5
+16210	晓解
+	xiao3 jie3
+16211	小礼
+	xiao3 li3
+16212	小麦
+	xiao3 mai4
+16213	小米
+	xiao3 mi3
+16214	小朋友
+	xiao3 peng2 you3
+16215	晓识
+	xiao3 shi2
+16216	小数点
+	xiao3 shu3 dian3
+16217	晓术
+	xiao3 shu4
+16218	謏说
+	xiao3 shuo1
+16219	小提琴
+	xiao3 ti2 qin2
+16220	小心
+	xiao3 xin1
+16221	小心翼翼
+	xiao3 xin1 yi4 yi4
+16222	晓行
+	xiao3 xing2
+16223	謏学
+	xiao3 xue2
+16224	小学生
+	xiao3 xue2 sheng1
+16225	小组
+	xiao3 zu3
+16226	笑
+	xiao4
+16227	效果
+	xiao4 guo3
+16228	校徽
+	xiao4 hui1
+16229	校历
+	xiao4 li4
+16230	效率
+	xiao4 lv4
+16231	笑容
+	xiao4 rong2
+16232	效顺
+	xiao4 shun4
+16233	肖像
+	xiao4 xiang4
+16234	笑意
+	xiao4 yi4
+16235	校园
+	xiao4 yuan2
+16236	校长
+	xiao4 zhang3
+16237	蠍
+	xie1
+16238	协
+	xie2
+16239	胁持
+	xie2 chi2
+16240	鞋带
+	xie2 dai4
+16241	协定
+	xie2 ding4
+16242	邪秽
+	xie2 hui4
+16243	协商
+	xie2 shang1
+16244	协调
+	xie2 tiao2
+16245	邪议
+	xie2 yi4
+16246	协助
+	xie2 zhu4
+16247	协作
+	xie2 zuo4
+16248	冩
+	xie3
+16249	写作
+	xie3 zuo4
+16250	謝
+	xie4
+16251	谢绝
+	xie4 jue2
+16252	泄露
+	xie4 lou4
+16253	泄气
+	xie4 qi4
+16254	齘齘
+	xie4 xie4
+16255	新
+	xin1
+16256	歆爱
+	xin1 ai4
+16257	新陈代谢
+	xin1 chen2 dai4 xie4
+16258	馨德
+	xin1 de2
+16259	新房
+	xin1 fang2
+16260	薪金
+	xin1 jin1
+16261	新进
+	xin1 jin4
+16262	辛苦
+	xin1 ku3
+16263	新郎
+	xin1 lang2
+16264	新里
+	xin1 li3
+16265	心灵
+	xin1 ling2
+16266	歆慕
+	xin1 mu4
+16267	新年
+	xin1 nian2
+16268	新娘
+	xin1 niang2
+16269	辛勤
+	xin1 qin2
+16270	新晴
+	xin1 qing2
+16271	新人
+	xin1 ren2
+16272	欣赏
+	xin1 shang3
+16273	新生
+	xin1 sheng1
+16274	辛螫
+	xin1 shi4
+16275	薪水
+	xin1 shui3
+16276	新丝
+	xin1 si1
+16277	心疼
+	xin1 teng2
+16278	心头
+	xin1 tou2
+16279	欣闻
+	xin1 wen2
+16280	新鲜
+	xin1 xian1
+16281	欣欣向荣
+	xin1 xin1 xiang4 rong2
+16282	新星
+	xin1 xing1
+16283	新硎
+	xin1 xing2
+16284	心血
+	xin1 xue4
+16285	馨逸
+	xin1 yi4
+16286	新颖
+	xin1 ying3
+16287	欣愿
+	xin1 yuan4
+16288	心脏
+	xin1 zang4
+16289	心中
+	xin1 zhong1
+16290	衅
+	xin4
+16291	信贷
+	xin4 dai4
+16292	信风
+	xin4 feng1
+16293	信耗
+	xin4 hao4
+16294	信箭
+	xin4 jian4
+16295	信赖
+	xin4 lai4
+16296	信念
+	xin4 nian4
+16297	信任
+	xin4 ren4
+16298	信息
+	xin4 xi1
+16299	信心
+	xin4 xin1
+16300	信仰
+	xin4 yang3
+16301	信用
+	xin4 yong4
+16302	衅浴
+	xin4 yu4
+16303	忄
+	xin5
+16304	星
+	xing1
+16305	兴办
+	xing1 ban4
+16306	兴奋
+	xing1 fen4
+16307	星箭
+	xing1 jian4
+16308	星期
+	xing1 qi1
+16309	星期日
+	xing1 qi1 ri4
+16310	星期天
+	xing1 qi1 tian1
+16311	兴起
+	xing1 qi3
+16312	兴旺
+	xing1 wang4
+16313	骍骍
+	xing1 xing1
+16314	型
+	xing2
+16315	刑场
+	xing2 chang3
+16316	鋞程
+	xing2 cheng2
+16317	行动
+	xing2 dong4
+16318	形而上学
+	xing2 er2 shang4 xue2
+16319	行法
+	xing2 fa3
+16320	型号
+	xing2 hao4
+16321	行贿
+	xing2 hui4
+16322	行迳
+	xing2 jing4
+16323	行军
+	xing2 jun1
+16324	行礼
+	xing2 li3
+16325	行人
+	xing2 ren2
+16326	行容
+	xing2 rong2
+16327	行驶
+	xing2 shi3
+16328	行视
+	xing2 shi4
+16329	行态
+	xing2 tai4
+16330	行违
+	xing2 wei2
+16331	行像
+	xing2 xiang4
+16332	行星
+	xing2 xing1
+16333	行政
+	xing2 zheng4
+16334	行状
+	xing2 zhuang4
+16335	擤
+	xing3
+16336	性
+	xing4
+16337	性别
+	xing4 bie2
+16338	幸福
+	xing4 fu2
+16339	兴高采烈
+	xing4 gao1 cai3 lie4
+16340	性格
+	xing4 ge2
+16341	幸好
+	xing4 hao3
+16342	幸亏
+	xing4 kui1
+16343	涬溟
+	xing4 ming2
+16344	性命
+	xing4 ming4
+16345	性能
+	xing4 neng2
+16346	性情
+	xing4 qing2
+16347	性趣
+	xing4 qu4
+16348	性韵
+	xing4 yun4
+16349	性质
+	xing4 zhi4
+16350	哘
+	xing5
+16351	胸
+	xiong1
+16352	凶地
+	xiong1 di4
+16353	汹恶
+	xiong1 e4
+16354	凶狠
+	xiong1 hen3
+16355	胸怀
+	xiong1 huai2
+16356	汹猛
+	xiong1 meng3
+16357	胸膛
+	xiong1 tang2
+16358	汹涌
+	xiong1 yong3
+16359	熊
+	xiong2
+16360	雄厚
+	xiong2 hou4
+16361	雄猫
+	xiong2 mao1
+16362	雄伟
+	xiong2 wei3
+16363	雄壮
+	xiong2 zhuang4
+16364	修
+	xiu1
+16365	羞耻
+	xiu1 chi3
+16366	脩定
+	xiu1 ding4
+16367	脩赋
+	xiu1 fu4
+16368	脩改
+	xiu1 gai3
+16369	脩箭
+	xiu1 jian4
+16370	脩礼
+	xiu1 li3
+16371	修晳
+	xiu1 xi1
+16372	修养
+	xiu1 yang3
+16373	脩正
+	xiu1 zheng4
+16374	髹箸
+	xiu1 zhu4
+16375	朽
+	xiu3
+16376	秀
+	xiu4
+16377	秀立
+	xiu4 li4
+16378	袖子
+	xiu4 zi5
+16379	須
+	xu1
+16380	虚假
+	xu1 jia3
+16381	须求
+	xu1 qiu2
+16382	需弱
+	xu1 ruo4
+16383	虚伪
+	xu1 wei3
+16384	虚心
+	xu1 xin1
+16385	须要
+	xu1 yao4
+16386	须知
+	xu1 zhi1
+16387	徐
+	xu2
+16388	徐徐
+	xu2 xu2
+16389	詡
+	xu3
+16390	许多
+	xu3 duo1
+16391	许可
+	xu3 ke3
+16392	續
+	xu4
+16393	畜产品
+	xu4 chan3 pin3
+16394	絮叨
+	xu4 dao2
+16395	酗酒
+	xu4 jiu3
+16396	蓄牧
+	xu4 mu4
+16397	恤数
+	xu4 shu4
+16398	絮谈
+	xu4 tan2
+16399	訹言
+	xu4 yan2
+16400	宣
+	xuan1
+16401	宣布
+	xuan1 bu4
+16402	宣称
+	xuan1 cheng1
+16403	宣传
+	xuan1 chuan2
+16404	宣读
+	xuan1 du2
+16405	宣告
+	xuan1 gao4
+16406	轩饰
+	xuan1 shi4
+16407	轩檐
+	xuan1 yan2
+16408	宣飏
+	xuan1 yang2
+16409	悬
+	xuan2
+16410	悬挂
+	xuan2 gua4
+16411	玄虑
+	xuan2 lv4
+16412	玄念
+	xuan2 nian4
+16413	悬崖
+	xuan2 ya2
+16414	旋转
+	xuan2 zhuan3
+16415	选
+	xuan3
+16416	选拔
+	xuan3 ba2
+16417	选定
+	xuan3 ding4
+16418	选集
+	xuan3 ji2
+16419	选举
+	xuan3 ju3
+16420	选民
+	xuan3 min2
+16421	选曲
+	xuan3 qu3
+16422	选首
+	xuan3 shou3
+16423	选修
+	xuan3 xiu1
+16424	选用
+	xuan3 yong4
+16425	选择
+	xuan3 ze2
+16426	薛
+	xue1
+16427	靴简
+	xue1 jian3
+16428	削弱
+	xue1 ruo4
+16429	靴子
+	xue1 zi5
+16430	学
+	xue2
+16431	学费
+	xue2 fei4
+16432	学会
+	xue2 hui4
+16433	学科
+	xue2 ke1
+16434	学历
+	xue2 li4
+16435	学年
+	xue2 nian2
+16436	学派
+	xue2 pai4
+16437	学期
+	xue2 qi1
+16438	学识
+	xue2 shi2
+16439	学述
+	xue2 shu4
+16440	学说
+	xue2 shuo1
+16441	穴胃
+	xue2 wei4
+16442	学问
+	xue2 wen4
+16443	学习
+	xue2 xi2
+16444	学校
+	xue2 xiao4
+16445	穴垣
+	xue2 yuan2
+16446	学院
+	xue2 yuan4
+16447	踅褶
+	xue2 zhe3
+16448	学制
+	xue2 zhi4
+16449	雪
+	xue3
+16450	雪白
+	xue3 bai2
+16451	雪花
+	xue3 hua1
+16452	謔
+	xue4
+16453	血管
+	xue4 guan3
+16454	血汗
+	xue4 han4
+16455	血压
+	xue4 ya1
+16456	血液
+	xue4 ye4
+16457	薰
+	xun1
+16458	詢
+	xun2
+16459	循环
+	xun2 huan2
+16460	巡逻
+	xun2 luo2
+16461	询求
+	xun2 qiu2
+16462	询问
+	xun2 wen4
+16463	循序渐进
+	xun2 xu4 jian4 jin4
+16464	寻找
+	xun2 zhao3
+16465	訊
+	xun4
+16466	训练
+	xun4 lian4
+16467	迅速
+	xun4 su4
+16468	鴨
+	ya1
+16469	押例
+	ya1 li4
+16470	鸦片
+	ya1 pian4
+16471	压迫
+	ya1 po4
+16472	压缩
+	ya1 suo1
+16473	厌浥
+	ya1 yi4
+16474	押韵
+	ya1 yun4
+16475	压制
+	ya1 zhi4
+16476	鸭子
+	ya1 zi5
+16477	崖
+	ya2
+16478	牙齿
+	ya2 chi3
+16479	牙膏
+	ya2 gao1
+16480	牙刷
+	ya2 shua1
+16481	痖
+	ya3
+16482	亚
+	ya4
+16483	亚军
+	ya4 jun1
+16484	乛
+	ya5
+16485	煙
+	yan1
+16486	烟草
+	yan1 cao3
+16487	烟囱
+	yan1 cong1
+16488	烟卷儿
+	yan1 juan3 er2
+16489	烟墨
+	yan1 mo4
+16490	烟骛
+	yan1 wu4
+16491	盐
+	yan2
+16492	沿岸
+	yan2 an4
+16493	盐长
+	yan2 chang2
+16494	沿革
+	yan2 ge2
+16495	盐醢
+	yan2 hai3
+16496	严寒
+	yan2 han2
+16497	延缓
+	yan2 huan3
+16498	盐禁
+	yan2 jin4
+16499	研究
+	yan2 jiu1
+16500	研究生
+	yan2 jiu1 sheng1
+16501	研究所
+	yan2 jiu1 suo3
+16502	岩峻
+	yan2 jun4
+16503	盐吏
+	yan2 li4
+16504	言论
+	yan2 lun4
+16505	严秘
+	yan2 mi4
+16506	阎妻
+	yan2 qi1
+16507	炎热
+	yan2 re4
+16508	颜色
+	yan2 se4
+16509	阽身
+	yan2 shen1
+16510	研石
+	yan2 shi2
+16511	沿遡
+	yan2 su4
+16512	盐徒
+	yan2 tu2
+16513	盐絮
+	yan2 xu4
+16514	言语
+	yan2 yu3
+16515	言致
+	yan2 zhi4
+16516	言重
+	yan2 zhong4
+16517	俨
+	yan3
+16518	衍变
+	yan3 bian4
+16519	演唱
+	yan3 chang4
+16520	演出
+	yan3 chu1
+16521	揜盖
+	yan3 gai4
+16522	眼光
+	yan3 guang1
+16523	揜护
+	yan3 hu4
+16524	演讲
+	yan3 jiang3
+16525	眼精
+	yan3 jing1
+16526	眼镜
+	yan3 jing4
+16527	眼看
+	yan3 kan4
+16528	眼泪
+	yan3 lei4
+16529	齞历
+	yan3 li4
+16530	眼前
+	yan3 qian2
+16531	眼色
+	yan3 se4
+16532	眼神
+	yan3 shen2
+16533	眼势
+	yan3 shi4
+16534	衍说
+	yan3 shuo1
+16535	演算
+	yan3 suan4
+16536	衍习
+	yan3 xi2
+16537	眼下
+	yan3 xia4
+16538	眼缘
+	yan3 yuan2
+16539	演奏
+	yan3 zou4
+16540	艳
+	yan4
+16541	雁喙
+	yan4 hui4
+16542	宴请
+	yan4 qing3
+16543	验收
+	yan4 shou1
+16544	雁鹜
+	yan4 wu4
+16545	砚席
+	yan4 xi2
+16546	验证
+	yan4 zheng4
+16547	燕子
+	yan4 zi5
+16548	秧
+	yang1
+16549	杨
+	yang2
+16550	阳光
+	yang2 guang1
+16551	阳数
+	yang2 shu4
+16552	养
+	yang3
+16553	养成
+	yang3 cheng2
+16554	养分
+	yang3 fen4
+16555	氧化
+	yang3 hua4
+16556	养料
+	yang3 liao4
+16557	氧气
+	yang3 qi4
+16558	坱郁
+	yang3 yu4
+16559	养殖
+	yang3 zhi2
+16560	様
+	yang4
+16561	样品
+	yang4 pin3
+16562	样子
+	yang4 zi5
+16563	邀
+	yao1
+16564	訞怪
+	yao1 guai4
+16565	要好
+	yao1 hao3
+16566	邀请
+	yao1 qing3
+16567	邀求
+	yao1 qiu2
+16568	搖
+	yao2
+16569	摇摆
+	yao2 bai3
+16570	摇晃
+	yao2 huang4
+16571	遥控
+	yao2 kong4
+16572	谣言
+	yao2 yan2
+16573	遥远
+	yao2 yuan3
+16574	舀
+	yao3
+16575	药
+	yao4
+16576	要不是
+	yao4 bu2 shi4
+16577	要不
+	yao4 bu4
+16578	要不然
+	yao4 bu4 ran2
+16579	药材
+	yao4 cai2
+16580	要点
+	yao4 dian3
+16581	鹞坊
+	yao4 fang1
+16582	要紧
+	yao4 jin3
+16583	要领
+	yao4 ling3
+16584	要末
+	yao4 me5
+16585	要命
+	yao4 ming4
+16586	药品
+	yao4 pin3
+16587	要誓
+	yao4 shi4
+16588	钥匙
+	yao4 shi5
+16589	药水
+	yao4 shui3
+16590	要素
+	yao4 su4
+16591	要务
+	yao4 wu4
+16592	耀眼
+	yao4 yan3
+16593	爷
+	ye2
+16594	冶
+	ye3
+16595	冶金
+	ye3 jin1
+16596	冶炼
+	ye3 lian4
+16597	野蛮
+	ye3 man2
+16598	野生
+	ye3 sheng1
+16599	野兽
+	ye3 shou4
+16600	野外
+	ye3 wai4
+16601	野薪
+	ye3 xin1
+16602	也许
+	ye3 xu3
+16603	页
+	ye4
+16604	夜班
+	ye4 ban1
+16605	夜间
+	ye4 jian1
+16606	馌礼
+	ye4 li3
+16607	液体
+	ye4 ti3
+16608	夜晩
+	ye4 wan3
+16609	业务
+	ye4 wu4
+16610	夜鱼
+	ye4 yu2
+16611	叶子
+	ye4 zi5
+16612	亪
+	ye5
+16613	伊
+	yi1
+16614	一辈子
+	yi1 bei4 zi5
+16615	一边
+	yi1 bian1
+16616	依次
+	yi1 ci4
+16617	衣袋
+	yi1 dai4
+16618	医道
+	yi1 dao4
+16619	一帆风顺
+	yi1 fan2 feng1 shun4
+16620	衣服
+	yi1 fu2
+16621	一溉
+	yi1 gai4
+16622	一概而论
+	yi1 gai4 er2 lun4
+16623	一共
+	yi1 gong4
+16624	一哄而散
+	yi1 hong4 er2 san4
+16625	一会儿
+	yi1 hui4 er5
+16626	一技之长
+	yi1 ji4 zhi1 chang2
+16627	依旧
+	yi1 jiu4
+16628	一举
+	yi1 ju3
+16629	依据
+	yi1 ju4
+16630	衣靠
+	yi1 kao4
+16631	依赖
+	yi1 lai4
+16632	衣奁
+	yi1 lian2
+16633	医疗
+	yi1 liao2
+16634	一路顺风
+	yi1 lu4 shun4 feng1
+16635	一律
+	yi1 lv4
+16636	一毛不拔
+	yi1 mao2 bu4 ba2
+16637	一旁
+	yi1 pang2
+16638	壹齐
+	yi1 qi2
+16639	衣箧
+	yi1 qie4
+16640	黳髯
+	yi1 ran2
+16641	衣裳
+	yi1 shang5
+16642	一身
+	yi1 shen1
+16643	医生
+	yi1 sheng1
+16644	衣食
+	yi1 shi2
+16645	一手
+	yi1 shou3
+16646	壹同
+	yi1 tong2
+16647	依投
+	yi1 tou2
+16648	衣物
+	yi1 wu4
+16649	医务室
+	yi1 wu4 shi4
+16650	一系列
+	yi1 xi4 lie4
+16651	一下子
+	yi1 xia4 zi5
+16652	一歇
+	yi1 xie1
+16653	衣薪
+	yi1 xin1
+16654	伊行
+	yi1 xing2
+16655	医学
+	yi1 xue2
+16656	依样
+	yi1 yang4
+16657	医药
+	yi1 yao4
+16658	黟黟
+	yi1 yi1
+16659	医院
+	yi1 yuan4
+16660	壹再
+	yi1 zai4
+16661	依照
+	yi1 zhao4
+16662	一阵
+	yi1 zhen4
+16663	医治
+	yi1 zhi4
+16664	仪
+	yi2
+16665	一半
+	yi2 ban4
+16666	遗表
+	yi2 biao3
+16667	遗产
+	yi2 chan3
+16668	遗传
+	yi2 chuan2
+16669	疑惮
+	yi2 dan4
+16670	一定
+	yi2 ding4
+16671	遗恫
+	yi2 dong4
+16672	遗蠹
+	yi2 du4
+16673	移贯
+	yi2 guan4
+16674	颐颔
+	yi2 han4
+16675	遗祸
+	yi2 huo4
+16676	遗留
+	yi2 liu2
+16677	一路平安
+	yi2 lu4 ping2 an1
+16678	一面
+	yi2 mian4
+16679	遗民
+	yi2 min2
+16680	遗男
+	yi2 nan2
+16681	颐气
+	yi2 qi4
+16682	遗诗
+	yi2 shi1
+16683	颐视
+	yi2 shi4
+16684	遗躰
+	yi2 ti3
+16685	遗问
+	yi2 wen4
+16686	遗象
+	yi2 xiang4
+16687	遗馨
+	yi2 xin1
+16688	颐旨
+	yi2 zhi3
+16689	颐志
+	yi2 zhi4
+16690	蚁
+	yi3
+16691	以便
+	yi3 bian4
+16692	蚁后
+	yi3 hou4
+16693	蚁集
+	yi3 ji2
+16694	已经
+	yi3 jing1
+16695	已来
+	yi3 lai2
+16696	倚免
+	yi3 mian3
+16697	以内
+	yi3 nei4
+16698	以前
+	yi3 qian2
+16699	以上
+	yi3 shang4
+16700	以身作则
+	yi3 shen1 zuo4 ze2
+16701	以外
+	yi3 wai4
+16702	已往
+	yi3 wang3
+16703	扆帷
+	yi3 wei2
+16704	以下
+	yi3 xia4
+16705	以致
+	yi3 zhi4
+16706	以致于
+	yi3 zhi4 yu2
+16707	椅子
+	yi3 zi5
+16708	亦
+	yi4
+16709	驿岸
+	yi4 an4
+16710	一般
+	yi4 ban1
+16711	驿长
+	yi4 chang2
+16712	驿程
+	yi4 cheng2
+16713	议定书
+	yi4 ding4 shu1
+16714	一方面
+	yi4 fang1 mian4
+16715	议会
+	yi4 hui4
+16716	逸贱
+	yi4 jian4
+16717	一口气
+	yi4 kou3 qi4
+16718	驿隶
+	yi4 li4
+16719	驿料
+	yi4 liao4
+16720	议论
+	yi4 lun4
+16721	抑岂
+	yi4 qi3
+16722	醳然
+	yi4 ran2
+16723	诣实
+	yi4 shi2
+16724	驿树
+	yi4 shu4
+16725	驿司
+	yi4 si1
+16726	艺徒
+	yi4 tu2
+16727	意外
+	yi4 wai4
+16728	亿万
+	yi4 wan4
+16729	意味着
+	yi4 wei4 zhe5
+16730	逸鹜
+	yi4 wu4
+16731	逸象
+	yi4 xiang4
+16732	鶂鶂
+	yi4 yi4
+16733	驿垣
+	yi4 yuan2
+16734	艺植
+	yi4 zhi2
+16735	驿致
+	yi4 zhi4
+16736	因
+	yin1
+16737	阴黯
+	yin1 an4
+16738	因此
+	yin1 ci3
+16739	因而
+	yin1 er2
+16740	阴谋
+	yin1 mou2
+16741	音速
+	yin1 su4
+16742	阴天
+	yin1 tian1
+16743	音位
+	yin1 wei4
+16744	音响
+	yin1 xiang3
+16745	音乐
+	yin1 yue4
+16746	銀
+	yin2
+16747	银行
+	yin2 hang2
+16748	银会
+	yin2 hui4
+16749	银幕
+	yin2 mu4
+16750	引
+	yin3
+16751	隐闭
+	yin3 bi4
+16752	隐藏
+	yin3 cang2
+16753	引导
+	yin3 dao3
+16754	隐进
+	yin3 jin4
+16755	饮料
+	yin3 liao4
+16756	隐瞒
+	yin3 man2
+16757	隐起
+	yin3 qi3
+16758	引人注目
+	yin3 ren2 zhu4 mu4
+16759	引入
+	yin3 ru4
+16760	饮食
+	yin3 shi2
+16761	饮水
+	yin3 shui3
+16762	饮用
+	yin3 yong4
+16763	引诱
+	yin3 you4
+16764	隐约
+	yin3 yue1
+16765	胤
+	yin4
+16766	印染
+	yin4 ran3
+16767	印刷
+	yin4 shua1
+16768	印象
+	yin4 xiang4
+16769	鷹
+	ying1
+16770	英镑
+	ying1 bang4
+16771	应当
+	ying1 dang1
+16772	莺儿
+	ying1 er2
+16773	应该
+	ying1 gai1
+16774	莺花
+	ying1 hua1
+16775	英隽
+	ying1 jun4
+16776	英明
+	ying1 ming2
+16777	锳雄
+	ying1 xiong2
+16778	鹰俑
+	ying1 yong3
+16779	贏
+	ying2
+16780	赢得
+	ying2 de5
+16781	迎接
+	ying2 jie1
+16782	迎立
+	ying2 li4
+16783	迎面
+	ying2 mian4
+16784	迎养
+	ying2 yang3
+16785	迎谒
+	ying2 ye4
+16786	蝇子
+	ying2 zi5
+16787	影
+	ying3
+16788	影片
+	ying3 pian1
+16789	影响
+	ying3 xiang3
+16790	影子
+	ying3 zi5
+16791	暎
+	ying4
+16792	应酬
+	ying4 chou2
+16793	应赴
+	ying4 fu4
+16794	硬件
+	ying4 jian4
+16795	应邀
+	ying4 yao1
+16796	应用
+	ying4 yong4
+16797	拥
+	yong1
+16798	拥抱
+	yong1 bao4
+16799	拥护
+	yong1 hu4
+16800	拥挤
+	yong1 ji3
+16801	庸俗
+	yong1 su2
+16802	拥有
+	yong1 you3
+16803	永
+	yong3
+16804	永垂不朽
+	yong3 chui2 bu4 xiu3
+16805	永感
+	yong3 gan3
+16806	筩酒
+	yong3 jiu3
+16807	勇气
+	yong3 qi4
+16808	永逝
+	yong3 shi4
+16809	踊现
+	yong3 xian4
+16810	咏雩
+	yong3 yu2
+16811	永远
+	yong3 yuan3
+16812	踊跃
+	yong3 yue4
+16813	用
+	yong4
+16814	用处
+	yong4 chu3
+16815	用法
+	yong4 fa3
+16816	用工
+	yong4 gong1
+16817	用户
+	yong4 hu4
+16818	用具
+	yong4 ju4
+16819	用力
+	yong4 li4
+16820	用品
+	yong4 pin3
+16821	用人
+	yong4 ren2
+16822	用途
+	yong4 tu2
+16823	用心
+	yong4 xin1
+16824	用意
+	yong4 yi4
+16825	優
+	you1
+16826	优点
+	you1 dian3
+16827	忧恚
+	you1 hui4
+16828	幽静
+	you1 jing4
+16829	悠久
+	you1 jiu3
+16830	优良
+	you1 liang2
+16831	懮虑
+	you1 lv4
+16832	幽美
+	you1 mei3
+16833	幽默
+	you1 mo4
+16834	幽胜
+	you1 sheng4
+16835	忧世
+	you1 shi4
+16836	幽僊
+	you1 xian1
+16837	幽秀
+	you1 xiu4
+16838	悠逸
+	you1 yi4
+16839	忧郁
+	you1 yu4
+16840	幽越
+	you1 yue4
+16841	幽致
+	you1 zhi4
+16842	遊
+	you2
+16843	邮包
+	you2 bao1
+16844	油菜
+	you2 cai4
+16845	由此可见
+	you2 ci3 ke3 jian4
+16846	邮电
+	you2 dian4
+16847	邮购
+	you2 gou4
+16848	油画
+	you2 hua4
+16849	游击
+	you2 ji1
+16850	邮寄
+	you2 ji4
+16851	邮局
+	you2 ju2
+16852	游客
+	you2 ke4
+16853	游览
+	you2 lan3
+16854	油料
+	you2 liao4
+16855	邮票
+	you2 piao4
+16856	油漆
+	you2 qi1
+16857	邮骑
+	you2 qi2
+16858	邮人
+	you2 ren2
+16859	犹如
+	you2 ru2
+16860	由田
+	you2 tian2
+16861	游戏
+	you2 xi4
+16862	由行
+	you2 xing2
+16863	邮筩
+	you2 yong3
+16864	游泳池
+	you2 yong3 chi2
+16865	鱿鱼
+	you2 yu2
+16866	由豫
+	you2 yu4
+16867	邮政
+	you2 zheng4
+16868	友
+	you3
+16869	有碍
+	you3 ai4
+16870	有待
+	you3 dai4
+16871	有的
+	you3 de5
+16872	有的是
+	you3 de5 shi4
+16873	有关
+	you3 guan1
+16874	有害
+	you3 hai4
+16875	友好
+	you3 hao3
+16876	酉鸡
+	you3 ji1
+16877	有口无心
+	you3 kou3 wu2 xin1
+16878	有力
+	you3 li4
+16879	有两下子
+	you3 liang3 xia4 zi3
+16880	有明
+	you3 ming2
+16881	有情
+	you3 qing2
+16882	有趣
+	you3 qu4
+16883	有人
+	you3 ren2
+16884	有声有色
+	you3 sheng1 you3 se4
+16885	酉时
+	you3 shi2
+16886	有限
+	you3 xian4
+16887	有效
+	you3 xiao4
+16888	有些
+	you3 xie1
+16889	有一些
+	you3 yi1 xie1
+16890	有益
+	you3 yi4
+16891	有意思
+	you3 yi4 si1
+16892	有用
+	you3 yong4
+16893	又
+	you4
+16894	幼儿园
+	you4 er2 yuan2
+16895	诱获
+	you4 huo4
+16896	釉质
+	you4 zhi4
+16897	蒏
+	you5
+16898	魚
+	yu2
+16899	愚蠢
+	yu2 chun3
+16900	鱼鲙
+	yu2 kuai4
+16901	鱼乐
+	yu2 le4
+16902	舆论
+	yu2 lun4
+16903	谀媚
+	yu2 mei4
+16904	瑜珉
+	yu2 min2
+16905	鱼市
+	yu2 shi4
+16906	鱼竖
+	yu2 shu4
+16907	逾曳
+	yu2 ye4
+16908	宇
+	yu3
+16909	与此同时
+	yu3 ci3 tong2 shi2
+16910	语调
+	yu3 diao4
+16911	语法
+	yu3 fa3
+16912	羽毛
+	yu3 mao2
+16913	羽毛球
+	yu3 mao2 qiu2
+16914	雨祇
+	yu3 qi2
+16915	雨泣
+	yu3 qi4
+16916	雨水
+	yu3 shui3
+16917	语文
+	yu3 wen2
+16918	语言
+	yu3 yan2
+16919	雨衣
+	yu3 yi1
+16920	予以
+	yu3 yi3
+16921	语音
+	yu3 yin1
+16922	雨骤
+	yu3 zhou4
+16923	慾
+	yu4
+16924	预报
+	yu4 bao4
+16925	预备
+	yu4 bei4
+16926	预测
+	yu4 ce4
+16927	郁悼
+	yu4 dao4
+16928	预订
+	yu4 ding4
+16929	预防
+	yu4 fang2
+16930	预告
+	yu4 gao4
+16931	预会
+	yu4 hui4
+16932	鬻技
+	yu4 ji4
+16933	预见
+	yu4 jian4
+16934	预料
+	yu4 liao4
+16935	玉米
+	yu4 mi3
+16936	预期
+	yu4 qi1
+16937	预赛
+	yu4 sai4
+16938	鬻室
+	yu4 shi4
+16939	预算
+	yu4 suan4
+16940	誉望
+	yu4 wang4
+16941	预席
+	yu4 xi2
+16942	预先
+	yu4 xian1
+16943	鹆研
+	yu4 yan2
+16944	预约
+	yu4 yue1
+16945	预祝
+	yu4 zhu4
+16946	澚
+	yu5
+16947	冤
+	yuan1
+16948	元
+	yuan2
+16949	原材料
+	yuan2 cai2 liao4
+16950	元旦
+	yuan2 dan4
+16951	原告
+	yuan2 gao4
+16952	缘故
+	yuan2 gu4
+16953	援建
+	yuan2 jian4
+16954	缘来
+	yuan2 lai2
+16955	缘理
+	yuan2 li3
+16956	原谅
+	yuan2 liang4
+16957	原料
+	yuan2 liao4
+16958	园林
+	yuan2 lin2
+16959	圆满
+	yuan2 man3
+16960	源泉
+	yuan2 quan2
+16961	猿人
+	yuan2 ren2
+16962	缘始
+	yuan2 shi3
+16963	缘手
+	yuan2 shou3
+16964	原诉
+	yuan2 su4
+16965	原先
+	yuan2 xian1
+16966	元宵
+	yuan2 xiao1
+16967	缘因
+	yuan2 yin1
+16968	缘由
+	yuan2 you2
+16969	原则
+	yuan2 ze2
+16970	圆珠笔
+	yuan2 zhu1 bi3
+16971	援助
+	yuan2 zhu4
+16972	原子弹
+	yuan2 zi3 dan4
+16973	原子能
+	yuan2 zi3 neng2
+16974	圆子
+	yuan2 zi5
+16975	远
+	yuan3
+16976	远大
+	yuan3 da4
+16977	远方
+	yuan3 fang1
+16978	远景
+	yuan3 jing3
+16979	愿
+	yuan4
+16980	愿望
+	yuan4 wang4
+16981	愿意
+	yuan4 yi4
+16982	院长
+	yuan4 zhang3
+16983	院子
+	yuan4 zi5
+16984	曰
+	yue1
+16985	约会
+	yue1 hui4
+16986	约束
+	yue1 shu4
+16987	粤
+	yue4
+16988	越冬
+	yue4 dong1
+16989	阅读
+	yue4 du2
+16990	乐队
+	yue4 dui4
+16991	越分
+	yue4 fen4
+16992	月光
+	yue4 guang1
+16993	越过
+	yue4 guo4
+16994	跃进
+	yue4 jin4
+16995	阅览室
+	yue4 lan3 shi4
+16996	跃踉
+	yue4 liang4
+16997	越气
+	yue4 qi4
+16998	趯球
+	yue4 qiu2
+16999	乐曲
+	yue4 qu3
+17000	赟
+	yun1
+17001	云
+	yun2
+17002	云采
+	yun2 cai3
+17003	陨
+	yun3
+17004	允许
+	yun3 xu3
+17005	運
+	yun4
+17006	韫藏
+	yun4 cang2
+17007	运动
+	yun4 dong4
+17008	运动会
+	yun4 dong4 hui4
+17009	运动员
+	yun4 dong4 yuan2
+17010	酝酿
+	yun4 niang4
+17011	韵书
+	yun4 shu1
+17012	运送
+	yun4 song4
+17013	运算
+	yun4 suan4
+17014	运行
+	yun4 xing2
+17015	运用
+	yun4 yong4
+17016	韫玉
+	yun4 yu4
+17017	运转
+	yun4 zhuan4
+17018	砸
+	za2
+17019	杂记
+	za2 ji4
+17020	杂交
+	za2 jiao1
+17021	杂乱
+	za2 luan4
+17022	杂文
+	za2 wen2
+17023	杂质
+	za2 zhi4
+17024	𠷿
+	za3
+17025	災
+	zai1
+17026	灾害
+	zai1 hai4
+17027	灾荒
+	zai1 huang1
+17028	灾难
+	zai1 nan4
+17029	栽培
+	zai1 pei2
+17030	宰
+	zai3
+17031	在
+	zai4
+17032	在建
+	zai4 jian4
+17033	在三
+	zai4 san1
+17034	再生产
+	zai4 sheng1 chan3
+17035	再说
+	zai4 shuo1
+17036	在意
+	zai4 yi4
+17037	在于
+	zai4 yu2
+17038	载重
+	zai4 zhong4
+17039	在座
+	zai4 zuo4
+17040	咱们
+	zan2 men5
+17041	昝
+	zan3
+17042	讚
+	zan4
+17043	赞成
+	zan4 cheng2
+17044	赞美
+	zan4 mei3
+17045	暂且
+	zan4 qie3
+17046	赞赏
+	zan4 shang3
+17047	蹔时
+	zan4 shi2
+17048	赞叹
+	zan4 tan4
+17049	赞同
+	zan4 tong2
+17050	赞阳
+	zan4 yang2
+17051	赞祝
+	zan4 zhu4
+17052	贓
+	zang1
+17053	臟
+	zang4
+17054	葬礼
+	zang4 li3
+17055	遭
+	zao1
+17056	遭到
+	zao1 dao4
+17057	糟糕
+	zao1 gao1
+17058	遭受
+	zao1 shou4
+17059	蹧蹋
+	zao1 ta4
+17060	遭殃
+	zao1 yang1
+17061	遭遇
+	zao1 yu4
+17062	䥣
+	zao2
+17063	早
+	zao3
+17064	蚤晨
+	zao3 chen2
+17065	早点
+	zao3 dian3
+17066	早饭
+	zao3 fan4
+17067	早期
+	zao3 qi1
+17068	蚤日
+	zao3 ri4
+17069	早上
+	zao3 shang4
+17070	蚤晩
+	zao3 wan3
+17071	蚤已
+	zao3 yi3
+17072	皁
+	zao4
+17073	造反
+	zao4 fan3
+17074	造价
+	zao4 jia4
+17075	造句
+	zao4 ju4
+17076	造行
+	zao4 xing2
+17077	造因
+	zao4 yin1
+17078	则
+	ze2
+17079	责备
+	ze2 bei4
+17080	责怪
+	ze2 guai4
+17081	责任
+	ze2 ren4
+17082	责任制
+	ze2 ren4 zhi4
+17083	賊
+	zei2
+17084	怎
+	zen3
+17085	怎么
+	zen3 me5
+17086	怎么样
+	zen3 me5 yang4
+17087	怎样
+	zen3 yang4
+17088	憎
+	zeng1
+17089	增产
+	zeng1 chan3
+17090	曾加
+	zeng1 jia1
+17091	增进
+	zeng1 jin4
+17092	增强
+	zeng1 qiang2
+17093	增设
+	zeng1 she4
+17094	增添
+	zeng1 tian1
+17095	增援
+	zeng1 yuan2
+17096	增长
+	zeng1 zhang3
+17097	贈
+	zeng4
+17098	赠送
+	zeng4 song4
+17099	査
+	zha1
+17100	扎实
+	zha1 shi2
+17101	闸
+	zha2
+17102	眨
+	zha3
+17103	詐
+	zha4
+17104	诈诞
+	zha4 dan4
+17105	诈骗
+	zha4 pian4
+17106	炸药
+	zha4 yao4
+17107	摘
+	zhai1
+17108	摘要
+	zhai1 yao4
+17109	𩏪
+	zhai2
+17110	窄
+	zhai3
+17111	债
+	zhai4
+17112	债务
+	zhai4 wu4
+17113	毡
+	zhan1
+17114	沾光
+	zhan1 guang1
+17115	瞻养
+	zhan1 yang3
+17116	展
+	zhan3
+17117	斩草除根
+	zhan3 cao3 chu2 gen1
+17118	展出
+	zhan3 chu1
+17119	斩钉截铁
+	zhan3 ding1 jie2 tie3
+17120	展开
+	zhan3 kai1
+17121	展览
+	zhan3 lan3
+17122	展览会
+	zhan3 lan3 hui4
+17123	展视
+	zhan3 shi4
+17124	展望
+	zhan3 wang4
+17125	展限
+	zhan3 xian4
+17126	斩枭
+	zhan3 xiao1
+17127	斩新
+	zhan3 xin1
+17128	战
+	zhan4
+17129	战场
+	zhan4 chang3
+17130	栈豆
+	zhan4 dou4
+17131	站岗
+	zhan4 gang3
+17132	战惧
+	zhan4 ju4
+17133	占领
+	zhan4 ling3
+17134	战略
+	zhan4 lve4
+17135	战胜
+	zhan4 sheng4
+17136	战士
+	zhan4 shi4
+17137	战术
+	zhan4 shu4
+17138	绽线
+	zhan4 xian4
+17139	站驿
+	zhan4 yi4
+17140	战友
+	zhan4 you3
+17141	战征
+	zhan4 zheng1
+17142	张
+	zhang1
+17143	章程
+	zhang1 cheng2
+17144	张望
+	zhang1 wang4
+17145	掌
+	zhang3
+17146	掌管
+	zhang3 guan3
+17147	涨价
+	zhang3 jia4
+17148	掌声
+	zhang3 sheng1
+17149	掌握
+	zhang3 wo4
+17150	帐
+	zhang4
+17151	障碍
+	zhang4 ai4
+17152	丈夫
+	zhang4 fu1
+17153	釗
+	zhao1
+17154	招待会
+	zhao1 dai1 hui4
+17155	昭代
+	zhao1 dai4
+17156	招聘
+	zhao1 pin4
+17157	朝气
+	zhao1 qi4
+17158	朝气蓬勃
+	zhao1 qi4 peng2 bo2
+17159	朝三暮四
+	zhao1 san1 mu4 si4
+17160	昭升
+	zhao1 sheng1
+17161	招收
+	zhao1 shou1
+17162	招手
+	zhao1 shou3
+17163	着急
+	zhao2 ji2
+17164	着凉
+	zhao2 liang2
+17165	沼
+	zhao3
+17166	沼泽
+	zhao3 ze2
+17167	照
+	zhao4
+17168	照常
+	zhao4 chang2
+17169	召雇
+	zhao4 gu4
+17170	诏诲
+	zhao4 hui4
+17171	赵佶
+	zhao4 ji2
+17172	照旧
+	zhao4 jiu4
+17173	肇开
+	zhao4 kai1
+17174	照例
+	zhao4 li4
+17175	照料
+	zhao4 liao4
+17176	照明
+	zhao4 ming2
+17177	照片
+	zhao4 pian1
+17178	赵社
+	zhao4 she4
+17179	照相
+	zhao4 xiang4
+17180	照相机
+	zhao4 xiang4 ji1
+17181	照样
+	zhao4 yang4
+17182	照耀
+	zhao4 yao4
+17183	照映
+	zhao4 ying4
+17184	遮
+	zhe1
+17185	折腾
+	zhe1 teng2
+17186	哲
+	zhe2
+17187	折合
+	zhe2 he2
+17188	折磨
+	zhe2 mo2
+17189	哲学
+	zhe2 xue2
+17190	者
+	zhe3
+17191	浙
+	zhe4
+17192	这边
+	zhe4 bian1
+17193	这儿
+	zhe4 er2
+17194	这箇
+	zhe4 ge4
+17195	这会儿
+	zhe4 hui4 er5
+17196	这里
+	zhe4 li3
+17197	这麽
+	zhe4 me5
+17198	这么着
+	zhe4 me5 zhao1
+17199	这些
+	zhe4 xie1
+17200	这样
+	zhe4 yang4
+17201	这样一来
+	zhe4 yang4 yi1 lai2
+17202	𡄡
+	zhe5
+17203	眞
+	zhen1
+17204	真茶
+	zhen1 cha2
+17205	贞诚
+	zhen1 cheng2
+17206	针对
+	zhen1 dui4
+17207	贞贵
+	zhen1 gui4
+17208	针灸
+	zhen1 jiu3
+17209	贞理
+	zhen1 li3
+17210	针石
+	zhen1 shi2
+17211	针视
+	zhen1 shi4
+17212	侦探
+	zhen1 tan4
+17213	真锡
+	zhen1 xi1
+17214	贞向
+	zhen1 xiang4
+17215	贞心
+	zhen1 xin1
+17216	贞正
+	zhen1 zheng4
+17217	真珠
+	zhen1 zhu1
+17218	診
+	zhen3
+17219	诊断
+	zhen3 duan4
+17220	枕头
+	zhen3 tou5
+17221	镇
+	zhen4
+17222	震荡
+	zhen4 dang4
+17223	阵地
+	zhen4 di4
+17224	镇定
+	zhen4 ding4
+17225	震动
+	zhen4 dong4
+17226	震愤
+	zhen4 fen4
+17227	震惊
+	zhen4 jing1
+17228	镇静
+	zhen4 jing4
+17229	阵容
+	zhen4 rong2
+17230	阵线
+	zhen4 xian4
+17231	震兴
+	zhen4 xing1
+17232	镇压
+	zhen4 ya1
+17233	阵营
+	zhen4 ying2
+17234	争
+	zheng1
+17235	争吵
+	zheng1 chao3
+17236	争端
+	zheng1 duan1
+17237	征铎
+	zheng1 duo2
+17238	蒸发
+	zheng1 fa1
+17239	征符
+	zheng1 fu2
+17240	争论
+	zheng1 lun4
+17241	蒸汽
+	zheng1 qi4
+17242	征裘
+	zheng1 qiu2
+17243	征取
+	zheng1 qu3
+17244	征收
+	zheng1 shou1
+17245	争先恐后
+	zheng1 xian1 kong3 hou4
+17246	征诣
+	zheng1 yi4
+17247	烝礿
+	zheng1 yue4
+17248	挣扎
+	zheng1 zha2
+17249	整
+	zheng3
+17250	整顿
+	zheng3 dun4
+17251	整个
+	zheng3 ge4
+17252	整絜
+	zheng3 jie2
+17253	整理
+	zheng3 li3
+17254	整齐
+	zheng3 qi2
+17255	整束
+	zheng3 shu4
+17256	整体
+	zheng3 ti3
+17257	整天
+	zheng3 tian1
+17258	整整
+	zheng3 zheng3
+17259	證
+	zheng4
+17260	正笔
+	zheng4 bi3
+17261	证辩
+	zheng4 bian4
+17262	正册
+	zheng4 ce4
+17263	正长
+	zheng4 chang2
+17264	正当
+	zheng4 dang1
+17265	政党
+	zheng4 dang3
+17266	政府
+	zheng4 fu3
+17267	正闺
+	zheng4 gui1
+17268	正好
+	zheng4 hao3
+17269	诤谏
+	zheng4 jian4
+17270	正经
+	zheng4 jing1
+17271	证据
+	zheng4 ju4
+17272	正面
+	zheng4 mian4
+17273	证明
+	zheng4 ming2
+17274	诤气
+	zheng4 qi4
+17275	正巧
+	zheng4 qiao3
+17276	正权
+	zheng4 quan2
+17277	正确
+	zheng4 que4
+17278	证实
+	zheng4 shi2
+17279	郑市
+	zheng4 shi4
+17280	证书
+	zheng4 shu1
+17281	正邪
+	zheng4 xie2
+17282	郑驿
+	zheng4 yi4
+17283	正在
+	zheng4 zai4
+17284	诤治
+	zheng4 zhi4
+17285	郑重
+	zheng4 zhong4
+17286	症状
+	zheng4 zhuang4
+17287	织
+	zhi1
+17288	织布
+	zhi1 bu4
+17289	枝牚
+	zhi1 cheng1
+17290	枝持
+	zhi1 chi2
+17291	支出
+	zhi1 chu1
+17292	知道
+	zhi1 dao4
+17293	芝房
+	zhi1 fang2
+17294	织妇
+	zhi1 fu4
+17295	秪候
+	zhi1 hou4
+17296	织缣
+	zhi1 jian1
+17297	知觉
+	zhi1 jue2
+17298	知类
+	zhi1 lei4
+17299	脂蔴
+	zhi1 ma2
+17300	之内
+	zhi1 nei4
+17301	支配
+	zhi1 pei4
+17302	支票
+	zhi1 piao4
+17303	祗虔
+	zhi1 qian2
+17304	之上
+	zhi1 shang4
+17305	知识
+	zhi1 shi2
+17306	知识分子
+	zhi1 shi2 fen4 zi3
+17307	之外
+	zhi1 wai4
+17308	之下
+	zhi1 xia4
+17309	祗揖
+	zhi1 yi1
+17310	枝援
+	zhi1 yuan2
+17311	之中
+	zhi1 zhong1
+17312	鼅鼄
+	zhi1 zhu1
+17313	枝柱
+	zhi1 zhu4
+17314	值
+	zhi2
+17315	值班
+	zhi2 ban1
+17316	直播
+	zhi2 bo1
+17317	职称
+	zhi2 cheng1
+17318	直达
+	zhi2 da2
+17319	直道
+	zhi2 dao4
+17320	直得
+	zhi2 de5
+17321	执法
+	zhi2 fa3
+17322	职工
+	zhi2 gong1
+17323	直接
+	zhi2 jie1
+17324	职竞
+	zhi2 jing4
+17325	殖民地
+	zhi2 min2 di4
+17326	职能
+	zhi2 neng2
+17327	执勤
+	zhi2 qin2
+17328	职权
+	zhi2 quan2
+17329	职务
+	zhi2 wu4
+17330	直辖市
+	zhi2 xia2 shi4
+17331	直线
+	zhi2 xian4
+17332	直行
+	zhi2 xing2
+17333	职业
+	zhi2 ye4
+17334	职员
+	zhi2 yuan2
+17335	植棹
+	zhi2 zhao4
+17336	执证
+	zhi2 zheng4
+17337	职秩
+	zhi2 zhi4
+17338	侄子
+	zhi2 zi5
+17339	紙
+	zhi3
+17340	指标
+	zhi3 biao1
+17341	指出
+	zhi3 chu1
+17342	指导
+	zhi3 dao3
+17343	指的
+	zhi3 de5
+17344	指点
+	zhi3 dian3
+17345	纸锭
+	zhi3 ding4
+17346	指顾
+	zhi3 gu4
+17347	只管
+	zhi3 guan3
+17348	只好
+	zhi3 hao3
+17349	轵虺
+	zhi3 hui1
+17350	趾甲
+	zhi3 jia3
+17351	旨令
+	zhi3 ling4
+17352	指明
+	zhi3 ming2
+17353	指南针
+	zhi3 nan2 zhen1
+17354	只能
+	zhi3 neng2
+17355	止是
+	zhi3 shi4
+17356	指手画脚
+	zhi3 shou3 hua4 jiao3
+17357	指头
+	zhi3 tou5
+17358	指望
+	zhi3 wang4
+17359	茝药
+	zhi3 yao4
+17360	纸引
+	zhi3 yin3
+17361	只有
+	zhi3 you3
+17362	纸张
+	zhi3 zhang1
+17363	指针
+	zhi3 zhen1
+17364	制
+	zhi4
+17365	质闇
+	zhi4 an1
+17366	质辩
+	zhi4 bian4
+17367	至材
+	zhi4 cai2
+17368	质辞
+	zhi4 ci2
+17369	致电
+	zhi4 dian4
+17370	质定
+	zhi4 ding4
+17371	致度
+	zhi4 du4
+17372	至多
+	zhi4 duo1
+17373	雉伏
+	zhi4 fu2
+17374	陟阜
+	zhi4 fu4
+17375	至会
+	zhi4 hui4
+17376	至今
+	zhi4 jin1
+17377	贽敬
+	zhi4 jing4
+17378	陟里
+	zhi4 li3
+17379	鸷戾
+	zhi4 li4
+17380	质量
+	zhi4 liang4
+17381	治疗
+	zhi4 liao2
+17382	智能
+	zhi4 neng2
+17383	质朴
+	zhi4 piao2
+17384	制品
+	zhi4 pin3
+17385	质契
+	zhi4 qi4
+17386	至少
+	zhi4 shao3
+17387	质使
+	zhi4 shi3
+17388	跱蓄
+	zhi4 xu4
+17389	至于
+	zhi4 yu2
+17390	至愿
+	zhi4 yuan4
+17391	质约
+	zhi4 yue1
+17392	置造
+	zhi4 zao4
+17393	制止
+	zhi4 zhi3
+17394	质作
+	zhi4 zuo4
+17395	徔
+	zhi5
+17396	鍾
+	zhong1
+17397	钟表
+	zhong1 biao3
+17398	中部
+	zhong1 bu4
+17399	中餐
+	zhong1 can1
+17400	衷诚
+	zhong1 cheng2
+17401	中等
+	zhong1 deng3
+17402	钟点
+	zhong1 dian3
+17403	终端
+	zhong1 duan1
+17404	中段
+	zhong1 duan4
+17405	忠坚
+	zhong1 jian1
+17406	终究
+	zhong1 jiu1
+17407	钟隶
+	zhong1 li4
+17408	终年
+	zhong1 nian2
+17409	中秋
+	zhong1 qiu1
+17410	终身
+	zhong1 shen1
+17411	钟石
+	zhong1 shi2
+17412	钟头
+	zhong1 tou2
+17413	中途
+	zhong1 tu2
+17414	中文
+	zhong1 wen2
+17415	忠武
+	zhong1 wu3
+17416	钟心
+	zhong1 xin1
+17417	中型
+	zhong1 xing2
+17418	中学
+	zhong1 xue2
+17419	中旬
+	zhong1 xun2
+17420	中央
+	zhong1 yang1
+17421	中要
+	zhong1 yao4
+17422	衷衣
+	zhong1 yi1
+17423	忠猷
+	zhong1 you2
+17424	钟鱼
+	zhong1 yu2
+17425	中园
+	zhong1 yuan2
+17426	忠贞
+	zhong1 zhen1
+17427	终纸
+	zhong1 zhi3
+17428	肿
+	zhong3
+17429	种类
+	zhong3 lei4
+17430	肿瘤
+	zhong3 liu2
+17431	踵踵
+	zhong3 zhong3
+17432	种子
+	zhong3 zi5
+17433	种族
+	zhong3 zu2
+17434	眾
+	zhong4
+17435	重大
+	zhong4 da4
+17436	重地
+	zhong4 di4
+17437	重点
+	zhong4 dian3
+17438	众多
+	zhong4 duo1
+17439	重工业
+	zhong4 gong1 ye4
+17440	重量
+	zhong4 liang4
+17441	重人
+	zhong4 ren2
+17442	重誓
+	zhong4 shi4
+17443	众所周知
+	zhong4 suo3 zhou1 zhi1
+17444	重心
+	zhong4 xin1
+17445	重型
+	zhong4 xing2
+17446	重要
+	zhong4 yao4
+17447	众议院
+	zhong4 yi4 yuan4
+17448	重职
+	zhong4 zhi2
+17449	州
+	zhou1
+17450	州道
+	zhou1 dao4
+17451	周密
+	zhou1 mi4
+17452	周末
+	zhou1 mo4
+17453	周年
+	zhou1 nian2
+17454	诪欺
+	zhou1 qi1
+17455	周帷
+	zhou1 wei2
+17456	周折
+	zhou1 zhe2
+17457	辀转
+	zhou1 zhuan3
+17458	咒
+	zhou4
+17459	骤闻
+	zhou4 wen2
+17460	昼夜
+	zhou4 ye4
+17461	猪
+	zhu1
+17462	诸如此类
+	zhu1 ru2 ci3 lei4
+17463	诸卫
+	zhu1 wei4
+17464	珠子
+	zhu1 zi5
+17465	竹
+	zhu2
+17466	逐步
+	zhu2 bu4
+17467	逐渐
+	zhu2 jian4
+17468	逐年
+	zhu2 nian2
+17469	竹子
+	zhu2 zi5
+17470	煮
+	zhu3
+17471	主办
+	zhu3 ban4
+17472	主编
+	zhu3 bian1
+17473	主持
+	zhu3 chi2
+17474	主导
+	zhu3 dao3
+17475	主动
+	zhu3 dong4
+17476	属付
+	zhu3 fu4
+17477	主观
+	zhu3 guan1
+17478	主管
+	zhu3 guan3
+17479	主吏
+	zhu3 li4
+17480	主流
+	zhu3 liu2
+17481	主权
+	zhu3 quan2
+17482	主人
+	zhu3 ren2
+17483	主人翁
+	zhu3 ren2 weng1
+17484	属任
+	zhu3 ren4
+17485	煮石
+	zhu3 shi2
+17486	主题
+	zhu3 ti2
+17487	主体
+	zhu3 ti3
+17488	属托
+	zhu3 tuo1
+17489	主席
+	zhu3 xi2
+17490	主要
+	zhu3 yao4
+17491	属意
+	zhu3 yi4
+17492	主章
+	zhu3 zhang1
+17493	住
+	zhu4
+17494	祝册
+	zhu4 ce4
+17495	驻防
+	zhu4 fang2
+17496	祝福
+	zhu4 fu2
+17497	祝贺
+	zhu4 he4
+17498	注解
+	zhu4 jie3
+17499	筑娌
+	zhu4 li3
+17500	著名
+	zhu4 ming2
+17501	驻目
+	zhu4 mu4
+17502	注射
+	zhu4 she4
+17503	驻世
+	zhu4 shi4
+17504	驻守
+	zhu4 shou3
+17505	驻所
+	zhu4 suo3
+17506	祝意
+	zhu4 yi4
+17507	祝愿
+	zhu4 yuan4
+17508	铸造
+	zhu4 zao4
+17509	驻扎
+	zhu4 zha1
+17510	住宅
+	zhu4 zhai2
+17511	助长
+	zhu4 zhang3
+17512	注重
+	zhu4 zhong4
+17513	柱子
+	zhu4 zi5
+17514	铸作
+	zhu4 zuo4
+17515	抓
+	zhua1
+17516	抓紧
+	zhua1 jin3
+17517	𡎬
+	zhua3
+17518	爪子
+	zhua3 zi3
+17519	专
+	zhuan1
+17520	专长
+	zhuan1 chang2
+17521	耑诚
+	zhuan1 cheng2
+17522	颛家
+	zhuan1 jia1
+17523	专科
+	zhuan1 ke1
+17524	颛利
+	zhuan1 li4
+17525	颛门
+	zhuan1 men2
+17526	耑人
+	zhuan1 ren2
+17527	专题
+	zhuan1 ti2
+17528	专心
+	zhuan1 xin1
+17529	专页
+	zhuan1 ye4
+17530	专业户
+	zhuan1 ye4 hu4
+17531	专用
+	zhuan1 yong4
+17532	颛制
+	zhuan1 zhi4
+17533	転
+	zhuan3
+17534	转变
+	zhuan3 bian4
+17535	转播
+	zhuan3 bo1
+17536	转达
+	zhuan3 da2
+17537	转告
+	zhuan3 gao4
+17538	转话
+	zhuan3 hua4
+17539	转换
+	zhuan3 huan4
+17540	转交
+	zhuan3 jiao1
+17541	转让
+	zhuan3 rang4
+17542	转入
+	zhuan3 ru4
+17543	转湾
+	zhuan3 wan1
+17544	转向
+	zhuan3 xiang4
+17545	转移
+	zhuan3 yi2
+17546	转辙
+	zhuan3 zhe2
+17547	篆
+	zhuan4
+17548	转动
+	zhuan4 dong4
+17549	篆记
+	zhuan4 ji4
+17550	装
+	zhuang1
+17551	装背
+	zhuang1 bei4
+17552	装配
+	zhuang1 pei4
+17553	装饰
+	zhuang1 shi4
+17554	装卸
+	zhuang1 xie4
+17555	装严
+	zhuang1 yan2
+17556	装置
+	zhuang1 zhi4
+17557	庄重
+	zhuang1 zhong4
+17558	撞
+	zhuang4
+17559	壮大
+	zhuang4 da4
+17560	壮观
+	zhuang4 guan1
+17561	状况
+	zhuang4 kuang4
+17562	壮厉
+	zhuang4 li4
+17563	壮烈
+	zhuang4 lie4
+17564	状态
+	zhuang4 tai4
+17565	壮志
+	zhuang4 zhi4
+17566	錐
+	zhui1
+17567	追查
+	zhui1 cha2
+17568	追道
+	zhui1 dao4
+17569	追赶
+	zhui1 gan3
+17570	追究
+	zhui1 jiu1
+17571	追赇
+	zhui1 qiu2
+17572	追问
+	zhui1 wen4
+17573	坠
+	zhui4
+17574	准
+	zhun3
+17575	准备
+	zhun3 bei4
+17576	准确
+	zhun3 que4
+17577	准时
+	zhun3 shi2
+17578	准许
+	zhun3 xu3
+17579	准则
+	zhun3 ze2
+17580	捉
+	zhuo1
+17581	桌子
+	zhuo1 zi5
+17582	浊
+	zhuo2
+17583	酌情
+	zhuo2 qing2
+17584	着手
+	zhuo2 shou3
+17585	着想
+	zhuo2 xiang3
+17586	鷟鸑
+	zhuo2 yue4
+17587	着重
+	zhuo2 zhong4
+17588	资
+	zi1
+17589	资本
+	zi1 ben3
+17590	资产
+	zi1 chan3
+17591	资格
+	zi1 ge2
+17592	资金
+	zi1 jin1
+17593	资料
+	zi1 liao4
+17594	资世
+	zi1 shi4
+17595	姿态
+	zi1 tai4
+17596	资位
+	zi1 wei4
+17597	谘询
+	zi1 xun2
+17598	资缘
+	zi1 yuan2
+17599	滋长
+	zi1 zhang3
+17600	资助
+	zi1 zhu4
+17601	紫
+	zi3
+17602	子弹
+	zi3 dan4
+17603	紫菂
+	zi3 di4
+17604	子孙
+	zi3 sun1
+17605	子细
+	zi3 xi4
+17606	自
+	zi4
+17607	自卑
+	zi4 bei1
+17608	自从
+	zi4 cong2
+17609	自点
+	zi4 dian3
+17610	自动
+	zi4 dong4
+17611	自发
+	zi4 fa1
+17612	自费
+	zi4 fei4
+17613	自负盈亏
+	zi4 fu4 ying2 kui1
+17614	自古
+	zi4 gu3
+17615	自豪
+	zi4 hao2
+17616	自给
+	zi4 ji3
+17617	自觉
+	zi4 jue2
+17618	自来水
+	zi4 lai2 shui3
+17619	自力更生
+	zi4 li4 geng1 sheng1
+17620	自满
+	zi4 man3
+17621	字母
+	zi4 mu3
+17622	自燃
+	zi4 ran2
+17623	自杀
+	zi4 sha1
+17624	自身
+	zi4 shen1
+17625	自始至终
+	zi4 shi3 zhi4 zhong1
+17626	自私
+	zi4 si1
+17627	自私自利
+	zi4 si1 zi4 li4
+17628	自慰
+	zi4 wei4
+17629	自我
+	zi4 wo3
+17630	自相矛盾
+	zi4 xiang1 mao2 dun4
+17631	自信
+	zi4 xin4
+17632	自行
+	zi4 xing2
+17633	自行车
+	zi4 xing2 che1
+17634	自学
+	zi4 xue2
+17635	自言自语
+	zi4 yan2 zi4 yu3
+17636	自繇
+	zi4 you2
+17637	自由市场
+	zi4 you2 shi4 chang3
+17638	自愿
+	zi4 yuan4
+17639	自致
+	zi4 zhi4
+17640	自治区
+	zi4 zhi4 qu1
+17641	自主
+	zi4 zhu3
+17642	宗
+	zong1
+17643	综覈
+	zong1 he2
+17644	踪迹
+	zong1 ji4
+17645	棕轿
+	zong1 jiao4
+17646	宗派
+	zong1 pai4
+17647	棕色
+	zong1 se4
+17648	宗旨
+	zong1 zhi3
+17649	总
+	zong3
+17650	总的来说
+	zong3 de5 lai2 shuo1
+17651	总得
+	zong3 dei3
+17652	总督
+	zong3 du1
+17653	总额
+	zong3 e2
+17654	总而言之
+	zong3 er2 yan2 zhi1
+17655	总共
+	zong3 gong4
+17656	总覈
+	zong3 he2
+17657	总髻
+	zong3 ji4
+17658	总结
+	zong3 jie2
+17659	总里
+	zong3 li3
+17660	总是
+	zong3 shi4
+17661	总述
+	zong3 shu4
+17662	总司令
+	zong3 si1 ling4
+17663	总算
+	zong3 suan4
+17664	总统
+	zong3 tong3
+17665	总务
+	zong3 wu4
+17666	总支
+	zong3 zhi1
+17667	纵
+	zong4
+17668	纵衡
+	zong4 heng2
+17669	走
+	zou3
+17670	走访
+	zou3 fang3
+17671	走狗
+	zou3 gou3
+17672	走廊
+	zou3 lang2
+17673	走漏
+	zou3 lou4
+17674	走私
+	zou3 si1
+17675	走弯路
+	zou3 wan1 lu4
+17676	走相
+	zou3 xiang4
+17677	㔿
+	zou4
+17678	葅
+	zu1
+17679	租金
+	zu1 jin1
+17680	镞
+	zu2
+17681	足球
+	zu2 qiu2
+17682	足以
+	zu2 yi3
+17683	组
+	zu3
+17684	阻隘
+	zu3 ai4
+17685	组成
+	zu3 cheng2
+17686	阻挡
+	zu3 dang3
+17687	祖父
+	zu3 fu4
+17688	祖国
+	zu3 guo2
+17689	阻阂
+	zu3 he2
+17690	阻拦
+	zu3 lan2
+17691	阻力
+	zu3 li4
+17692	祖母
+	zu3 mu3
+17693	阻挠
+	zu3 nao2
+17694	祖先
+	zu3 xian1
+17695	组长
+	zu3 zhang3
+17696	组织
+	zu3 zhi1
+17697	阻止
+	zu3 zhi3
+17698	躜
+	zuan1
+17699	钻研
+	zuan1 yan2
+17700	攥
+	zuan4
+17701	钻石
+	zuan4 shi2
+17702	嘴
+	zui3
+17703	嘴唇
+	zui3 chun2
+17704	罪
+	zui4
+17705	最初
+	zui4 chu1
+17706	辠恶
+	zui4 e4
+17707	罪犯
+	zui4 fan4
+17708	最好
+	zui4 hao3
+17709	醉侯
+	zui4 hou4
+17710	最近
+	zui4 jin4
+17711	罪名
+	zui4 ming2
+17712	罪行
+	zui4 xing2
+17713	罪状
+	zui4 zhuang4
+17714	尊
+	zun1
+17715	遵敬
+	zun1 jing4
+17716	遵守
+	zun1 shou3
+17717	遵循
+	zun1 xun2
+17718	尊颜
+	zun1 yan2
+17719	遵照
+	zun1 zhao4
+17720	尊重
+	zun1 zhong4
+17721	昨
+	zuo2
+17722	琢磨
+	zuo2 mo2
+17723	昨天
+	zuo2 tian1
+17724	左
+	zuo3
+17725	左右
+	zuo3 you4
+17726	做
+	zuo4
+17727	作案
+	zuo4 an4
+17728	坐班
+	zuo4 ban1
+17729	坐法
+	zuo4 fa3
+17730	坐废
+	zuo4 fei4
+17731	作风
+	zuo4 feng1
+17732	坐功
+	zuo4 gong1
+17733	坐家
+	zuo4 jia1
+17734	座客
+	zuo4 ke4
+17735	做梦
+	zuo4 meng4
+17736	做品
+	zuo4 pin3
+17737	座谈
+	zuo4 tan2
+17738	做为
+	zuo4 wei2
+17739	座位
+	zuo4 wei4
+17740	作文
+	zuo4 wen2
+17741	坐误
+	zuo4 wu4
+17742	坐夜
+	zuo4 ye4
+17743	做用
+	zuo4 yong4
+17744	座右铭
+	zuo4 you4 ming2
+17745	作战
+	zuo4 zhan4
+17746	作者
+	zuo4 zhe3
+17747	座主
+	zuo4 zhu3

@@ -124,8 +124,11 @@ if __name__ == "__main__":
             spec = get_spec(hps, wave_path)
 
             torch.save(spec, spec_path)
-            scrips.append(
-                f"./data/waves/{fileidx}.wav|./data/temps/{fileidx}.spec.pt|./data/berts/{fileidx}.npy|{phone_items_str}")
+            if 'sil sp sil' in phone_items_str:
+                print(message, pinyins, phone_items_str)
+            else:
+                scrips.append(f"./data/waves/{fileidx}.wav|./data/temps/{fileidx}.spec.pt|./data/berts/{fileidx}.npy|{phone_items_str}")
+            
         except:
             print(message)
     fo.close()

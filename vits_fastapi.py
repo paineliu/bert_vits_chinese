@@ -9,6 +9,7 @@ from fastapi.exceptions import RequestValidationError
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel
 from contextlib import asynccontextmanager
+from vits_minio import TTSStore
 from vits_mp3 import VitsInfer
 from fastapi import File, UploadFile
 import argparse
@@ -21,7 +22,7 @@ def parse_args():
     parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
     parser.add_argument('--model', type=str, default='logs/bert_vits/G_3470000.pth')
     parser.add_argument('-m', '--message', type=int, default=1, required=False, help='output debug message')
-    parser.add_argument('-p', '--port', type=int, default=8113, required=False, help='port number')
+    parser.add_argument('-p', '--port', type=int, default=11001, required=False, help='port number')
     parser.add_argument('-w', '--workers', type=int, default=1, required=False, help='worker number')
 
     return parser.parse_args()
@@ -51,7 +52,11 @@ class TtsModel(BaseModel):
     speed:float = 1.0
     volume:float = 1.0
     text:str
-    
+
+class Tts3Model(BaseModel):
+    speed:float = 1.0
+    volume:float = 1.0
+    sen:str
 
 @app.post("/tts")
 async def tts(ttsModel: TtsModel):
@@ -68,6 +73,26 @@ async def tts(ttsModel: TtsModel):
     print('{} {} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump(), end - start))
     
     return fr
+
+@app.post("/api_zh_blcu")
+async def api_zh_blcu(ttsModel: Tts3Model):
+    tts = TTSStore()
+    start = time.time()
+    args = ttsModel.model_dump()
+    sen = args['sen']
+    full_url = ''
+    if tts.exist(sen):
+        full_url = tts.full_url(sen)
+    else:
+        if tts.put(sen):
+            full_url = tts.full_url(sen)
+    respond = {'code':200, 'msg':'ok', 'mp3':full_url}
+    end = time.time()
+
+    print('{} {} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump(), end - start))
+    
+    return JSONResponse(content=respond)
+
 
 if __name__ == "__main__":
     args = parse_args()

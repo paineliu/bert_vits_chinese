@@ -13,7 +13,7 @@ from vits_pinyin import VITS_PinYin
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
 parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
-parser.add_argument('--model', type=str, default='logs/bert_vits_fmale/G_1030000.pth')
+parser.add_argument('--model', type=str, default='logs/bert_vits/G_430000.pth')
 args = parser.parse_args()
 
 def save_wav(wav, path, rate):
@@ -63,7 +63,8 @@ if __name__ == "__main__":
             x_tst = torch.LongTensor(input_ids).unsqueeze(0).to(device)
             x_tst_lengths = torch.LongTensor([len(input_ids)]).to(device)
             x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(device)
-            audio = net_g.infer(x_tst, x_tst_lengths, x_tst_prosody, noise_scale=0.5,
+            x_tst_prosody = None
+            audio = net_g.infer(x_tst, x_tst_lengths, bert=x_tst_prosody, noise_scale=0.5,
                                 length_scale=1.0)[0][0, 0].data.cpu().float().numpy()
         save_wav(audio, f"./vits_infer_out/bert_vits_{n}.wav", hps.data.sampling_rate)
     fo.close()

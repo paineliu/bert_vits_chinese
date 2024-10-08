@@ -8,8 +8,9 @@ def http_post(ip, port, path, query):
     url = 'http://%s:%s/%s' % (ip, port, path)
     print(url)
     try:
-        r = requests.post(url=url, data=query)
-        return r.content
+        headers = {'Content-Type': 'application/json'}
+        r = requests.post(url=url, data=query, headers=headers)
+        return r.text
     except:
         return ""
     
@@ -27,9 +28,19 @@ def test_tts(ip, port, text):
     print(filename)
     print()
 
+def test_tts3(ip, port, text):
+    
+    query_json = {}
+    query_json['sen'] = text
+    ret = http_post(ip, port, 'tts3', json.dumps(query_json))
+    print(ret)
+
 
 if __name__ == "__main__":
-    svr_ip = '202.112.194.54'
-    svr_port = '8113'
+    # svr_ip = '202.112.194.54'
+    # svr_port = '8113'
     
-    test_tts(svr_ip, svr_port, '苹果能吃吗？可以吃！')
+    # test_tts(svr_ip, svr_port, '苹果能吃吗？可以吃！')
+    svr_ip = '127.0.0.1'
+    svr_port = '11001'
+    test_tts3(svr_ip, svr_port, '苹果能吃吗？可以吃！')
