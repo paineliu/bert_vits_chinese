@@ -62,7 +62,7 @@ if __name__ == "__main__":
         with torch.no_grad():
             x_tst = torch.LongTensor(input_ids).unsqueeze(0).to(device)
             x_tst_lengths = torch.LongTensor([len(input_ids)]).to(device)
-            x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(device)
+            # x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(device)
             x_tst_prosody = None
             audio = net_g.infer(x_tst, x_tst_lengths, bert=x_tst_prosody, noise_scale=0.5,
                                 length_scale=1.0)[0][0, 0].data.cpu().float().numpy()

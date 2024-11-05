@@ -4,7 +4,7 @@ from tn.chinese.normalizer import Normalizer
 
 from pypinyin import lazy_pinyin, Style
 from pypinyin.core import load_phrases_dict
-
+from pypinyin.contrib.tone_convert import to_tone3
 from text import pinyin_dict
 from bert import TTSProsody
 import torch
@@ -88,6 +88,26 @@ class VITS_PinYin:
         return words, map_fix_pinyin
 
     def chinese_to_phonemes(self, text):
+        pinyins = text.split(' ')
+        is_pinyin3 = True
+        pinyin3_lst = []
+        for pinyin in pinyins:
+            pinyin3 = self.pinyin_to_tone3(pinyin)
+            if len(pinyin3) == 0:
+                is_pinyin3 = False
+                break
+            pinyin3_lst.append(pinyin3)
+
+        if is_pinyin3:
+            char_embeds = ''
+            phonemes = ["sil"]
+            sub_p, sub_c = self.get_phoneme4pinyin(pinyin3_lst)
+            phonemes.extend(sub_p)
+            phonemes.append("sp")
+            phonemes.append("sil")
+            return " ".join(phonemes), char_embeds
+
+            
         text, map_pinyin_fix = self.get_fix_pinyin(text)
         text = self.normalizer.normalize(text)
         text = clean_chinese(text)
@@ -126,6 +146,9 @@ class VITS_PinYin:
                                   tone_sandhi=True)
         # , tone_sandhi=True -> 33变调
         return pinyin_list
+
+    def pinyin_to_tone3(self, text):
+        return to_tone3(text)
 
 
 if __name__ == "__main__":

@@ -10,7 +10,7 @@ def http_post(ip, port, path, query):
     try:
         headers = {'Content-Type': 'application/json'}
         r = requests.post(url=url, data=query, headers=headers)
-        return r.text
+        return r.content
     except:
         return ""
     
@@ -40,7 +40,7 @@ if __name__ == "__main__":
     svr_ip = '202.112.194.54'
     svr_port = '8113'
     
-    # test_tts(svr_ip, svr_port, '苹果能吃吗？可以吃！')
+    test_tts(svr_ip, svr_port, '儿子')
     # svr_ip = '127.0.0.1'
     # svr_port = '8113'
-    test_api_zh_blcu(svr_ip, svr_port, '苹果能吃吗？可以吃！')
+    test_api_zh_blcu(svr_ip, svr_port, '儿子')
