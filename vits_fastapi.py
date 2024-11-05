@@ -20,7 +20,7 @@ from starlette.responses import FileResponse
 def parse_args():
     parser = argparse.ArgumentParser(description='vits server')
     parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
-    parser.add_argument('--model', type=str, default='logs/bert_vits/G_1760000.pth')
+    parser.add_argument('--model', type=str, default='logs/bert_vits/G_2170000.pth')
     parser.add_argument('-m', '--message', type=int, default=1, required=False, help='output debug message')
     parser.add_argument('-p', '--port', type=int, default=8113, required=False, help='port number')
     parser.add_argument('-w', '--workers', type=int, default=2, required=False, help='worker number')
