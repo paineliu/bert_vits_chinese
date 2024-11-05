@@ -66,14 +66,14 @@ class VitsInfer():
         wav_filename = os.path.join(pathname, filename + '.wav')
         mp3_filename = os.path.join(pathname, filename + '.mp3')
         if not use_cache or not os.path.isfile(mp3_filename): 
-            phonemes, char_embeds = self.tts_front.chinese_to_phonemes(text)
+            phonemes, _ = self.tts_front.chinese_to_phonemes(text)
             input_ids = cleaned_text_to_sequence(phonemes)
             
             with torch.no_grad():
                 x_tst = torch.LongTensor(input_ids).unsqueeze(0).to(self.device)
                 x_tst_lengths = torch.LongTensor([len(input_ids)]).to(self.device)
-                x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(self.device)
-                audio = self.net_g.infer(x_tst, x_tst_lengths, x_tst_prosody, noise_scale=0.5,
+                # x_tst_prosody = torch.FloatTensor(char_embeds).unsqueeze(0).to(self.device)
+                audio = self.net_g.infer(x_tst, x_tst_lengths, noise_scale=0.5,
                                     length_scale=length_scale)[0][0, 0].data.cpu().float().numpy()
             self.save_wav(audio, wav_filename, self.hps.data.sampling_rate)
             self.wav2mp3(wav_filename, mp3_filename)
