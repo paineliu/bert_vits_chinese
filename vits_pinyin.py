@@ -93,7 +93,7 @@ class VITS_PinYin:
         pinyin3_lst = []
         for pinyin in pinyins:
             pinyin3 = self.pinyin_to_tone3(pinyin)
-            if len(pinyin3) == 0:
+            if len(pinyin3) == 0 or pinyin3 == pinyin:
                 is_pinyin3 = False
                 break
             pinyin3_lst.append(pinyin3)
