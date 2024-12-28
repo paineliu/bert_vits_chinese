@@ -56,7 +56,7 @@ class TtsModel(BaseModel):
 class Tts3Model(BaseModel):
     speed:float = 1.0
     volume:float = 1.0
-    sen:str
+    text:str
 
 @app.post("/tts")
 async def tts(ttsModel: TtsModel):
@@ -74,19 +74,19 @@ async def tts(ttsModel: TtsModel):
     
     return fr
 
-@app.post("/api_zh_blcu")
-async def api_zh_blcu(ttsModel: Tts3Model):
+@app.post("/tts_mp3")
+async def tts_mp3(ttsModel: Tts3Model):
     tts = TTSStore()
     start = time.time()
     args = ttsModel.model_dump()
-    sen = args['sen']
+    sen = args['text']
     full_url = ''
     if tts.exist(sen):
         full_url = tts.full_url(sen)
     else:
         if tts.put(sen):
             full_url = tts.full_url(sen)
-    respond = {'code':200, 'msg':'ok', 'mp3':full_url}
+    respond = {'code':200, 'message':'ok', 'mp3':full_url}
     end = time.time()
 
     print('{} {} {}'.format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime()), ttsModel.model_dump(), end - start))

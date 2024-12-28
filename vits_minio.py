@@ -10,11 +10,10 @@ class TTSStore():
 
     def __init__(self):
         self.client = Minio(
-            #https://cit.blcu.edu.cn:9000
-            endpoint = "cit.blcu.edu.cn:9000",
+            endpoint = "202.112.194.52:9000",
             access_key= "LzfVsgnMjj0TcMl3ifRs",
             secret_key= "AUxon1AtiYmoU05jZx8TYrTpN87tPk5ac1xYDtdU",
-            secure= True)
+            secure= False)
         self.spokesman = 'xiaobei'
 
     def text_to_mp3(self, text, mp3_filename):

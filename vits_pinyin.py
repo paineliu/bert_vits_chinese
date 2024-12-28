@@ -88,24 +88,24 @@ class VITS_PinYin:
         return words, map_fix_pinyin
 
     def chinese_to_phonemes(self, text):
-        pinyins = text.split(' ')
-        is_pinyin3 = True
-        pinyin3_lst = []
-        for pinyin in pinyins:
-            pinyin3 = self.pinyin_to_tone3(pinyin)
-            if not pinyin3.isalnum():
-                is_pinyin3 = False
-                break
-            pinyin3_lst.append(pinyin3)
+        # pinyins = text.split(' ')
+        # is_pinyin3 = True
+        # pinyin3_lst = []
+        # for pinyin in pinyins:
+        #     pinyin3 = self.pinyin_to_tone3(pinyin)
+        #     if not pinyin3.isalnum():
+        #         is_pinyin3 = False
+        #         break
+        #     pinyin3_lst.append(pinyin3)
 
-        if is_pinyin3:
-            char_embeds = ''
-            phonemes = ["sil"]
-            sub_p, sub_c = self.get_phoneme4pinyin(pinyin3_lst)
-            phonemes.extend(sub_p)
-            phonemes.append("sp")
-            phonemes.append("sil")
-            return " ".join(phonemes), char_embeds
+        # if is_pinyin3:
+        #     char_embeds = ''
+        #     phonemes = ["sil"]
+        #     sub_p, sub_c = self.get_phoneme4pinyin(pinyin3_lst)
+        #     phonemes.extend(sub_p)
+        #     phonemes.append("sp")
+        #     phonemes.append("sil")
+        #     return " ".join(phonemes), char_embeds
 
             
         text, map_pinyin_fix = self.get_fix_pinyin(text)
