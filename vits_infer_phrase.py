@@ -1,4 +1,5 @@
 import os
+import re
 import sys
 import numpy as np
 
@@ -44,15 +45,22 @@ utils.load_model(args.model, net_g)
 net_g.eval()
 net_g.to(device)
 
+# 判断是否为中文字符串
+def is_chinese(s):
+    return re.match(r'^[\u4e00-\u9fa5]+$', s)
+
 def make_phrase_tts(phrase_filename, out_path):
     os.makedirs(out_path, exist_ok=True)
     n = 0
     f = open(phrase_filename, "r", encoding='utf-8')
     for line in f:
         items = line.strip().split()
-        if len(items) > 1:
+        if len(items) == 1:
             n = n + 1
-            phrase = items[1]
+            phrase = items[0]
+            if not is_chinese(phrase):
+                print(f"not chinese: {phrase}")
+                continue
             if os.path.isfile(f"{out_path}/{phrase}.wav"):
                 continue
             print(f"processing {n} {phrase}")
@@ -69,4 +77,4 @@ def make_phrase_tts(phrase_filename, out_path):
     f.close()
 
 if __name__ == "__main__":
-    make_phrase_tts("./all.txt", "./all_out")
+    make_phrase_tts("./ci.txt", "./ci_out")

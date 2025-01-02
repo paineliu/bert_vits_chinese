@@ -14,11 +14,11 @@ def http_post(ip, port, path, query):
     except:
         return ""
     
-def test_tts(ip, port, text):
+def test_tts1(ip, port, text):
     
     query_json = {}
     query_json['text'] = text
-    ret = http_post(ip, port, 'tts', json.dumps(query_json))
+    ret = http_post(ip, port, 'tts1', json.dumps(query_json))
     md5 = hashlib.md5()
     md5.update(text.encode())
     filename = md5.hexdigest() + '.mp3'
@@ -28,11 +28,11 @@ def test_tts(ip, port, text):
     print(filename)
     print()
 
-def test_api_zh_blcu(ip, port, text):
+def test_tts(ip, port, text):
     
     query_json = {}
-    query_json['sen'] = text
-    ret = http_post(ip, port, 'api_zh_blcu', json.dumps(query_json))
+    query_json['text'] = text
+    ret = http_post(ip, port, 'tts', json.dumps(query_json))
     print(ret)
 
 
@@ -43,4 +43,4 @@ if __name__ == "__main__":
     test_tts(svr_ip, svr_port, '儿子')
     # svr_ip = '127.0.0.1'
     # svr_port = '8113'
-    test_api_zh_blcu(svr_ip, svr_port, '儿子')
+    # test_tts1(svr_ip, svr_port, '儿子')
