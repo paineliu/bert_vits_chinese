@@ -11,6 +11,8 @@ from scipy.io import wavfile
 from text.symbols import symbols
 from text import cleaned_text_to_sequence
 from vits_pinyin import VITS_PinYin
+import logging
+from pydub import AudioSegment
 
 parser = argparse.ArgumentParser(description='Inference code for bert vits models')
 parser.add_argument('--config', type=str, default='./configs/bert_vits.json')
@@ -20,6 +22,13 @@ args = parser.parse_args()
 def save_wav(wav, path, rate):
     wav *= 32767 / max(0.01, np.max(np.abs(wav))) * 0.6
     wavfile.write(path, rate, wav.astype(np.int16))
+
+def wav2mp3(wav_filename, mp3_filename):
+    l = logging.getLogger("pydub.converter")
+    l.setLevel(logging.ERROR)
+    sourcefile = AudioSegment.from_wav(wav_filename)
+    sourcefile.export(mp3_filename, format="mp3")
+
 
 # device
 # device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -49,8 +58,9 @@ net_g.to(device)
 def is_chinese(s):
     return re.match(r'^[\u4e00-\u9fa5]+$', s)
 
-def make_phrase_tts(phrase_filename, out_path):
+def make_phrase_tts(phrase_filename, out_path, mp3_out_path):
     os.makedirs(out_path, exist_ok=True)
+    os.makedirs(mp3_out_path, exist_ok=True)
     n = 0
     f = open(phrase_filename, "r", encoding='utf-8')
     for line in f:
@@ -58,8 +68,8 @@ def make_phrase_tts(phrase_filename, out_path):
         if len(items) == 1:
             n = n + 1
             phrase = items[0]
-            if not is_chinese(phrase):
-                print(f"not chinese: {phrase}")
+            if is_chinese(phrase):
+                print(f"chinese: {phrase}")
                 continue
             if os.path.isfile(f"{out_path}/{phrase}.wav"):
                 continue
@@ -74,7 +84,8 @@ def make_phrase_tts(phrase_filename, out_path):
                 audio = net_g.infer(x_tst, x_tst_lengths, bert=x_tst_prosody, noise_scale=0.5,
                                     length_scale=1.0)[0][0, 0].data.cpu().float().numpy()
             save_wav(audio, f"{out_path}/{phrase}.wav", hps.data.sampling_rate)
+            wav2mp3(f"{out_path}/{phrase}.wav", f"{mp3_out_path}/{phrase}.mp3")
     f.close()
 
 if __name__ == "__main__":
-    make_phrase_tts("./ci.txt", "./ci_out")
+    make_phrase_tts("./ci.txt", "./ci_no_chinese_out", "./ci_no_chinese_mp3_out")

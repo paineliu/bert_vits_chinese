@@ -17,7 +17,7 @@ class TTSStore():
         self.spokesman = 'xiaobei'
 
     def text_to_mp3(self, text, mp3_filename):
-        tts_url = 'http://202.112.194.54:8113/tts'
+        tts_url = 'http://202.112.194.54:8113/tts_mp3'
         tts_data = json.dumps({
             'text': text,
             'speed': 1

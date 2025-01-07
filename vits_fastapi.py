@@ -58,8 +58,8 @@ class Tts3Model(BaseModel):
     volume:float = 1.0
     text:str
 
-@app.post("/tts1")
-async def tts1(ttsModel: TtsModel):
+@app.post("/tts_mp3")
+async def tts_mp3(ttsModel: TtsModel):
     start = time.time()
     args = ttsModel.model_dump()
     filename = g_vits.infer(args['text'])

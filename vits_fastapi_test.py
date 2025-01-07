@@ -40,7 +40,7 @@ if __name__ == "__main__":
     svr_ip = '202.112.194.54'
     svr_port = '8113'
     
-    test_tts(svr_ip, svr_port, '儿子')
+    test_tts(svr_ip, svr_port, '我有很多梦想。')
     # svr_ip = '127.0.0.1'
     # svr_port = '8113'
     # test_tts1(svr_ip, svr_port, '儿子')
